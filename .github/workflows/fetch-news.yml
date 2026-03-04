@@ -2,9 +2,9 @@ name: Fetch News
 
 on:
   schedule:
-    # Run every 6 hours
+    # Run every 6 hours: midnight, 6am, noon, 6pm UTC
     - cron: '0 */6 * * *'
-  workflow_dispatch: # Allow manual trigger only
+  workflow_dispatch: # Allow manual trigger
 
 permissions:
   contents: write
@@ -12,6 +12,7 @@ permissions:
 jobs:
   fetch:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
 
@@ -22,6 +23,7 @@ jobs:
 
       - name: Fetch news
         run: python scripts/fetch_news.py
+        continue-on-error: false
 
       - name: Commit and push
         run: |
