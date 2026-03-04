@@ -1,0 +1,867 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DC Pulse — Datacenter & CoreWeave Intelligence</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-primary: #0a0a0f;
+            --bg-secondary: #12121a;
+            --bg-card: #16161f;
+            --bg-card-hover: #1c1c28;
+            --border: #1e1e2e;
+            --border-accent: #2a2a3e;
+            --text-primary: #e8e8f0;
+            --text-secondary: #8888a0;
+            --text-muted: #555570;
+            --accent-blue: #4a9eff;
+            --accent-blue-dim: #1a3a5c;
+            --accent-green: #34d399;
+            --accent-green-dim: #0d3d2e;
+            --accent-orange: #f59e0b;
+            --accent-orange-dim: #3d2800;
+            --accent-red: #ef4444;
+            --accent-purple: #a78bfa;
+            --accent-purple-dim: #2a1f4e;
+            --gradient-blue: linear-gradient(135deg, #4a9eff 0%, #7c3aed 100%);
+            --gradient-green: linear-gradient(135deg, #34d399 0%, #4a9eff 100%);
+            --shadow-card: 0 1px 3px rgba(0,0,0,0.3), 0 4px 12px rgba(0,0,0,0.2);
+            --shadow-card-hover: 0 4px 12px rgba(0,0,0,0.4), 0 8px 24px rgba(0,0,0,0.3);
+            --radius: 12px;
+            --radius-sm: 8px;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            min-height: 100vh;
+            overflow-x: hidden;
+        }
+
+        /* Subtle grid background */
+        body::before {
+            content: '';
+            position: fixed;
+            inset: 0;
+            background-image: 
+                linear-gradient(rgba(74,158,255,0.03) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(74,158,255,0.03) 1px, transparent 1px);
+            background-size: 60px 60px;
+            pointer-events: none;
+            z-index: 0;
+        }
+
+        /* Header */
+        .header {
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            background: rgba(10,10,15,0.85);
+            backdrop-filter: blur(20px);
+            border-bottom: 1px solid var(--border);
+            padding: 0 2rem;
+        }
+
+        .header-inner {
+            max-width: 1600px;
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            height: 64px;
+        }
+
+        .logo {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .logo-icon {
+            width: 36px;
+            height: 36px;
+            background: var(--gradient-blue);
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 18px;
+            font-weight: 800;
+            color: white;
+            letter-spacing: -1px;
+        }
+
+        .logo-text {
+            font-size: 20px;
+            font-weight: 700;
+            letter-spacing: -0.5px;
+        }
+
+        .logo-text span {
+            color: var(--text-muted);
+            font-weight: 400;
+            margin-left: 8px;
+            font-size: 13px;
+        }
+
+        .header-meta {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+        }
+
+        .live-dot {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            font-size: 12px;
+            color: var(--text-secondary);
+            font-family: 'JetBrains Mono', monospace;
+        }
+
+        .live-dot::before {
+            content: '';
+            width: 8px;
+            height: 8px;
+            background: var(--accent-green);
+            border-radius: 50%;
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.4; }
+        }
+
+        .last-updated {
+            font-size: 12px;
+            color: var(--text-muted);
+            font-family: 'JetBrains Mono', monospace;
+        }
+
+        /* Navigation tabs */
+        .nav-tabs {
+            display: flex;
+            gap: 2px;
+            background: var(--bg-secondary);
+            border-radius: var(--radius);
+            padding: 3px;
+            margin-left: 24px;
+        }
+
+        .nav-tab {
+            padding: 7px 16px;
+            border-radius: 9px;
+            font-size: 13px;
+            font-weight: 500;
+            color: var(--text-secondary);
+            cursor: pointer;
+            transition: all 0.2s;
+            border: none;
+            background: none;
+            white-space: nowrap;
+        }
+
+        .nav-tab:hover {
+            color: var(--text-primary);
+        }
+
+        .nav-tab.active {
+            background: var(--bg-card);
+            color: var(--text-primary);
+            box-shadow: 0 1px 4px rgba(0,0,0,0.3);
+        }
+
+        /* Main content */
+        .main {
+            position: relative;
+            z-index: 1;
+            max-width: 1600px;
+            margin: 0 auto;
+            padding: 24px 2rem 4rem;
+        }
+
+        /* Stats bar */
+        .stats-bar {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 12px;
+            margin-bottom: 24px;
+        }
+
+        .stat-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            padding: 16px 20px;
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+        }
+
+        .stat-label {
+            font-size: 11px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.8px;
+            color: var(--text-muted);
+        }
+
+        .stat-value {
+            font-size: 28px;
+            font-weight: 800;
+            letter-spacing: -1px;
+        }
+
+        .stat-value.blue { color: var(--accent-blue); }
+        .stat-value.green { color: var(--accent-green); }
+        .stat-value.orange { color: var(--accent-orange); }
+        .stat-value.purple { color: var(--accent-purple); }
+
+        .stat-sub {
+            font-size: 12px;
+            color: var(--text-secondary);
+        }
+
+        /* Search & filter bar */
+        .controls {
+            display: flex;
+            gap: 12px;
+            margin-bottom: 24px;
+            align-items: center;
+        }
+
+        .search-box {
+            flex: 1;
+            position: relative;
+        }
+
+        .search-box input {
+            width: 100%;
+            padding: 10px 16px 10px 40px;
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: var(--radius-sm);
+            color: var(--text-primary);
+            font-size: 14px;
+            font-family: 'Inter', sans-serif;
+            transition: border-color 0.2s;
+            outline: none;
+        }
+
+        .search-box input:focus {
+            border-color: var(--accent-blue);
+        }
+
+        .search-box input::placeholder {
+            color: var(--text-muted);
+        }
+
+        .search-box::before {
+            content: '⌕';
+            position: absolute;
+            left: 14px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: var(--text-muted);
+            font-size: 16px;
+        }
+
+        .filter-btn {
+            padding: 10px 16px;
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: var(--radius-sm);
+            color: var(--text-secondary);
+            font-size: 13px;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.2s;
+            white-space: nowrap;
+            font-family: 'Inter', sans-serif;
+        }
+
+        .filter-btn:hover, .filter-btn.active {
+            border-color: var(--accent-blue);
+            color: var(--accent-blue);
+            background: var(--accent-blue-dim);
+        }
+
+        /* Feed sections */
+        .feed-section {
+            margin-bottom: 32px;
+        }
+
+        .section-header {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 16px;
+            padding-bottom: 12px;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .section-icon {
+            width: 32px;
+            height: 32px;
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 16px;
+        }
+
+        .section-icon.dc { background: var(--accent-blue-dim); }
+        .section-icon.cw { background: var(--accent-green-dim); }
+
+        .section-title {
+            font-size: 16px;
+            font-weight: 700;
+            letter-spacing: -0.3px;
+        }
+
+        .section-count {
+            font-size: 12px;
+            color: var(--text-muted);
+            font-family: 'JetBrains Mono', monospace;
+            margin-left: auto;
+        }
+
+        /* News cards */
+        .news-grid {
+            display: grid;
+            gap: 10px;
+        }
+
+        .news-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            padding: 16px 20px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            display: grid;
+            grid-template-columns: auto 1fr auto;
+            gap: 16px;
+            align-items: start;
+            text-decoration: none;
+            color: inherit;
+        }
+
+        .news-card:hover {
+            background: var(--bg-card-hover);
+            border-color: var(--border-accent);
+            box-shadow: var(--shadow-card-hover);
+            transform: translateY(-1px);
+        }
+
+        .importance-bar {
+            width: 4px;
+            border-radius: 4px;
+            min-height: 48px;
+            align-self: stretch;
+        }
+
+        .importance-bar.critical { background: var(--accent-red); }
+        .importance-bar.high { background: var(--accent-orange); }
+        .importance-bar.medium { background: var(--accent-blue); }
+        .importance-bar.low { background: var(--text-muted); }
+
+        .news-content {
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+            min-width: 0;
+        }
+
+        .news-title {
+            font-size: 15px;
+            font-weight: 600;
+            line-height: 1.4;
+            letter-spacing: -0.2px;
+        }
+
+        .news-snippet {
+            font-size: 13px;
+            color: var(--text-secondary);
+            line-height: 1.5;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+
+        .news-meta {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            flex-wrap: wrap;
+        }
+
+        .news-source {
+            font-size: 11px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            color: var(--accent-blue);
+        }
+
+        .news-time {
+            font-size: 11px;
+            color: var(--text-muted);
+            font-family: 'JetBrains Mono', monospace;
+        }
+
+        .news-tags {
+            display: flex;
+            gap: 6px;
+            flex-wrap: wrap;
+        }
+
+        .tag {
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 10px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .tag.construction { background: var(--accent-blue-dim); color: var(--accent-blue); }
+        .tag.investment { background: var(--accent-green-dim); color: var(--accent-green); }
+        .tag.expansion { background: var(--accent-purple-dim); color: var(--accent-purple); }
+        .tag.policy { background: var(--accent-orange-dim); color: var(--accent-orange); }
+        .tag.coreweave { background: var(--accent-green-dim); color: var(--accent-green); }
+
+        .news-importance {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 4px;
+            padding-top: 2px;
+        }
+
+        .importance-label {
+            font-size: 10px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .importance-label.critical { color: var(--accent-red); }
+        .importance-label.high { color: var(--accent-orange); }
+        .importance-label.medium { color: var(--accent-blue); }
+        .importance-label.low { color: var(--text-muted); }
+
+        /* Loading & empty states */
+        .loading {
+            text-align: center;
+            padding: 60px 20px;
+            color: var(--text-muted);
+        }
+
+        .loading-spinner {
+            width: 40px;
+            height: 40px;
+            border: 3px solid var(--border);
+            border-top: 3px solid var(--accent-blue);
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 16px;
+        }
+
+        @keyframes spin { to { transform: rotate(360deg); } }
+
+        .empty-state {
+            text-align: center;
+            padding: 60px 20px;
+            color: var(--text-muted);
+        }
+
+        /* View toggle */
+        .view-toggle {
+            display: flex;
+            gap: 2px;
+            background: var(--bg-secondary);
+            border-radius: var(--radius-sm);
+            padding: 3px;
+        }
+
+        .view-btn {
+            padding: 6px 12px;
+            border: none;
+            background: none;
+            color: var(--text-muted);
+            cursor: pointer;
+            border-radius: 6px;
+            font-size: 13px;
+            transition: all 0.2s;
+        }
+
+        .view-btn.active {
+            background: var(--bg-card);
+            color: var(--text-primary);
+        }
+
+        /* Tab content */
+        .tab-content {
+            display: none;
+        }
+
+        .tab-content.active {
+            display: block;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .header { padding: 0 1rem; }
+            .main { padding: 16px 1rem 3rem; }
+            .stats-bar { grid-template-columns: repeat(2, 1fr); }
+            .nav-tabs { display: none; }
+            .header-meta { gap: 12px; }
+            .controls { flex-wrap: wrap; }
+            .news-card { grid-template-columns: auto 1fr; }
+            .news-importance { display: none; }
+        }
+
+        @media (max-width: 480px) {
+            .stats-bar { grid-template-columns: 1fr; }
+        }
+
+        /* Footer */
+        .footer {
+            text-align: center;
+            padding: 24px;
+            color: var(--text-muted);
+            font-size: 12px;
+            border-top: 1px solid var(--border);
+            max-width: 1600px;
+            margin: 0 auto;
+        }
+
+        .footer a {
+            color: var(--accent-blue);
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <div class="header-inner">
+            <div class="logo">
+                <div class="logo-icon">DC</div>
+                <div class="logo-text">DC Pulse <span>Intelligence Dashboard</span></div>
+            </div>
+            <nav class="nav-tabs">
+                <button class="nav-tab active" data-tab="all">All News</button>
+                <button class="nav-tab" data-tab="datacenter">🏗 Datacenters</button>
+                <button class="nav-tab" data-tab="coreweave">⚡ CoreWeave</button>
+            </nav>
+            <div class="header-meta">
+                <div class="live-dot">LIVE</div>
+                <div class="last-updated" id="lastUpdated">—</div>
+            </div>
+        </div>
+    </header>
+
+    <main class="main">
+        <!-- Stats Bar -->
+        <div class="stats-bar">
+            <div class="stat-card">
+                <div class="stat-label">Total Stories</div>
+                <div class="stat-value blue" id="statTotal">—</div>
+                <div class="stat-sub">across all feeds</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-label">Datacenter News</div>
+                <div class="stat-value green" id="statDC">—</div>
+                <div class="stat-sub">construction & expansion</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-label">CoreWeave</div>
+                <div class="stat-value orange" id="statCW">—</div>
+                <div class="stat-sub">latest updates</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-label">High Priority</div>
+                <div class="stat-value purple" id="statHigh">—</div>
+                <div class="stat-sub">critical + high importance</div>
+            </div>
+        </div>
+
+        <!-- Controls -->
+        <div class="controls">
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="Search news stories...">
+            </div>
+            <button class="filter-btn active" data-importance="all">All</button>
+            <button class="filter-btn" data-importance="critical">🔴 Critical</button>
+            <button class="filter-btn" data-importance="high">🟠 High</button>
+            <button class="filter-btn" data-importance="medium">🔵 Medium</button>
+        </div>
+
+        <!-- All News Tab -->
+        <div class="tab-content active" id="tab-all">
+            <div class="feed-section">
+                <div class="section-header">
+                    <div class="section-icon dc">🏗</div>
+                    <div class="section-title">US Datacenter Construction & Infrastructure</div>
+                    <div class="section-count" id="dcCount">—</div>
+                </div>
+                <div class="news-grid" id="dcNews">
+                    <div class="loading"><div class="loading-spinner"></div>Loading datacenter news...</div>
+                </div>
+            </div>
+            <div class="feed-section">
+                <div class="section-header">
+                    <div class="section-icon cw">⚡</div>
+                    <div class="section-title">CoreWeave News & Updates</div>
+                    <div class="section-count" id="cwCount">—</div>
+                </div>
+                <div class="news-grid" id="cwNews">
+                    <div class="loading"><div class="loading-spinner"></div>Loading CoreWeave news...</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Datacenter Only Tab -->
+        <div class="tab-content" id="tab-datacenter">
+            <div class="feed-section">
+                <div class="section-header">
+                    <div class="section-icon dc">🏗</div>
+                    <div class="section-title">US Datacenter Construction & Infrastructure</div>
+                    <div class="section-count" id="dcCount2">—</div>
+                </div>
+                <div class="news-grid" id="dcNews2"></div>
+            </div>
+        </div>
+
+        <!-- CoreWeave Only Tab -->
+        <div class="tab-content" id="tab-coreweave">
+            <div class="feed-section">
+                <div class="section-header">
+                    <div class="section-icon cw">⚡</div>
+                    <div class="section-title">CoreWeave News & Updates</div>
+                    <div class="section-count" id="cwCount2">—</div>
+                </div>
+                <div class="news-grid" id="cwNews2"></div>
+            </div>
+        </div>
+    </main>
+
+    <footer class="footer">
+        DC Pulse — Automated intelligence dashboard. Data refreshed every 6 hours via GitHub Actions.<br>
+        Built with 🔧 by <a href="https://github.com/alexchalu">Rando</a>
+    </footer>
+
+    <script>
+        // ============ Configuration ============
+        const DATA_BASE = './data';
+        const FEEDS = {
+            datacenter: `${DATA_BASE}/datacenter.json`,
+            coreweave: `${DATA_BASE}/coreweave.json`,
+            meta: `${DATA_BASE}/meta.json`
+        };
+
+        // ============ Importance Scoring ============
+        const IMPORTANCE_KEYWORDS = {
+            critical: ['billion', '$1b', '$2b', '$5b', '$10b', 'hyperscale', 'gigawatt', 'gw ', 'national security', 'executive order', 'ipo', 'acquisition'],
+            high: ['million', '$100m', '$500m', 'new campus', 'groundbreaking', 'partnership', 'expansion', 'contract', 'awarded', 'approved', 'permit', 'nvidia', 'gpu cluster'],
+            medium: ['construction', 'development', 'planned', 'announced', 'update', 'progress', 'hiring', 'power', 'energy', 'cooling']
+        };
+
+        function scoreImportance(title, snippet) {
+            const text = `${title} ${snippet}`.toLowerCase();
+            for (const [level, keywords] of Object.entries(IMPORTANCE_KEYWORDS)) {
+                if (keywords.some(k => text.includes(k))) return level;
+            }
+            return 'low';
+        }
+
+        // ============ Tag Detection ============
+        function detectTags(title, snippet) {
+            const text = `${title} ${snippet}`.toLowerCase();
+            const tags = [];
+            if (text.match(/construct|build|broke ground|groundbreak/)) tags.push('construction');
+            if (text.match(/invest|fund|financ|billion|million|\$/)) tags.push('investment');
+            if (text.match(/expan|grow|new campus|new site|scale/)) tags.push('expansion');
+            if (text.match(/polic|regulat|permit|govern|legislat|bill|act/)) tags.push('policy');
+            if (text.match(/coreweave/)) tags.push('coreweave');
+            return tags.slice(0, 3);
+        }
+
+        // ============ Time Formatting ============
+        function timeAgo(dateStr) {
+            const date = new Date(dateStr);
+            const now = new Date();
+            const diff = Math.floor((now - date) / 1000);
+            if (diff < 60) return 'just now';
+            if (diff < 3600) return `${Math.floor(diff/60)}m ago`;
+            if (diff < 86400) return `${Math.floor(diff/3600)}h ago`;
+            if (diff < 604800) return `${Math.floor(diff/86400)}d ago`;
+            return date.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+        }
+
+        // ============ Render News Card ============
+        function renderCard(item) {
+            const importance = item.importance || scoreImportance(item.title, item.snippet || '');
+            const tags = item.tags || detectTags(item.title, item.snippet || '');
+            const tagsHtml = tags.map(t => `<span class="tag ${t}">${t}</span>`).join('');
+
+            return `
+                <a class="news-card" href="${item.link}" target="_blank" rel="noopener" data-importance="${importance}">
+                    <div class="importance-bar ${importance}"></div>
+                    <div class="news-content">
+                        <div class="news-title">${escapeHtml(item.title)}</div>
+                        ${item.snippet ? `<div class="news-snippet">${escapeHtml(item.snippet)}</div>` : ''}
+                        <div class="news-meta">
+                            <span class="news-source">${escapeHtml(item.source || 'Unknown')}</span>
+                            <span class="news-time">${timeAgo(item.published)}</span>
+                            <div class="news-tags">${tagsHtml}</div>
+                        </div>
+                    </div>
+                    <div class="news-importance">
+                        <span class="importance-label ${importance}">${importance}</span>
+                    </div>
+                </a>
+            `;
+        }
+
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+
+        // ============ Data Loading ============
+        let allDCNews = [];
+        let allCWNews = [];
+
+        async function loadData() {
+            try {
+                const [dcRes, cwRes, metaRes] = await Promise.allSettled([
+                    fetch(FEEDS.datacenter),
+                    fetch(FEEDS.coreweave),
+                    fetch(FEEDS.meta)
+                ]);
+
+                if (dcRes.status === 'fulfilled' && dcRes.value.ok) {
+                    allDCNews = await dcRes.value.json();
+                    allDCNews.forEach(item => {
+                        item.importance = item.importance || scoreImportance(item.title, item.snippet || '');
+                        item.tags = item.tags || detectTags(item.title, item.snippet || '');
+                    });
+                    // Sort by importance then date
+                    const impOrder = { critical: 0, high: 1, medium: 2, low: 3 };
+                    allDCNews.sort((a, b) => (impOrder[a.importance] - impOrder[b.importance]) || (new Date(b.published) - new Date(a.published)));
+                }
+
+                if (cwRes.status === 'fulfilled' && cwRes.value.ok) {
+                    allCWNews = await cwRes.value.json();
+                    allCWNews.forEach(item => {
+                        item.importance = item.importance || scoreImportance(item.title, item.snippet || '');
+                        item.tags = item.tags || detectTags(item.title, item.snippet || '');
+                    });
+                    const impOrder = { critical: 0, high: 1, medium: 2, low: 3 };
+                    allCWNews.sort((a, b) => (impOrder[a.importance] - impOrder[b.importance]) || (new Date(b.published) - new Date(a.published)));
+                }
+
+                if (metaRes.status === 'fulfilled' && metaRes.value.ok) {
+                    const meta = await metaRes.value.json();
+                    document.getElementById('lastUpdated').textContent = `Updated ${timeAgo(meta.lastUpdated)}`;
+                }
+
+                renderAll();
+            } catch (err) {
+                console.error('Failed to load data:', err);
+                document.getElementById('dcNews').innerHTML = '<div class="empty-state">Failed to load news data. Check back later.</div>';
+                document.getElementById('cwNews').innerHTML = '<div class="empty-state">Failed to load news data. Check back later.</div>';
+            }
+        }
+
+        function renderAll(filter = 'all', search = '') {
+            const filterFn = (items) => {
+                return items.filter(item => {
+                    const matchesImportance = filter === 'all' || item.importance === filter;
+                    const matchesSearch = !search || 
+                        item.title.toLowerCase().includes(search) || 
+                        (item.snippet || '').toLowerCase().includes(search) ||
+                        (item.source || '').toLowerCase().includes(search);
+                    return matchesImportance && matchesSearch;
+                });
+            };
+
+            const filteredDC = filterFn(allDCNews);
+            const filteredCW = filterFn(allCWNews);
+
+            // Render to all containers
+            const dcHtml = filteredDC.length ? filteredDC.map(renderCard).join('') : '<div class="empty-state">No matching stories found.</div>';
+            const cwHtml = filteredCW.length ? filteredCW.map(renderCard).join('') : '<div class="empty-state">No matching stories found.</div>';
+
+            document.getElementById('dcNews').innerHTML = dcHtml;
+            document.getElementById('cwNews').innerHTML = cwHtml;
+            document.getElementById('dcNews2').innerHTML = dcHtml;
+            document.getElementById('cwNews2').innerHTML = cwHtml;
+
+            // Update counts
+            const dcCountStr = `${filteredDC.length} stories`;
+            const cwCountStr = `${filteredCW.length} stories`;
+            document.getElementById('dcCount').textContent = dcCountStr;
+            document.getElementById('cwCount').textContent = cwCountStr;
+            document.getElementById('dcCount2').textContent = dcCountStr;
+            document.getElementById('cwCount2').textContent = cwCountStr;
+
+            // Update stats
+            const total = filteredDC.length + filteredCW.length;
+            const highPri = [...filteredDC, ...filteredCW].filter(i => i.importance === 'critical' || i.importance === 'high').length;
+            document.getElementById('statTotal').textContent = total;
+            document.getElementById('statDC').textContent = filteredDC.length;
+            document.getElementById('statCW').textContent = filteredCW.length;
+            document.getElementById('statHigh').textContent = highPri;
+        }
+
+        // ============ Event Handlers ============
+        // Tab switching
+        document.querySelectorAll('.nav-tab').forEach(tab => {
+            tab.addEventListener('click', () => {
+                document.querySelectorAll('.nav-tab').forEach(t => t.classList.remove('active'));
+                document.querySelectorAll('.tab-content').forEach(t => t.classList.remove('active'));
+                tab.classList.add('active');
+                document.getElementById(`tab-${tab.dataset.tab}`).classList.add('active');
+            });
+        });
+
+        // Filter buttons
+        document.querySelectorAll('.filter-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                const search = document.getElementById('searchInput').value.toLowerCase();
+                renderAll(btn.dataset.importance, search);
+            });
+        });
+
+        // Search
+        let searchTimeout;
+        document.getElementById('searchInput').addEventListener('input', (e) => {
+            clearTimeout(searchTimeout);
+            searchTimeout = setTimeout(() => {
+                const activeFilter = document.querySelector('.filter-btn.active').dataset.importance;
+                renderAll(activeFilter, e.target.value.toLowerCase());
+            }, 200);
+        });
+
+        // ============ Init ============
+        loadData();
+
+        // Auto-refresh every 5 minutes
+        setInterval(loadData, 5 * 60 * 1000);
+    </script>
+</body>
+</html>

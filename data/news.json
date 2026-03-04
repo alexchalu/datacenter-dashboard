@@ -1,0 +1,97 @@
+{
+  "updated": "2026-03-04T22:52:00+00:00",
+  "datacenter": [
+    {
+      "title": "Microsoft Announces $10B Data Center Campus in Wisconsin",
+      "snippet": "Microsoft will invest $10 billion to build a massive hyperscale data center campus in Mount Pleasant, Wisconsin, to power AI workloads.",
+      "url": "https://example.com/microsoft-wisconsin",
+      "source": "Reuters",
+      "date": "2 hours ago",
+      "importance": "critical",
+      "tags": ["AI/ML", "Hyperscale", "Power"]
+    },
+    {
+      "title": "Amazon Web Services Breaks Ground on 500MW Virginia Facility",
+      "snippet": "AWS has begun construction on a new 500-megawatt data center facility in Northern Virginia, expanding its presence in the largest data center market.",
+      "url": "https://example.com/aws-virginia",
+      "source": "DCD",
+      "date": "5 hours ago",
+      "importance": "critical",
+      "tags": ["Hyperscale", "Power", "Cloud"]
+    },
+    {
+      "title": "Google Plans $3B Investment in Ohio Data Center Expansion",
+      "snippet": "Google has announced plans to invest $3 billion in expanding its data center operations across multiple Ohio campuses to support growing cloud demand.",
+      "url": "https://example.com/google-ohio",
+      "source": "CNBC",
+      "date": "1 day ago",
+      "importance": "high",
+      "tags": ["Cloud", "Hyperscale", "Funding"]
+    },
+    {
+      "title": "Texas Grid Operator Raises Concerns Over Data Center Power Demand",
+      "snippet": "ERCOT has flagged growing electricity demand from data centers as a potential strain on the Texas power grid, calling for updated infrastructure planning.",
+      "url": "https://example.com/ercot-texas",
+      "source": "Bloomberg",
+      "date": "1 day ago",
+      "importance": "high",
+      "tags": ["Power", "Policy"]
+    },
+    {
+      "title": "Equinix Receives Approval for New Chicago Data Center",
+      "snippet": "Equinix has received zoning approval to build a new 60MW data center in the Chicago metropolitan area, targeting enterprise and cloud customers.",
+      "url": "https://example.com/equinix-chicago",
+      "source": "DCK",
+      "date": "2 days ago",
+      "importance": "medium",
+      "tags": ["Real Estate", "Power"]
+    },
+    {
+      "title": "Nuclear Power Seen as Key to Sustaining Data Center Growth",
+      "snippet": "Industry leaders are increasingly looking to nuclear energy, including small modular reactors, as a sustainable power source for next-generation data centers.",
+      "url": "https://example.com/nuclear-datacenter",
+      "source": "Wired",
+      "date": "3 days ago",
+      "importance": "medium",
+      "tags": ["Power", "Policy"]
+    }
+  ],
+  "coreweave": [
+    {
+      "title": "CoreWeave Secures $7.5B in Debt Financing for GPU Cloud Expansion",
+      "snippet": "CoreWeave has raised $7.5 billion in debt financing to expand its GPU cloud infrastructure, marking one of the largest funding rounds for an AI infrastructure company.",
+      "url": "https://example.com/coreweave-funding",
+      "source": "TechCrunch",
+      "date": "3 hours ago",
+      "importance": "critical",
+      "tags": ["Funding", "AI/ML", "Cloud"]
+    },
+    {
+      "title": "CoreWeave Opens New Data Center in New Jersey",
+      "snippet": "CoreWeave has opened a new data center facility in Weehawken, New Jersey, adding thousands of NVIDIA GPUs to its cloud infrastructure platform.",
+      "url": "https://example.com/coreweave-nj",
+      "source": "SiliconANGLE",
+      "date": "1 day ago",
+      "importance": "high",
+      "tags": ["AI/ML", "Cloud"]
+    },
+    {
+      "title": "CoreWeave Partners with NVIDIA on Next-Gen AI Infrastructure",
+      "snippet": "CoreWeave has announced an expanded partnership with NVIDIA to deploy next-generation GPU clusters optimized for large language model training.",
+      "url": "https://example.com/coreweave-nvidia",
+      "source": "VentureBeat",
+      "date": "2 days ago",
+      "importance": "high",
+      "tags": ["AI/ML", "Cloud"]
+    },
+    {
+      "title": "CoreWeave IPO Timeline Reportedly Pushed to Late 2025",
+      "snippet": "Sources close to the company suggest CoreWeave's planned IPO may be pushed to late 2025 as the company focuses on scaling infrastructure.",
+      "url": "https://example.com/coreweave-ipo",
+      "source": "Bloomberg",
+      "date": "4 days ago",
+      "importance": "medium",
+      "tags": ["IPO", "Funding"]
+    }
+  ]
+}
