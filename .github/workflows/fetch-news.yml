@@ -4,10 +4,7 @@ on:
   schedule:
     # Run every 6 hours
     - cron: '0 */6 * * *'
-  workflow_dispatch: # Allow manual trigger
-  push:
-    branches: [main]
-    paths: ['scripts/**']
+  workflow_dispatch: # Allow manual trigger only
 
 permissions:
   contents: write
