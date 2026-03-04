@@ -26,6 +26,13 @@ FEEDS = {
     ],
     'coreweave': [
         'https://news.google.com/rss/search?q=CoreWeave+when:30d&hl=en-US&gl=US&ceid=US:en',
+    ],
+    'social': [
+        # Viral tweets & social posts about datacenters and CoreWeave
+        'https://news.google.com/rss/search?q=datacenter+%22tweet%22+OR+%22twitter%22+OR+%22x.com%22+OR+%22viral%22+when:14d&hl=en-US&gl=US&ceid=US:en',
+        'https://news.google.com/rss/search?q=CoreWeave+%22tweet%22+OR+%22twitter%22+OR+%22x.com%22+OR+%22viral%22+when:14d&hl=en-US&gl=US&ceid=US:en',
+        'https://news.google.com/rss/search?q=datacenter+%22trending%22+OR+%22social+media%22+OR+%22went+viral%22+when:14d&hl=en-US&gl=US&ceid=US:en',
+        'https://news.google.com/rss/search?q=%22data+center%22+%22Elon+Musk%22+OR+%22Sam+Altman%22+OR+%22Jensen+Huang%22+when:14d&hl=en-US&gl=US&ceid=US:en',
     ]
 }
 
@@ -60,6 +67,8 @@ def detect_tags(title, snippet=''):
         tags.append('policy')
     if 'coreweave' in text:
         tags.append('coreweave')
+    if re.search(r'tweet|twitter|𝕏|x\.com|viral|thread|trending|social media', text):
+        tags.append('social')
     return tags[:3]
 
 def extract_source(html_desc):

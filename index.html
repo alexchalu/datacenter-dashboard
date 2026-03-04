@@ -438,6 +438,43 @@
         .tag.expansion { background: var(--accent-purple-dim); color: var(--accent-purple); }
         .tag.policy { background: var(--accent-orange-dim); color: var(--accent-orange); }
         .tag.coreweave { background: var(--accent-green-dim); color: var(--accent-green); }
+        .tag.social { background: rgba(239,68,68,0.15); color: #f87171; }
+
+        /* Sort toggle */
+        .sort-toggle {
+            display: flex;
+            gap: 2px;
+            background: var(--bg-secondary);
+            border-radius: var(--radius-sm);
+            padding: 3px;
+        }
+
+        .sort-btn {
+            padding: 8px 14px;
+            border: none;
+            background: none;
+            color: var(--text-muted);
+            cursor: pointer;
+            border-radius: 6px;
+            font-size: 12px;
+            font-weight: 500;
+            transition: all 0.2s;
+            white-space: nowrap;
+            font-family: 'Inter', sans-serif;
+        }
+
+        .sort-btn:hover { color: var(--text-secondary); }
+
+        .sort-btn.active {
+            background: var(--bg-card);
+            color: var(--text-primary);
+            box-shadow: 0 1px 4px rgba(0,0,0,0.3);
+        }
+
+        /* Social badge on source */
+        .news-source.social {
+            color: #f87171;
+        }
 
         .news-importance {
             display: flex;
@@ -562,6 +599,7 @@
                 <button class="nav-tab active" data-tab="all">All News</button>
                 <button class="nav-tab" data-tab="datacenter">🏗 Datacenters</button>
                 <button class="nav-tab" data-tab="coreweave">⚡ CoreWeave</button>
+                <button class="nav-tab" data-tab="social">🐦 Social Buzz</button>
             </nav>
             <div class="header-meta">
                 <div class="live-dot">LIVE</div>
@@ -589,9 +627,9 @@
                 <div class="stat-sub">latest updates</div>
             </div>
             <div class="stat-card">
-                <div class="stat-label">High Priority</div>
-                <div class="stat-value purple" id="statHigh">—</div>
-                <div class="stat-sub">critical + high importance</div>
+                <div class="stat-label">Social Buzz</div>
+                <div class="stat-value orange" id="statSocial">—</div>
+                <div class="stat-sub">trending tweets & posts</div>
             </div>
         </div>
 
@@ -604,6 +642,10 @@
             <button class="filter-btn" data-importance="critical">🔴 Critical</button>
             <button class="filter-btn" data-importance="high">🟠 High</button>
             <button class="filter-btn" data-importance="medium">🔵 Medium</button>
+            <div class="sort-toggle">
+                <button class="sort-btn active" data-sort="importance">⬆ Importance</button>
+                <button class="sort-btn" data-sort="recent">🕐 Most Recent</button>
+            </div>
         </div>
 
         <!-- All News Tab -->
@@ -628,6 +670,16 @@
                     <div class="loading"><div class="loading-spinner"></div>Loading CoreWeave news...</div>
                 </div>
             </div>
+            <div class="feed-section">
+                <div class="section-header">
+                    <div class="section-icon" style="background: rgba(239,68,68,0.15);">🐦</div>
+                    <div class="section-title">Trending Social Posts & Tweets</div>
+                    <div class="section-count" id="socialCount">—</div>
+                </div>
+                <div class="news-grid" id="socialNews">
+                    <div class="loading"><div class="loading-spinner"></div>Loading social buzz...</div>
+                </div>
+            </div>
         </div>
 
         <!-- Datacenter Only Tab -->
@@ -639,6 +691,18 @@
                     <div class="section-count" id="dcCount2">—</div>
                 </div>
                 <div class="news-grid" id="dcNews2"></div>
+            </div>
+        </div>
+
+        <!-- Social Buzz Tab -->
+        <div class="tab-content" id="tab-social">
+            <div class="feed-section">
+                <div class="section-header">
+                    <div class="section-icon" style="background: rgba(239,68,68,0.15);">🐦</div>
+                    <div class="section-title">Trending Social Posts & Tweets</div>
+                    <div class="section-count" id="socialCount2">—</div>
+                </div>
+                <div class="news-grid" id="socialNews2"></div>
             </div>
         </div>
 
@@ -666,8 +730,11 @@
         const FEEDS = {
             datacenter: `${DATA_BASE}/datacenter.json`,
             coreweave: `${DATA_BASE}/coreweave.json`,
+            social: `${DATA_BASE}/social.json`,
             meta: `${DATA_BASE}/meta.json`
         };
+
+        let currentSort = 'importance'; // 'importance' or 'recent'
 
         // ============ Importance Scoring ============
         const IMPORTANCE_KEYWORDS = {
@@ -693,7 +760,20 @@
             if (text.match(/expan|grow|new campus|new site|scale/)) tags.push('expansion');
             if (text.match(/polic|regulat|permit|govern|legislat|bill|act/)) tags.push('policy');
             if (text.match(/coreweave/)) tags.push('coreweave');
+            if (text.match(/tweet|twitter|𝕏|x\.com|viral|thread|ratio/)) tags.push('social');
             return tags.slice(0, 3);
+        }
+
+        // ============ Sorting ============
+        function sortItems(items, sortBy) {
+            const impOrder = { critical: 0, high: 1, medium: 2, low: 3 };
+            const sorted = [...items];
+            if (sortBy === 'recent') {
+                sorted.sort((a, b) => new Date(b.published) - new Date(a.published));
+            } else {
+                sorted.sort((a, b) => (impOrder[a.importance] - impOrder[b.importance]) || (new Date(b.published) - new Date(a.published)));
+            }
+            return sorted;
         }
 
         // ============ Time Formatting ============
@@ -721,7 +801,7 @@
                         <div class="news-title">${escapeHtml(item.title)}</div>
                         ${item.snippet ? `<div class="news-snippet">${escapeHtml(item.snippet)}</div>` : ''}
                         <div class="news-meta">
-                            <span class="news-source">${escapeHtml(item.source || 'Unknown')}</span>
+                            <span class="news-source${item.is_social ? ' social' : ''}">${item.is_social ? '𝕏 ' : ''}${escapeHtml(item.source || 'Unknown')}</span>
                             <span class="news-time">${timeAgo(item.published)}</span>
                             <div class="news-tags">${tagsHtml}</div>
                         </div>
@@ -742,34 +822,36 @@
         // ============ Data Loading ============
         let allDCNews = [];
         let allCWNews = [];
+        let allSocialNews = [];
 
         async function loadData() {
             try {
-                const [dcRes, cwRes, metaRes] = await Promise.allSettled([
+                const [dcRes, cwRes, socialRes, metaRes] = await Promise.allSettled([
                     fetch(FEEDS.datacenter),
                     fetch(FEEDS.coreweave),
+                    fetch(FEEDS.social),
                     fetch(FEEDS.meta)
                 ]);
 
-                if (dcRes.status === 'fulfilled' && dcRes.value.ok) {
-                    allDCNews = await dcRes.value.json();
-                    allDCNews.forEach(item => {
+                const processItems = (items) => {
+                    items.forEach(item => {
                         item.importance = item.importance || scoreImportance(item.title, item.snippet || '');
                         item.tags = item.tags || detectTags(item.title, item.snippet || '');
                     });
-                    // Sort by importance then date
-                    const impOrder = { critical: 0, high: 1, medium: 2, low: 3 };
-                    allDCNews.sort((a, b) => (impOrder[a.importance] - impOrder[b.importance]) || (new Date(b.published) - new Date(a.published)));
+                    return items;
+                };
+
+                if (dcRes.status === 'fulfilled' && dcRes.value.ok) {
+                    allDCNews = processItems(await dcRes.value.json());
                 }
 
                 if (cwRes.status === 'fulfilled' && cwRes.value.ok) {
-                    allCWNews = await cwRes.value.json();
-                    allCWNews.forEach(item => {
-                        item.importance = item.importance || scoreImportance(item.title, item.snippet || '');
-                        item.tags = item.tags || detectTags(item.title, item.snippet || '');
-                    });
-                    const impOrder = { critical: 0, high: 1, medium: 2, low: 3 };
-                    allCWNews.sort((a, b) => (impOrder[a.importance] - impOrder[b.importance]) || (new Date(b.published) - new Date(a.published)));
+                    allCWNews = processItems(await cwRes.value.json());
+                }
+
+                if (socialRes.status === 'fulfilled' && socialRes.value.ok) {
+                    allSocialNews = processItems(await socialRes.value.json());
+                    allSocialNews.forEach(item => { item.is_social = true; });
                 }
 
                 if (metaRes.status === 'fulfilled' && metaRes.value.ok) {
@@ -797,33 +879,41 @@
                 });
             };
 
-            const filteredDC = filterFn(allDCNews);
-            const filteredCW = filterFn(allCWNews);
+            const filteredDC = sortItems(filterFn(allDCNews), currentSort);
+            const filteredCW = sortItems(filterFn(allCWNews), currentSort);
+            const filteredSocial = sortItems(filterFn(allSocialNews), currentSort);
 
-            // Render to all containers
-            const dcHtml = filteredDC.length ? filteredDC.map(renderCard).join('') : '<div class="empty-state">No matching stories found.</div>';
-            const cwHtml = filteredCW.length ? filteredCW.map(renderCard).join('') : '<div class="empty-state">No matching stories found.</div>';
+            // Render helper
+            const toHtml = (items) => items.length ? items.map(renderCard).join('') : '<div class="empty-state">No matching stories found.</div>';
+
+            const dcHtml = toHtml(filteredDC);
+            const cwHtml = toHtml(filteredCW);
+            const socialHtml = toHtml(filteredSocial);
 
             document.getElementById('dcNews').innerHTML = dcHtml;
             document.getElementById('cwNews').innerHTML = cwHtml;
+            document.getElementById('socialNews').innerHTML = socialHtml;
             document.getElementById('dcNews2').innerHTML = dcHtml;
             document.getElementById('cwNews2').innerHTML = cwHtml;
+            document.getElementById('socialNews2').innerHTML = socialHtml;
 
             // Update counts
             const dcCountStr = `${filteredDC.length} stories`;
             const cwCountStr = `${filteredCW.length} stories`;
+            const socialCountStr = `${filteredSocial.length} posts`;
             document.getElementById('dcCount').textContent = dcCountStr;
             document.getElementById('cwCount').textContent = cwCountStr;
+            document.getElementById('socialCount').textContent = socialCountStr;
             document.getElementById('dcCount2').textContent = dcCountStr;
             document.getElementById('cwCount2').textContent = cwCountStr;
+            document.getElementById('socialCount2').textContent = socialCountStr;
 
             // Update stats
-            const total = filteredDC.length + filteredCW.length;
-            const highPri = [...filteredDC, ...filteredCW].filter(i => i.importance === 'critical' || i.importance === 'high').length;
+            const total = filteredDC.length + filteredCW.length + filteredSocial.length;
             document.getElementById('statTotal').textContent = total;
             document.getElementById('statDC').textContent = filteredDC.length;
             document.getElementById('statCW').textContent = filteredCW.length;
-            document.getElementById('statHigh').textContent = highPri;
+            document.getElementById('statSocial').textContent = filteredSocial.length;
         }
 
         // ============ Event Handlers ============
@@ -844,6 +934,18 @@
                 btn.classList.add('active');
                 const search = document.getElementById('searchInput').value.toLowerCase();
                 renderAll(btn.dataset.importance, search);
+            });
+        });
+
+        // Sort toggle
+        document.querySelectorAll('.sort-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                document.querySelectorAll('.sort-btn').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                currentSort = btn.dataset.sort;
+                const activeFilter = document.querySelector('.filter-btn.active').dataset.importance;
+                const search = document.getElementById('searchInput').value.toLowerCase();
+                renderAll(activeFilter, search);
             });
         });
 
