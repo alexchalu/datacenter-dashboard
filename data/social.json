@@ -69,29 +69,6 @@
     "tags": []
   },
   {
-    "title": "Amazon will invest \u20ac33.7 billion in Spain to boost data centers in Europe",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQazhGLTBwRUtnOEdDVEoyRUFYQUI5d0ZsRVNrb1ZUWWRfTDlVNUpPS3NaRWZ4QWFJa0ZKSVZIX0UyWVhDeEM0ajdaZE1aMVlUVlI1dlY5WHJLcFcwYkRoOGRPWlhtNmZGSTZTRzdJSEhOTmhKbFV3QXBsMDV4R3B1NGV1eEpDWnFXenFiTmN1Q3drZ0plWmxhbWZLblBjdTBPSWE3dXdrY2lSeWQ4ODRMNGZWX1LSAboBQVVfeXFMT0l3Z0hON041S1FmaVkxS2xnVGc4XzlzTXVDRXFOOGlOMEdmb1pONktxMzFuY3RwRWgwdXNVczdTOXNQZlB4ZDV3b2Zjc3IzZWExdEhRc19DeVUwNkVJUmNXQWcyeWVPbmY4SFdfU1MxbzlONmw2bGsweDNzUGNJMWhyeElXNHFFbEZzb0tYYWJsQUNMRVVJYURNVUZaejJtWXNNVGo0ZEx1NFY2VkZHeU5oXzg4TnU5V0JR?oc=5",
-    "source": "Diari ARA",
-    "published": "2026-03-02T14:05:19+00:00",
-    "snippet": "Amazon will invest \u20ac33.7 billion in Spain to boost data centers in Europe\u00a0\u00a0Diari ARA",
-    "importance": "critical",
-    "tags": [
-      "investment",
-      "policy"
-    ]
-  },
-  {
-    "title": "NVIDIA bets $2B on U.S. factory push for next-wave AI data centers",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc3MyYThCdUsyNWFub1dXU05zRXFrS1cxU2RpQzZNUUt5b2J0by04WG1xVmZZaFpOZ0tvLWw4cUhLSWR1WVJFRVNDQjhLbUlqNmNYTkhsZ3RtWkFxZUhBM2hZYThSblVWZjR3blljNHdmY3h5eENSQWhHOHl0Wmx5a0pPMjVWWTIxOUExRWxyeVoxQVJPWnczd3BNWTNQcHpabUlWdk5NdU1ibUdVcG91RmhsTlIySG9IckpBYUhQRDY?oc=5",
-    "source": "Stock Titan",
-    "published": "2026-03-02T13:00:00+00:00",
-    "snippet": "NVIDIA bets $2B on U.S. factory push for next-wave AI data centers\u00a0\u00a0Stock Titan",
-    "importance": "critical",
-    "tags": [
-      "investment"
-    ]
-  },
-  {
     "title": "The billion-dollar infrastructure deals powering the AI boom",
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdFp1bGR2MHpJVXpwOUo3LUFWbTNYQnhtNC1CN2RreG4tM2J4VUlDa0ozdjk2Zk1mVmlRWUlTQnhKUmFKdWtlNUdUUGF4LWdGUTJEUGF1ZjlxcmZuTENIc1RnZnBkcUZmdk9wMTVaTnJKMU5VRVVwXzhHendWRVZIeVJpaFQweHcxYkpFWHA0SHd4c2NUOWxkUF9wYnNha2wxUzcycjkzTVYxM1haTHN3UjZEb09OM3VPOXJ4cWJnVFVGdnY5azRaczlPSzhUSEE?oc=5",
     "source": "TechCrunch",
@@ -495,6 +472,17 @@
     ]
   },
   {
+    "title": "Nebius Gave Amazing News to Nvidia and CoreWeave Shareholders",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcE9PNEVhY3FJMXNEYU53Z01ZS0hVMkFUSzRoS0F1YmdxVmRCd2dPVkUyMzRwYmxJd2I1RHVtaFdQcGtVTDMyTFhzandtSUdZUGxVaEhob3BaVWJQeHJpUUdsTFIwVG8tOUpEcGdMS0Vnc1dwMngxYkRZNHczWUNTWk9fYnZDQklrWjY1dHo4akhKaHJhR1pWVg?oc=5",
+    "source": "The Motley Fool",
+    "published": "2026-02-19T08:00:00+00:00",
+    "snippet": "Nebius Gave Amazing News to Nvidia and CoreWeave Shareholders\u00a0\u00a0The Motley Fool",
+    "importance": "high",
+    "tags": [
+      "coreweave"
+    ]
+  },
+  {
     "title": "Unable to land PM interview at google! Construction data center background with 10 years of experience.",
     "link": "https://www.reddit.com/r/datacenter/comments/1rkqrzw/unable_to_land_pm_interview_at_google/",
     "source": "/u/PackageAble7617",
@@ -516,15 +504,6 @@
       "construction",
       "investment"
     ]
-  },
-  {
-    "title": "Union Minister for Communications launches Tejas Networks hyper-scalable Data Center Interconnect (DCI) platform at Mobile World Congress",
-    "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNdFlibXQ3aFJtMWNSRXhpOTVwNGJ4cHBhcFkxUDhMSzRhZmtNOWZSaWZnYk9EQ3JOMzZXQVhTcWwtZHd4UmVIMVdWcUNULVR0U001OXM3dUgzZFR5WnpuS09vTGR4bFFWdExkMjBTTms3Ul84dTZ3U1hHZWhLUlZuYTFVNldTdWstdjViMWV6dEc0elBmUU1Wa1dOYmVaZVQ0NmJnZHNzT2lSLXZZZEZuTXZ6ck1GZFlTeVBnY01WdTctM0NxM0NDcFhYV3FCWTJmdjV3akJic1BET041Nk5HVzVKaUFqVkZfbmJLTlNlNlU3blVGLXlUclhXOEZBRjU0RldLdkppUS1ldEh0VnpZ0gGPAkFVX3lxTE10WWJtdDdoUm0xY1JFeGk5NXA0YnhwcGFwWTFQOExLNGFma005ZlJpZmdiT0RDck4zNldBWFNxbC1kd3hSZUgxV1ZxQ1QtVHRTTTU5czd1SDNkVHlaem5LT29MZHhsUVZ0TGQyMFNOazdSXzh1NndTWEdlaEtSVm5hMVU2V1N1ay12NWIxZXp0RzR6UGZRTVZrV05iZVplVDQ2Ymdkc3NPaVItdllkRm5NdnpyTUZkWVN5UGdjTVZ1Ny0zQ3EzQ0NwWFhXcUJZMmZ2NXdqQmJzUERPTjU2TkdXNUppQWpWRl9uYktOU2U2VTduVUYteVRyWFc4RkFGNTRGV0t2SmlRLWV0SHRWelk?oc=5",
-    "source": "Tribune India",
-    "published": "2026-03-04T06:55:35+00:00",
-    "snippet": "Union Minister for Communications launches Tejas Networks hyper-scalable Data Center Interconnect (DCI) platform at Mobile World Congress\u00a0\u00a0Tribune India",
-    "importance": "medium",
-    "tags": []
   },
   {
     "title": "Alliant Energy must unredact data center negotiations, commission says",
@@ -569,15 +548,6 @@
     "tags": []
   },
   {
-    "title": "Amazon AWS UAE suffers power outage after 'objects' hit data centre | World News",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZlVyUHUwV2FsTFBxQm4tRHVBZW1zV1NpRG0yVzF1SGZwWXAtVUc5U2ZsMFZjMVcwcFU3bi1seHJWNjZUYUIxWHhITHRqYk9JZm9ERzNoNXUtWFlISDZWVlhBUFdfWUVHbmt4cWdVc3daUVVPUmctY3RHdUZmclZZaXl6LXQ5SEJITHJYU1RSd1MtbG1nV016SWRrQ281WU83SDhwTE9MNUkweThBQzI0cFRnWVZkMjYwX1JYNWdUek5sT3oteFdv0gHMAUFVX3lxTE9VMzFBOXh1MFhydVZTZktYdU9wUG02Q25LRnRHSEg4MFBCU2lBUXYtMmp5b0NOLW1VYVYxS09qLU9zaFJwa1hzaXFnQ1p3RWdtT19ZOTl6UVoyR2xTNHFaaExoY2hDajdQYnJEcjJEbWtsOU54dklGWUFMbVc3R04ta2FCM01DcWZUSDd5QnBSXzFtVkE0Z1l1YlU5NGIzRDJoSnRPSF9LZDllcllPTXozTGE3WDB0MUlValowQ3JnTmJTLUxlNkRRWjJqNg?oc=5",
-    "source": "Hindustan Times",
-    "published": "2026-03-02T04:52:54+00:00",
-    "snippet": "Amazon AWS UAE suffers power outage after 'objects' hit data centre | World News\u00a0\u00a0Hindustan Times",
-    "importance": "medium",
-    "tags": []
-  },
-  {
     "title": "Amazon's cloud unit reports fire after objects hit UAE data center",
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYlZTbmdscklJcWw3bjBBOWNGNjNiYVI0UnVRTmZUdUdhVXRrSWU4bE5VVkdCTEYtVXB2R3BtNkljaXM3TVJMamN4UFdwNTNlbHNrMEU4bGcxNWRfM3J1WUgtcU5PcWhmNFkwWVZfMjdKdDdEM05Fbnh5cDFidjNRNENNUVRzZlg3SjV1VmJHNnB5OWxuVDhWaW9DX005X1V6NHNyMXJtNzNkdGhKcHBoYTZoWFB3RXFjYVBF?oc=5",
     "source": "The Standard (HK)",
@@ -603,18 +573,6 @@
     "snippet": "submitted by    /u/Karmuhhhh    to    r/Salary   [link]   [comments]",
     "importance": "medium",
     "tags": []
-  },
-  {
-    "title": "AI Growth: UK Data Centres' Energy and Net-Zero Impact",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUU5tMFYtVDhuRjkyNUtEV2tUOEttUXpydHoyMktLTFVTbTBvOVlVSUVGcGJONDFJaUxtOUtGa3MwQmQwa0twaWZBV2JXTGxSS2E0NFJ5ZUVvakRoZlVvdmlZWDh1TnpjZkFjSkpJMF9kU2YtMGk0TVd3MW13bEZjYzd0WkZFMGpDRW5yeElUS2VUcHltaEJsNjRUajR4Zw?oc=5",
-    "source": "edie.net",
-    "published": "2026-02-27T14:47:14+00:00",
-    "snippet": "AI Growth: UK Data Centres' Energy and Net-Zero Impact\u00a0\u00a0edie.net",
-    "importance": "medium",
-    "tags": [
-      "expansion",
-      "policy"
-    ]
   },
   {
     "title": "Elon Musk\u2019s Makeshift AI Power Plant Sparks Outcry in Mississippi",
@@ -682,6 +640,15 @@
     ]
   },
   {
+    "title": "How data centers could delay climate progress",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZTNMZFRVMldLQXdySlJmUTExSUxleEZMYzNGdXk0QWZWOVowNnVCS2dxMnNoS3dfNmExM1V1dEhKVm1nVXM3Nl80WEVFRjVjVlNXQ283LU4tZ01udjF4a2t4T3puSkJsNzRvQ0o4cENFN1hrYjh4V0dBQ0MtMFk3a1ZGZnMtZGdrNnJaRGpNZmhqZEU?oc=5",
+    "source": "Yale Climate Connections",
+    "published": "2026-02-26T12:00:00+00:00",
+    "snippet": "How data centers could delay climate progress\u00a0\u00a0Yale Climate Connections",
+    "importance": "medium",
+    "tags": []
+  },
+  {
     "title": "Elon Musk's makeshift AI power plant generates sound and fury in Mississippi",
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ085WTEweFlrQVNVOUU4ZjhzZ2NLTE0wM3I1X1IyaTh1d3dVTkN2cjUyT1RjZndnbm9qRWdUOXotY09VWjN0d0R6dTJRWDY1WVZVT1Qyb0dyb3drOXQ1QWxHazhSSFp0ZUl5VDcxM1BxclI3cU1YcDNxNnhSeDlaSXhXdks4Z0IzZU5mYVJWZWktMGhrUTl5VzVFVVd6V2VoMUVB?oc=5",
     "source": "NBC News",
@@ -700,15 +667,6 @@
     "tags": []
   },
   {
-    "title": "Google: Minnesota data centre energy deal includes 30GWh 'multi-day' iron-air batteries from Form Energy",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeXRtNWVvNnpPYXd2N2ZjendEUkRqYzNYeGs5Q1BFRVJZbV8yVUlGdFBtV1ZtdktQRmptYUtIdko0M09la3Q0aEtyM2oyNE1RTDVfb3FoSGcxSFBXa3N0bG4yV3BVS3M3S19NRzJPUFdPZGFGWEZQQXhqMXhleGZ0VktYTXhTOGVrUGNjdGdPd1hsZ0xEWFQzUEJNdmlneUc5ZTRETV9Qd3NXWDk1YmpiWlhkTTFDZmEyTXRTc2JKNHpmb004SW1ZNmQ1ZmUwbHc?oc=5",
-    "source": "Energy-Storage.News",
-    "published": "2026-02-26T08:38:54+00:00",
-    "snippet": "Google: Minnesota data centre energy deal includes 30GWh 'multi-day' iron-air batteries from Form Energy\u00a0\u00a0Energy-Storage.News",
-    "importance": "medium",
-    "tags": []
-  },
-  {
     "title": "Pekin holds land development meeting amid data center backlash",
     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc2xGMWxVLWxpeUo2QXRjZWFrdTFHQ1lsa25fNmtpa2NaU1hNZS10M25SSkl2Vjh4U3NKM1l5MGhPWTJKdjlFdkxjZVVvNGM0c194MTNCclZYTmY0YV8tRV85UjBfeGJPa0hVZXZjZjJDc2lfbC1rdnp2Tjd2QmVUMTZtaHVsT0NPdmxrd1NlbW1YODREQTlSWl95UWU?oc=5",
     "source": "1470 & 100.3 WMBD",
@@ -716,6 +674,17 @@
     "snippet": "Pekin holds land development meeting amid data center backlash\u00a0\u00a01470 & 100.3 WMBD",
     "importance": "medium",
     "tags": []
+  },
+  {
+    "title": "Turkey Data Centers & Cloud Infra Market Report 2025-2030: Sustainability Focus, Green Data Center Innovation and Rising Digitalization Position Turkey as a Competitive Regional Hub",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQN2oxRS1VSFdXbzRLT3diRVNycnNGQS1TbzdCWHh5SDc1bzN0dldpSnl2ODktN3ZIX2hRQUNTU2Jja0l4T1d5WndLVXY0bjRQWVBRUTEya1ItMEx3aURzVERqRW84eHNPNGV2Y2V0cUtZXzRKQUlyc0Q2WkZ0MDVYelVNSjQtQkk?oc=5",
+    "source": "Yahoo Finance UK",
+    "published": "2026-02-25T15:03:00+00:00",
+    "snippet": "Turkey Data Centers & Cloud Infra Market Report 2025-2030: Sustainability Focus, Green Data Center Innovation and Rising Digitalization Position Turkey as a Competitive Regional Hub\u00a0\u00a0Yahoo Finance UK",
+    "importance": "medium",
+    "tags": [
+      "investment"
+    ]
   },
   {
     "title": "Sam Altman Refutes AI's Thirsty Criticisms: A Deep Dive into Data Centers & Energy",
@@ -727,20 +696,11 @@
     "tags": []
   },
   {
-    "title": "Trump Seeks Vows From Tech Firms to Cover Data Center Costs",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd1dsLVlrOW41R19lODN5YUpXbnBRU0NEcXB4OWNHMi1LWktfWHM5bVBZS0RZeDhZejh2eFpxTUs2OW9BWUltTTQwSkpYa2tqSjJLcWt4UUhOdklVT0ZEVzZ6WW5YM3I5eUt4bTE0bnBnOHVZQ0Z1blZjMXp0OEowLVg5ZnJWdnptbEZNeXpOQWpzUkdTWFA4LTlNOFJ4SDNnQTF6Ukx5YTRQaF9MXzBheUxsRnVwbS1lSW9UV1F3M003Qzg?oc=5",
-    "source": "Energy Connects",
-    "published": "2026-02-24T11:04:05+00:00",
-    "snippet": "Trump Seeks Vows From Tech Firms to Cover Data Center Costs\u00a0\u00a0Energy Connects",
-    "importance": "medium",
-    "tags": []
-  },
-  {
-    "title": "OpenAI CEO compares AI\u2019s massive energy appetite to raising children for 20 years",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNkIyOWZmMDdYLTNGclhfdnBHMHRyVVplRDZLcUZJdkpKS1VfZk43WUVqeENqblRJMzhWdUVjby1XSloyX2VEXzBVUlh3N0NCZXlFQWUweWk1ZTVEN2RnT0tSc3ZQS09pQ3FJWU5KSU9rMkNPX2ZabERGaEd2N2J4alpueVl5QQ?oc=5",
-    "source": "CryptoRank",
-    "published": "2026-02-24T08:55:14+00:00",
-    "snippet": "OpenAI CEO compares AI\u2019s massive energy appetite to raising children for 20 years\u00a0\u00a0CryptoRank",
+    "title": "Google is coming to Minnesota and advancing clean energy goals",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaV8yc2pkRGJLVnhwTkdEVWNhckZGVGx5V2IxUnQ0UTllcHkzTk83NmJqUXM1WGdvdkhxZUxZSC05bmZabFRwOVh0Uk9UTThUbEpCWDN0UmJGUm4wUzVfYVM0cUNVcXdRRnJfRmg1QWtKNUJ2YXpsQWtQZWt1YVk5ejZEQnR5eFM1aERuV0RaMlJ0MDV2Q3BqNzFEb2RFMWRWODQ4OQ?oc=5",
+    "source": "blog.google",
+    "published": "2026-02-24T08:00:00+00:00",
+    "snippet": "Google is coming to Minnesota and advancing clean energy goals\u00a0\u00a0blog.google",
     "importance": "medium",
     "tags": []
   },
@@ -892,15 +852,6 @@
     "tags": []
   },
   {
-    "title": "Trump says deal on data centers will lower electricity costs, but offers few details",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT09kV2RJSDVuZWF0bzNGaWFsVUVlM0VhTFZleFNfSGZoTEZZQ2NOd2xsNjJCeFRlWmhSQmNBM0RaQ2dBbEpCaDVtMS13RnR0OFd0aDJHQWlaNy1XUThJbVZlT2I4TUhMbHJQekJ3ampBaGplRTNxcV9VZzQzM2h0aE5zRXNmOUsxaDZfMm9Ldkx4ZDh4UDBqYkhmVFhSamNsMkE?oc=5",
-    "source": "SFGATE",
-    "published": "2026-03-04T21:37:25+00:00",
-    "snippet": "Trump says deal on data centers will lower electricity costs, but offers few details\u00a0\u00a0SFGATE",
-    "importance": "low",
-    "tags": []
-  },
-  {
     "title": "Data center proposed for Clinton",
     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11THY1bnhVaE1sXzBBRG80ZkNlY3NUTFpiNXZXN25FTjNNdGlHazBrMjFMMXdPRnIxV1hTZExsZ3BEYmtUbF9MVDB5NGtNZnQtbC1mM0pBSmVqVzNKYU1tTS1pUHlnc2xENG1TVERmYjZCZmUyYUpGWjdsMFI?oc=5",
     "source": "Mississippi Today",
@@ -939,6 +890,15 @@
     "tags": []
   },
   {
+    "title": "Oracle Data Center Issue Blamed for Latest TikTok Outage in US",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTlhJR3Etb0wySm5iSGZ6VFQ3ZDNMZE5oMll3eW9LNk5aSDd3eVl6bzFEckxnVXlVQ1pMbjloM2Z5X0x0SWNLQzNEVG5aTXBXSlczZG1MX2tJWHg3dERNQnpuRldjcXByZFVCbmJEdXF2ZUJGY0N1VkxBWS1ZNjU0RDBzdThZMGl4MG9ZVXRMa281V2VCQUwwWi1wMEtqWTVEcFFYLTdGQWc1V0JYRjdWSnF2amVQVmRNMW5J?oc=5",
+    "source": "National Today",
+    "published": "2026-03-04T18:01:27+00:00",
+    "snippet": "Oracle Data Center Issue Blamed for Latest TikTok Outage in US\u00a0\u00a0National Today",
+    "importance": "low",
+    "tags": []
+  },
+  {
     "title": "Why CoreWeave Stock Charged Higher on Wednesday",
     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObEQ3cGtuYkRnNS1XQXVCYlN2QjQ1OTQxUzZHNk4tUGg0cTVCY1VFWElXOFJNMXdIVU9zS0l2SG1VYmRUM05fOUFvVnlqZzd5cmIyV1RlMW00U2V0NlI1QzYwOVh1cnFIdi1lR1EyVDZxWFlVenN4bFUwOWl3Y1hqX09DMXFmSjZHT0tpbFN2VDhfQVA3?oc=5",
     "source": "The Motley Fool",
@@ -970,15 +930,6 @@
     "tags": [
       "policy"
     ]
-  },
-  {
-    "title": "Trump has an AI data center problem ahead of the midterms \u2014 with no easy solutions",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMWlGVGZETl9iTk5OUUg4UHJYZ090bUVrekJfMDg3WmQyeUE0akVtWWpMM2liWTg0X0RaQnZiSG81bzU2S05jS2RodkE2SFhWeDc1eTVibTVuQ2dTaTJ4QTV1eXQ3eDlVMVdaZ0FfTkg1QkhBU3RTbnF6YmVjSVA2RGxjRTVWeEFpLURnLUpqTzZZQkhsSXRUc2pvOEMyU2PSAaQBQVVfeXFMTW40cmtmM19qcEZMVFltcEdQWTdHaEpiVGNBY0QtejNrOFc4WjZVT3FFZU5tbkY3SGNwTVA5TzB6SUtVSTJzRlZXalEyTjRxbFllS3dHOV9QNGoxaU1jeEhfTjJjLTd0UlA1SUtaSlNKbEQ2UTFCenlZRzRSd25GbTJDWmJtT1ZfMHVmUklZWmJqQUxlSmNRQTYxVGljZTl4czlfaGI?oc=5",
-    "source": "CNBC",
-    "published": "2026-03-04T15:55:11+00:00",
-    "snippet": "Trump has an AI data center problem ahead of the midterms \u2014 with no easy solutions\u00a0\u00a0CNBC",
-    "importance": "low",
-    "tags": []
   },
   {
     "title": "CoreWeave stock pops 8% on Perplexity deal: is the selloff over?",
@@ -1086,20 +1037,29 @@
     ]
   },
   {
-    "title": "Public comment rules adopted to keep data center discussions more controlled",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZmRFOHZkd0ExMVlfemJpaGRkbXlMeDB0SnBfRGZ5X0pjY2s0MXNLZlZqSVluRDJaNVBBUzdrQzU1Wm9yU2xKVmYya29XZEF1bkxBQ01JempQNzJuYUQ4VUFWTjM1NzRqOG1yQjk1b3c2eldiRS1KX3ZGOW1IN0lNQ2RReGhRZ290RWw5Tno2V2RKajFHajEyMTJMcVJPb2RsLXlNbElhc1VELUJi?oc=5",
-    "source": "BG Independent News",
-    "published": "2026-03-04T08:03:53+00:00",
-    "snippet": "Public comment rules adopted to keep data center discussions more controlled\u00a0\u00a0BG Independent News",
-    "importance": "low",
-    "tags": []
-  },
-  {
     "title": "City council approves temporary ban on possible data center in Urbana",
     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVEZtUDVFUy1hTTJhYVNlc1paYWxvb19QUmg5ZTZYcmM4Z3d3SldBQ1NLUEdFUnNNRXoxbktDUFVLWEptOC1VeG9heXBMd2JlTVktd01qVGFoZ2JaXzRGLXpZTHdvYnFrWGFWWTQ5RXdpVU9IZ0c2dXRzS2pZZjl2aC0wN3BzWi1HY0ZmRFRrZ3JWcE1rSWtpMFRNZFRxZk9IZ2RkZ0J3VmFpNm5PNU5rNDhYbWZ6RXQwM2ZyXzZqeDV6NllEbTlBRElWZkNSbV9aVGZHS9IB1AFBVV95cUxPVEZtUDVFUy1hTTJhYVNlc1paYWxvb19QUmg5ZTZYcmM4Z3d3SldBQ1NLUEdFUnNNRXoxbktDUFVLWEptOC1VeG9heXBMd2JlTVktd01qVGFoZ2JaXzRGLXpZTHdvYnFrWGFWWTQ5RXdpVU9IZ0c2dXRzS2pZZjl2aC0wN3BzWi1HY0ZmRFRrZ3JWcE1rSWtpMFRNZFRxZk9IZ2RkZ0J3VmFpNm5PNU5rNDhYbWZ6RXQwM2ZyXzZqeDV6NllEbTlBRElWZkNSbV9aVGZHSw?oc=5",
     "source": "WHIO TV",
     "published": "2026-03-04T07:22:29+00:00",
     "snippet": "City council approves temporary ban on possible data center in Urbana\u00a0\u00a0WHIO TV",
+    "importance": "low",
+    "tags": []
+  },
+  {
+    "title": "Microsoft hosts discussions on Gaines Township data center while working to acquire residential properties",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPLUh1QndpZUtWVE1RQTFMZ2FheGdoa3BfUm5xSUtnNWdZb0pfWllEbWxJdFVwYVRhU0NaYUdIcGQ5MXhnS3diQmNDNC1FejVVc1haOTQ3VWkxRE5YTWZhVDdqSHlteThuUEFkdXYtWWdwVmdLUHhKN0lQeDJ1blUtTmJuR214NUxwWHJBbjcxN1AwN2F5dm1YelYxWnJ4U3dReW5sME9KakZtTVB4V0dFeGpHU3BRTWlna01jaFpsV0JYV01veWI5VVNpVWc2VGd2TzQtUklobjNBUzBRTVkxOTZlc0ZEWDhWdUk0?oc=5",
+    "source": "FOX 17 West Michigan News",
+    "published": "2026-03-04T03:34:28+00:00",
+    "snippet": "Microsoft hosts discussions on Gaines Township data center while working to acquire residential properties\u00a0\u00a0FOX 17 West Michigan News",
+    "importance": "low",
+    "tags": []
+  },
+  {
+    "title": "TikTok Experiences Outage Due to Oracle Data Center Issue",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX1JxNHlWc1prdGZjWENDQ1BuSDVoaGQzMllzcFdNaGRIOWpUdjVJV2tITWtSVnJPQlFtMDBIVjJYVWE4ZllUY0ZDUHE3SWUxSE9fZURNdElyUGIwdDZfclVsT25JTmVBVGpJYms3T2pUUlZXOGJTMmZ1d1R1c0dXcmpLeVhMNGNLcU13VXUzSEhua1hfdnBmSC1oYmpVWFhHM2YycTNPWUpzQmc1UVVWaHplNndITWU5V01wbg?oc=5",
+    "source": "National Today",
+    "published": "2026-03-04T03:10:20+00:00",
+    "snippet": "TikTok Experiences Outage Due to Oracle Data Center Issue\u00a0\u00a0National Today",
     "importance": "low",
     "tags": []
   },
@@ -1127,19 +1087,19 @@
   },
   {
     "title": "Data center market coming off record year amid demand from AI, more",
-    "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPcUFBV0s5MHMwTkVHbFgwbjgxNmtYQXZsRHVqTDlJb1BxRWpYN3JHODByWHJwdno3d2ZXbFc3VkVBSlRFTC1wOUF0YWFkMTFVNjBocS02bUtkQXZoN0xJMXdicVZpTldnc1pwcTF6U1czNzhLbGtfdnJOcnVhMFkzblZkQmJRY1dSM2pJME9CaVRzdV8wTDZPbXZqanhMaElSZFFEMDBPLV9kUkNRdDNwUUdaYU0weFctUTA2VVROQUFJR01IcGlYd1h6Q2lNNkZiM0NjanVQVnpTM2JIWWtyUVJaTDlrQnl0dXpfQWJRaWJfak9SUmtpTWYzMmM5Y1kzdnJwWjI3dDJIYXdZQWw0S0lURzItTlBKRUR1LTdoLXRzaVI3T1RhRUdMRGpueXdyMlQ1MDN3?oc=5",
-    "source": "KMPH",
-    "published": "2026-03-04T01:32:51+00:00",
-    "snippet": "Data center market coming off record year amid demand from AI, more\u00a0\u00a0KMPH",
+    "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNRGNxYVcwTEY2T0pKQ0h4aWRnWFhIYXZJTGVNMUhoWWJGaTlUYWVGX3Yybi15VVJJS0o0T1dDUGE4djZDMWh5enNkXy1Dc1RlLVcxTmtXblplNVI4U1BLeDlkSnpSRkMzWko1Y28zZGpVTzhZS1dhMS14YVNKTUtDVVdDWDVWZThNNTVGVEZiSEgtRVR6dGVoajdjcF9PYjB2N3kxNHZ5TDd3MWZJRGg1aHBRWldJQmJNNDNDeXJURjJod3NWaVJ5V2Q1cEpqcXpZMUJGT1hYUy1GLVVtaEpnc2JMMUZQWHlTeHJDeXRHZFh6aHhEdXZLVlpCZVZBc3VxQzNpRlg5OTlhSXZpNjh5clJJZzdvbTloNUJiUk9IajVzQUY1bHNUM3ZOQjhDZUF3WHlJRml3THo?oc=5",
+    "source": "The National News Desk",
+    "published": "2026-03-04T00:15:50+00:00",
+    "snippet": "Data center market coming off record year amid demand from AI, more\u00a0\u00a0The National News Desk",
     "importance": "low",
     "tags": []
   },
   {
-    "title": "Viewers puzzled after Kylie Jenner shares photo of her closet: 'Makes me sick'",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUEFiVWJKREtvZ0VRTkdVbEYySTVGR2ZpQVJ4cjJna051UkxrTXhmZWxwNnpHdVRFcEJlc3VPWU1lSXZEcS0yaUpWVXVWX0paQ0F4eGFwYU0zZTF6aWd5T1RuY0RuSlpsSDRtZVVjcVpJaEZIZDRuWjI1WmRMUGNtbDAyTEhZNk41R09LcjRHZw?oc=5",
-    "source": "The Cool Down",
-    "published": "2026-03-04T00:00:00+00:00",
-    "snippet": "Viewers puzzled after Kylie Jenner shares photo of her closet: 'Makes me sick'\u00a0\u00a0The Cool Down",
+    "title": "Meeting in Mercer County to discuss potential data center",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNWhyLWJNNjJOZlMxLWI3Zm1lSjNCN2pxVGJQRGpuOXZUUEJwREZUTE5IV0xJME1QYUN3WW1hSnE3MWk1LWlsa2pXTzlrYlYyejQ4TWZTdHdMLU42R3F3NTI3LWdRV3VTSHRvRUhBbVd1X09ndkVkRVdSSlBRbHc2TEdvMTlDQ09XSExrTnktRFhrUmtXLURBZTItUQ?oc=5",
+    "source": "KX News",
+    "published": "2026-03-04T00:08:19+00:00",
+    "snippet": "Meeting in Mercer County to discuss potential data center\u00a0\u00a0KX News",
     "importance": "low",
     "tags": []
   },
@@ -1160,17 +1120,6 @@
     "snippet": "OpenAI's Sam Altman fends off 'painful' backlash to Pentagon AI deal -- including chalk-wielding activists\u00a0\u00a0New York Post",
     "importance": "low",
     "tags": []
-  },
-  {
-    "title": "Evercore ISI Reaffirms Amphenol Corporation (APH) Outperform Rating Amid AI Data Center Demand",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU3ptZ2hHTm5HdndxanhJYVdOb19Wd2dZdGktX3NHMF9JVVhDMUhLNnZaRE9YOEN6QjNrTHcxODdJeEFiZFJ3RVFtSTlUVy1NcEpwMGRJN2ZkLUd1cFp1WlBQQlpTWmFCTkQ4OTFLdV9jSmd0Rk0tWTJUcFd3S0w5QzUydzh5TDBUczdRZkZVWEc3UG41Wk5V?oc=5",
-    "source": "Yahoo Finance UK",
-    "published": "2026-03-03T22:27:34+00:00",
-    "snippet": "Evercore ISI Reaffirms Amphenol Corporation (APH) Outperform Rating Amid AI Data Center Demand\u00a0\u00a0Yahoo Finance UK",
-    "importance": "low",
-    "tags": [
-      "investment"
-    ]
   },
   {
     "title": "Elon Musk's xAI Data Centers: Environmental Boon or Bane?",
@@ -1212,29 +1161,11 @@
     "tags": []
   },
   {
-    "title": "Aikido launches floating wind platform integrated with modular AI data center",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQR3F5clBXWGdTSlY0T0lGTERPR1EzVktSTEhiZGoyMU1zSU5WTFRzMlcyakJXX0lyUzNDbW50d3JoZUlTQnJsMTAyeWE0S29nQVZLNTQzdGhteldpc2VvaEk0S25TcGpqVGNUQnVYcVJOZGwyb2tPQmdLZjBaaVozSHRFWlJDRi1sblBpTmxkRkN0QkcwNjAtWUhZS19KNjhiY1JyaG10RXVEaHQ0eUNrR0trZUN1SlVUTXlvQzBn?oc=5",
-    "source": "Data Center Dynamics",
-    "published": "2026-03-03T17:35:42+00:00",
-    "snippet": "Aikido launches floating wind platform integrated with modular AI data center\u00a0\u00a0Data Center Dynamics",
-    "importance": "low",
-    "tags": []
-  },
-  {
     "title": "Banking, payments services disrupted after Amazon UAE data centers hit in drone strikes",
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMl93VU9VUGMyeWVIV0JqMmNJNDBkdWJwVG9KNFdTeXQydFd6ZUx5THo2XzhsVWRIMS1LSHB5Ym5mTHFIbUwzbUF5bWJodkVfRDFBMXFXZ3FhQzJpY2RWZ0N6OW13dUJwRlRDMjZCR0p5NEROQTVjUU5FY2xULV82bmdQZVdnc3PSAYwBQVVfeXFMUF9XVTVfYmVVME5kZmFOUTUtUDJER3hQY2RHRWpUNm0wcXQ1YmVNc0tzVF9nXzVyTnd1NW4yajRoWHVGWnZFTWVYVHRrVTBjLXlpdHRENXVnWnJBR0xrRHpJS1JvZUZXckZEejM2cUNnRUpoWG9hblRSTmJJRUdpdEMxT3RReWhDS2tNM3A?oc=5",
     "source": "CNBC",
     "published": "2026-03-03T16:51:37+00:00",
     "snippet": "Banking, payments services disrupted after Amazon UAE data centers hit in drone strikes\u00a0\u00a0CNBC",
-    "importance": "low",
-    "tags": []
-  },
-  {
-    "title": "Amazon reports that three of its data centers in the Middle East were struck by drones",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5fdkU4NXc5bVIxcFR5ZGxZbDQyWjJyazVSQ21TREhBTGJQejljYkt6Y1hwZFZIdXd6SjVKU2VzbHdKQW1LRFhJdFQ2ZmJMb0VNaGg0Q2dRMmxCXzRwdWlXTUZna9IBY0FVX3lxTE5fdkU4NXc5bVIxcFR5ZGxZbDQyWjJyazVSQ21TREhBTGJQejljYkt6Y1hwZFZIdXd6SjVKU2VzbHdKQW1LRFhJdFQ2ZmJMb0VNaGg0Q2dRMmxCXzRwdWlXTUZnaw?oc=5",
-    "source": "Bitget",
-    "published": "2026-03-03T16:35:05+00:00",
-    "snippet": "Amazon reports that three of its data centers in the Middle East were struck by drones\u00a0\u00a0Bitget",
     "importance": "low",
     "tags": []
   },
@@ -1420,6 +1351,15 @@
     "tags": []
   },
   {
+    "title": "Amazon confirms datacenter \u201cimpacted by objects\u201d in UAE during Iran strikes",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQek9GcDFkcUU0ZFl3aW1TTllKSlRQd1FPZk5ZX2tEN0JIdlZFcExEQktOQUVCY1JSOXpUTjFIb1ItUEI1Q1JQR2F4QmVVT0prNF92bU9qWThiM1YyQ2s2ODNhWVB2d05ZbnZZd1FjNnZfLXY4OVZ2ZnBfeDN6QkpQSDFIbEMyNkdVRjVjS1E5ZWRIeWdwTEFhamE0aU9Bay1Za2xxVnhpUHZQaE9r?oc=5",
+    "source": "OC3D",
+    "published": "2026-03-02T17:19:10+00:00",
+    "snippet": "Amazon confirms datacenter \u201cimpacted by objects\u201d in UAE during Iran strikes\u00a0\u00a0OC3D",
+    "importance": "low",
+    "tags": []
+  },
+  {
     "title": "Amazon Data Centers on Fire After Iranian Missile Strikes on Dubai",
     "link": "https://www.reddit.com/r/datacenter/comments/1riwwez/amazon_data_centers_on_fire_after_iranian_missile/",
     "source": "/u/404mediaco",
@@ -1427,6 +1367,17 @@
     "snippet": "submitted by    /u/404mediaco   [link]   [comments]",
     "importance": "low",
     "tags": []
+  },
+  {
+    "title": "Florida Senate unanimously approves bill to regulate AI data centers",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNcjhIcWkzdWNqRzdnRDU4T0N0Mk5Oa0RaWjNTZWdram8zSTlaVXM0dm9aN1pFeS15djhNNG5ncm9OaUxRTERnaFFsak54QmFJNEhGNmItNmNZTVUwVlNGSkhRa3VjOEVsSU9IYUNodjZXVFZBdnJBRTkzZ1hxY045U2JzS1RSUG96aThxaGJINVhNU05jS0ZoNmg4YUFMTXRoWml0RXRxY3lqYUk4MEVETmRmdUI5cWJxN295cWE4Z2FLcFFaVExTVEphLXpJLXFLNGJjeXNtcmRtamZUUzlNZC1RTnpiNVMtRHJ3cmRHckN4UdIB9wFBVV95cUxNeTk5MlNsV1E5Qk1KTEJzRjlsT09FdXF5RTNiN0ZTTGk0eUozSXo0R3kxMGNTbEtPekNNd01hbnY4YnA4NEw0U2FmZEZPTHBqNmN0cURrY0x4N1Z5SWtHYkY3SzI5Wks3dFZjb2dwaHNsNnhUOHBBOExueVRHTjVudWVJa3oxamdhZWNlUlRrUlRoNVY4U2s5WnVkbFVjU25LZHdiT3N0UEdMaFlfMlNCeldVTDhWX21DVkNvYXBEQm9DX3RwYTNaczdQX2U4akNraE9kS0RLMUl6SERtYnVtS09ZempVcDZMOXNsU0U1TGlaMUFFdnBB?oc=5",
+    "source": "The Miami Times",
+    "published": "2026-03-02T15:24:00+00:00",
+    "snippet": "Florida Senate unanimously approves bill to regulate AI data centers\u00a0\u00a0The Miami Times",
+    "importance": "low",
+    "tags": [
+      "policy"
+    ]
   },
   {
     "title": "CoreWeave: Focus On Prospects, Not Growing Pains",
@@ -1473,15 +1424,6 @@
     "source": "/u/steevo",
     "published": "2026-03-02T10:22:11+00:00",
     "snippet": "Is this something to do with UAE Datacenter being hit? Many Middle East AWS are also down    submitted by    /u/steevo    to    r/Annas_Archive   [link]   [comments]",
-    "importance": "low",
-    "tags": []
-  },
-  {
-    "title": "Hit in the head by the board of peace, data center now under attack in UAE",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbWRMazdwNWdqZGNFUzdsUVZZOVdkWWc0Z1pKblkzR1ExQTJhZUFESVdHOEJ3eVI4RUkwQTk0UkY0WjJsbDg1NGE4TU5yaXlmZklyVmJXUjU5eXZTUGZka3JXY0tRMm96YzIwV19SVzhLbUh2ekhPVUxLRU1ESW5KOFFxcDFYZ3ItUGNUVkVtajZkVVYtSTBaWHpfMW1zS1pUV0puZ1l6ZmN2V2lNSVoybkZjTDdDR21wQVE?oc=5",
-    "source": "Daily Kos",
-    "published": "2026-03-02T10:03:07+00:00",
-    "snippet": "Hit in the head by the board of peace, data center now under attack in UAE\u00a0\u00a0Daily Kos",
     "importance": "low",
     "tags": []
   },
@@ -1567,6 +1509,15 @@
     ]
   },
   {
+    "title": "The A.I. Data Center Backlash",
+    "link": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxQTjMxSkl1TXRISXdOTTJyUXYwWkJNVDQxTjhjR3dSYWZHdjZQVmdUaVg3NjRyS21TQ0JvcHEyM2k4MGsyeUNJQ0g1VURwNEU5VkZlMWVMS0hTQ1YxS081UGxJMHg4d3h0Wm5PeEI2RnNjYzFLRk96YWxHcUtPVmFpVWdmLTE0Nk1Pb2FhSmotZUNyRHd0UWt3bXMxXy04b2paQmV0RWg4X3ZqRy1NM041Q290WEo0ZEpfT0N5WUU0NVJRcDRXZWpRZWNnVXVhZFZmVFJzd3BFZ08tX3l4WGNKVWtSS2Y5TVBHdWlKa3duMVJsQTc0THhNQUY5WEFIRjRlYy1LUmtsaDMxRDZNVEcxS0VTOEhhM2RwR2xtWDZyZ3F3XzNYTjlrLWxNZ2tKWFJSU2VSNHMzQzBvU1BiNm9qMUwwNTlmcGhlOTRGZnRLZ3FubGZGdmMxNXloc0diQ0M5RWRZUVRlY0ZDNWRaanRpZkpyNDVkMEp1RnFzNXlIVVQ2SjZUNVB4VzVyMGIwZDJ1elJRQWRFMERNVVFRMGdqS0JnbG1tZEpDM0FCMzlMWTNlYlk5MXVISzR5aGNoNkNvZTUxV3BtZW1YemFFdmFMc0luOFM?oc=5",
+    "source": "WSJ",
+    "published": "2026-03-01T11:32:00+00:00",
+    "snippet": "The A.I. Data Center Backlash\u00a0\u00a0WSJ",
+    "importance": "low",
+    "tags": []
+  },
+  {
     "title": "\u2018Once-in-a-Generation Opportunity\u2019: CoreWeave CEO Defends Spending Plans as Stock Craters",
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQME9DU2VfNFF1WWFyQVVTVDFpTmRiM3l2SnhTYWxIekVFVmlOb1dfV3dJTmgwTWhYa0dSUVo4Z2VLbWo2MXo2RS1UT1BTei1feXlaWTRpSkJjaThlOTFJVXJSMFg0S3g0QTJhREdYZ0tRZkpRc1ZfOHZ2QlNRbS1IWmVyOXZlTENJTkpUR0RzV2VZeEk5WGNEaXN1MF96anRJUXI2WU5FY3QzNHNGbGZTQXQyaE5UTTg?oc=5",
     "source": "TipRanks",
@@ -1649,10 +1600,10 @@
   },
   {
     "title": "CoreWeave shares slump as doubling capital expenditure sparks margin concerns",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbGRSSVl4cmJjNXNPMEh6RFNDSzZneGxfak81VTNpUFF0SlhBd1A5bV9va21RSnRGS2tLdlR6ODhqWjNaNkN4bUJCWlFFVmpyNXBDTFJlT3JBcW56aFgwb3VUeGd2cm1GLU9pNk1UTmdMNExVb1RHZ1FvRWFGZ3JPbHdSYl9ETTFpRXkxQnV0QjdjcmpkcnZzSTBRRWtFOWVrTXhXeElVMC03cFRz?oc=5",
-    "source": "WTVB",
-    "published": "2026-02-27T16:27:17+00:00",
-    "snippet": "CoreWeave shares slump as doubling capital expenditure sparks margin concerns\u00a0\u00a0WTVB",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYzNYQThmVFdqazlqaFpzSzdEVWhXNFpIdUJHRTV2UndsdVJrZHZFNVJRLTBHdVo4OU1XZlp2Qk9LbndIZ0tQSi1wVU5aWEhab0RUbHJmWDE1QlBtNGs3Qmw3MEstenFNRHRfNTJqMGVXU2k2TVJRUmo1c2s3X3UxQ1JkblNwTzI5ODItSHZ0N3Y1dElTMXhtSWpscFNFejFmUFViMVR1Qi1QZw?oc=5",
+    "source": "WKZO",
+    "published": "2026-02-27T16:37:52+00:00",
+    "snippet": "CoreWeave shares slump as doubling capital expenditure sparks margin concerns\u00a0\u00a0WKZO",
     "importance": "low",
     "tags": [
       "coreweave"
@@ -1777,7 +1728,7 @@
   },
   {
     "title": "Opinion | AI and the Data Center Backlash",
-    "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxPbUxtYU1ybHZqZG9JcmVzQVZYYTF6MkUtdFFjbDJPQnBTZkVHY01KM3RicjJVZUM3ODFWZWRfbTNabFN6YV9FaGVIV05yT1ktSk5XU0gwZnYyd2E3ZjdaLXduZDN1UEZuM2hZdFpGM1d4RENOMTE2TmMwZGdBU1JqUzBrNk9MdWNTZy1SWkdWWlQ5MTFzMTYydHNCOXV4SXFLOTNXV1lIWHVfSnpnVnJkcFVQX0l2ZlduYTB3bVhfVU95WW1KcTlDTl9obWlFNjdHTTZLYzk4LVNobHZPN3d0QU92SG9zeWZhQ3cxT1VLSzdiWVdNT2V6d3Y3czNRQlVNeEtFYW5Sa24zQlZNTUZFc3hIRGh3MDM1SXVBblVpWWdyczZNM0FfYmwtaGc0dUdOMlhrQTFZSUE5ZFp5YWJ0WTM2c01Dc05BUHR6Qmg2R29sWTJZWXpmT1JLYmpqV3BmWEpLNmZVT1daVHJMUnhkQWlmTzZ6RjZqcERZcjZzT3RpT2lFRjV4MmEwZHp1OF9kcHI5RTZYS2dPbEtCdkNsbQ?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxQMnlsd3Y0LXBzX0hRN3J3TWlzbmV3XzZlb1dBemd6aHM5aks5ZXN0RW03Z1Y0MjJxNlRfNWR6WGRpeFZrY3FqeDEtcmlDMDRkZklLaWxtVWlvalotS3d2LVlaTzA1dHRfQ2RBeEF1bi1OWUdDU1dZdzl5cUg5NWhzbExyZ1pRcnhQckZTY29RbHlhd2pxckNHQV84dEU3VDZoZmdKSlBiUVl6Q2pNZGhjWGFCRlRnRWNCcnZiZDBwUDZwbmZ4bVBXWGlGSnpsODlXcHpuUzB0czRKOFpBYXNVUVZqbzBfWWhtcWZzaldDaGxpVHhLeGVsY1dZeEhqczl1ZlU4SEM5MEFWNW43OHVhN1pjb3dPTXNocmhwZ0I0UFpoQ0lRSXZlUjFzeWFPRmtQOGpodG4yUHZMeWJ2MjRULUNfUHVreDd5SUdXR245dzJudXBsRjl4Y2k4ekRUXzBBY3VuQXhqMF9sVVRUdUtrdGtfQ3dia1FtSDlLWmxjbXJ2Y2xTY1NUOE9QVlo2V2Z2aFhXd0xzWlV1a2c2SGx1UQ?oc=5",
     "source": "WSJ",
     "published": "2026-02-26T22:53:00+00:00",
     "snippet": "Opinion | AI and the Data Center Backlash\u00a0\u00a0WSJ",
@@ -1902,11 +1853,11 @@
     "tags": []
   },
   {
-    "title": "Mooringsport mayor petitions court over Shreveport data center vote",
+    "title": "Mooringsport mayor, others challenge Shreveport data center vote",
     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOS1HTE5TVmM4dmpFb1o3elVUNEV1c0s2SjlpMzBaR2tvNENnOTR2eFJwVUVRYlQwRE9jM3FIS2xIajdaU25TeTg0ZzNTLWJnU2xIRGY0dEYybktJQUZHYzlJVnp0d2ViWndoeGdRcEVfMlFWVkpab2FfLTZlTjVBM0dHRmRnaHNWSHg4Skg4ZFo1LUc0V3RNWUxSTWNmMlR3aHBmMHV3Q1o4ZnZDbngtMUpZUGNINHItM3FqbndHRVQza0VGeTVuQzZBZ1FBclczbkk1ZlF2VQ?oc=5",
     "source": "Shreveport Times",
     "published": "2026-02-26T15:24:00+00:00",
-    "snippet": "Mooringsport mayor petitions court over Shreveport data center vote\u00a0\u00a0Shreveport Times",
+    "snippet": "Mooringsport mayor, others challenge Shreveport data center vote\u00a0\u00a0Shreveport Times",
     "importance": "low",
     "tags": []
   },
@@ -1925,6 +1876,24 @@
     "source": "Data Center Dynamics",
     "published": "2026-02-26T11:48:50+00:00",
     "snippet": "Plans for space data centers labelled 'ridiculous,' 'AI Snake Oil,' and 'peak insanity'\u00a0\u00a0Data Center Dynamics",
+    "importance": "low",
+    "tags": []
+  },
+  {
+    "title": "Sanford AI data center proposal faces pushback, possible moratorium",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOalVzaHJ6c3U5MWx5bW9XU1RSRDFUeXpjTk95YVlDTVZzTUpiSFhYYU1qQkUxSDBvQ3hkbUc1bjk1dkQ1bnZDNmxUQURmTnNHMG9Zc2NDc1BZS1pEWVZPcGtUQXlCTkdiTnVEM19nYWNVeVBsN3E0eWczUnVWWGRvdEJJZVVObHJfei1wZkhBbzB5TS1NOTJhRWdRSmxuaGpnXzdaOFBab2U1LUtxRDUtTWFoYkN2QVpRdXZxX1JBb21vczZVblN4TUF5REJZS2xXZWprWDl5RlBFZTVnNmx1QVB6S3ZRUy1qa0E?oc=5",
+    "source": "Seacoastonline.com",
+    "published": "2026-02-26T10:03:00+00:00",
+    "snippet": "Sanford AI data center proposal faces pushback, possible moratorium\u00a0\u00a0Seacoastonline.com",
+    "importance": "low",
+    "tags": []
+  },
+  {
+    "title": "Where are Southeast Asia's data centres?",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRlJITlBscU9jdmQ1Yk93UVUyaFhNdmRkSnlvbDNDeWRoQ0pVX1hyd3pRVUtMdkliUTFfcGJ6Ti1JbXBadVZONGJGRXhxRnU5Njh4dTkyTXNzZDhNSzg4bW90b281Y3hQTmhFcEZnMVpqRFdxMGtTREN3UkxLalN2Sk1PSWVZelZISXJ6LU13ejhXNnRu?oc=5",
+    "source": "The Standard (HK)",
+    "published": "2026-02-26T10:02:59+00:00",
+    "snippet": "Where are Southeast Asia's data centres?\u00a0\u00a0The Standard (HK)",
     "importance": "low",
     "tags": []
   },
@@ -1959,6 +1928,17 @@
     "tags": []
   },
   {
+    "title": "Missouri lawmakers address bills that would regulate AI data centers",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWjlURXFaZVByeUN5c0oydDJLM1ZNdDJtT2M0cmYwaWk5UW05UEx1eUZod3N3R0Z0VUpndFgyRVBGQlJCblpGTUtETTlqU0hGekNCd25XcGlxa3c4YXJOaTdaWHRic0ZiVzE3OFMwVldmenFCYmJDbTh1UnNVUXJLWWJ0dnNyUXBNUVl2cHV1QkhkYlJCYk1qdHhZcmtnWUNwem00MzF5ZExlS0IxbG5SNUs4ay1HYmJYdUh2dW9fdndQZmJRUXlTUHdqX0F3alBpeFhObkRueE1Yb1VBUVJ1ZklkZXI?oc=5",
+    "source": "KOMU 8",
+    "published": "2026-02-25T23:45:00+00:00",
+    "snippet": "Missouri lawmakers address bills that would regulate AI data centers\u00a0\u00a0KOMU 8",
+    "importance": "low",
+    "tags": [
+      "policy"
+    ]
+  },
+  {
     "title": "OpenAI chief dismiss orbital data centers this decade despite growing hype",
     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUTh1WFhhSHYydVJRcm9RS3BVSzYya0RkYXlCSlRGUE5ldGkwaE1WMjNVUE9mN3ljVWFIdVV4UE1FMUxJaERBTGNnNi1LeWNxaVg3MVFUX2FsM1NadGdiRDhlVm1LS3FQczU4VnYyWTlnRHN3QmF2N1ExYzlXVUFjc3NGTEhDcXJvRWo5WGdUc1BTTV96Tnh3a2NjY202U0JnWGpLb1EzcExKS1F0dUxZRDJpSkpvZWpUd0VIbTAzU09KY01hOGZLSjN4U2xkTkxKTlNIblEyci1WVVJSUWZ3Zg?oc=5",
     "source": "TechRadar",
@@ -1968,15 +1948,6 @@
     "tags": [
       "expansion"
     ]
-  },
-  {
-    "title": "Get the Facts: What data centers do and the rise in electricity demand",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YdG9RUWpLM09Qb281bk55QmlrTjJ1ZjZFdmwyMTlYT2NBRnQ0WWY0SnNhVWEtSkpsSndRR2dOQmo2RkVtNVJicjQ5WE5lVUhyLWxEY241d0Y3aDNrVG9zYzdwckoycUNiejhzeHJTMU5DUQ?oc=5",
-    "source": "WJCL",
-    "published": "2026-02-25T21:23:00+00:00",
-    "snippet": "Get the Facts: What data centers do and the rise in electricity demand\u00a0\u00a0WJCL",
-    "importance": "low",
-    "tags": []
   },
   {
     "title": "Viral video captures residents' reaction after officials cancel plans for US data center: 'It almost did not feel real'",
@@ -1995,6 +1966,15 @@
     "source": "WFMZ.com",
     "published": "2026-02-25T18:35:00+00:00",
     "snippet": "Residents want more specifics as data center proposal emerges in Lower Mt. Bethel\u00a0\u00a0WFMZ.com",
+    "importance": "low",
+    "tags": []
+  },
+  {
+    "title": "Round Rock Texas Approves Ninth Data Center Over Strong Community Resistance",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNkRlZnJQdWszbWNrcWt0UHJXRlRPenhCaFFvb2FLWkhGV1NMV2JzdlhocEJOYm44QlpZX0VFMFFTWDNaWk1vTXYxcURkQVhIYXBoX0NJUG5xYWxFSW1sZEdlUUJSUkU5azNmeF9FZzhGdVBLNjM5MHN2aUdtTG0zUVBkcmJiT0JsVnYyd0VWcElrY2wyVGwzMlBuR2o3cU9RV3JnT1hR?oc=5",
+    "source": "deceleration.news",
+    "published": "2026-02-25T14:52:54+00:00",
+    "snippet": "Round Rock Texas Approves Ninth Data Center Over Strong Community Resistance\u00a0\u00a0deceleration.news",
     "importance": "low",
     "tags": []
   },
@@ -2061,15 +2041,6 @@
     ]
   },
   {
-    "title": "Democrats U-Turn on AI Data Centers to Weaponize Fear During Midterm Elections",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORUtuaEVBVTBZX3h2WnhGN0tOVldTZHFKRlFlX0N4WkhWVVZyMGZBR0h4TUNMbnZWOW1xbzRMVkZhTHJVNDVmd0dycnBHdUJrTjRETGFpaUJwd3Z6TjVKZThpLVU0ZlBFLUNxN0ZWQXlCTFpacjJVTXZjNy1RTHBTX1FCQnpYQ1NreXdvM0pTaGpYLWNMcGdZYUNKN29qMzFEemZEZ3dBODFuOVZ4Vk81OTdJcHQzUFhGOWtrX1NB0gHDAUFVX3lxTFA2Y3Y0TThqYXA5MU4ySkhieDFTQURNRUl1dV9sYTFaUkVXNnVSc3ltdEgxNFBKYVBqYTEzTV95ZEM5TmRWMU9YOU9UMlNKOWxLQnBHNUhUZE5rTExWMS02bk1nd2pYQXhXNHNGVmZzeFVSRF9qSkt6bGtXUEE4NlVsVjZ3UDJVei1YcWYzVzN6ZFM5MmQyajY3ZFBEMFlNLWdoTHFhUVAyVzdReGhtbV9UTk1OZHNLSEtoX0JxcWJKamxSMA?oc=5",
-    "source": "breitbart.com",
-    "published": "2026-02-24T18:05:40+00:00",
-    "snippet": "Democrats U-Turn on AI Data Centers to Weaponize Fear During Midterm Elections\u00a0\u00a0breitbart.com",
-    "importance": "low",
-    "tags": []
-  },
-  {
     "title": "Amazon plans $12B Louisiana data center complex",
     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRWRaNGlRRldqVnBmUi00WHh4by1CakhJdDVXRl9ZeUdLN1NhUjhrMUg2c2NuUjJzNGNhLXQwdjhIeWdkdFh0REtwV1dQWGI0TmE4RVpPN01LcjF2XzROWHBKTlA5YXhoSEdZVXdxZ2dLTTV2MDYzUUtnSUxpdjdibC1GdXBYdw?oc=5",
     "source": "E&E News by POLITICO",
@@ -2079,15 +2050,6 @@
     "tags": [
       "investment"
     ]
-  },
-  {
-    "title": "Data Centre People Moves at Schneider Electric and Kao Data",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNai0tMGFNRHpST2JMVWJXcVIxSXhWaHJlSG9fNzM5aVpxaHJ2cVdXSDNhanNWRDRRb3ZFZDJfRFA1bUM2Wm1mREJZZDdWcEljUzFHVU9fWkNGa0VqaGlFS1VuRmFrVFA0SWlwMVE1OTRleGU0bTYxNVQzTmI1MWN3ZHVCNHotMnhieUxibGVOa2ltaUJXbTdXWWZaLXpaQnhwbjkyQnpwcmVHUUc4WkVYb0lSSXJwSGtiVUE?oc=5",
-    "source": "Data Centre Magazine",
-    "published": "2026-02-24T10:08:37+00:00",
-    "snippet": "Data Centre People Moves at Schneider Electric and Kao Data\u00a0\u00a0Data Centre Magazine",
-    "importance": "low",
-    "tags": []
   },
   {
     "title": "Americas Data Center Update | H2 2025",
@@ -2130,6 +2092,15 @@
     ]
   },
   {
+    "title": "Trump Seeks Vows from Tech Executives to Cover Data Center Costs",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZXd5THl2N0lHNHVpNlc0Y1FvMUstZV9ETGN4blpWLUd1WW8wMEl6eW92Z2JXVWNWNWFQb3FKY3pTblhEcXRwS3RUQ29aQldrTk5vTTJIRzJvZXJfZ1ZfcmVLd0dEMEdpdk5ZNTNQVlpTVWRjTllkTzQzNXpTQ2FIUnZkaGdxaVp6MFNoR0NZUkN5dVB0M3VaMGtJWUw5S2p1b2FUR1UyQkhzbzRPLU00RW14NW53dw?oc=5",
+    "source": "Bloomberg",
+    "published": "2026-02-24T08:00:00+00:00",
+    "snippet": "Trump Seeks Vows from Tech Executives to Cover Data Center Costs\u00a0\u00a0Bloomberg",
+    "importance": "low",
+    "tags": []
+  },
+  {
     "title": "Data centers are racing to space \u2014 and regulation can\u2019t keep up",
     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1jWnBwMjQzTktDTFpSSzJJV0ZYTkFOMHVnRWJaYmFfR25PYUlNaGh6Y29nek50VlVVemNvRVRaa2drUjJxWFd6YTFfbEdOMVFzeVRDSE5oZ2U5M3pCZVZZVW0zNGh5czZPZ2x4TUgydUc5OW8?oc=5",
     "source": "Rest of World",
@@ -2159,15 +2130,6 @@
     "tags": [
       "policy"
     ]
-  },
-  {
-    "title": "Sam Altman Calls AI Water Usage Claims \u2018Totally Insane\u2019",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OanBSSWFDR0ljQXQ4R2tFeHpNV1NxMDZiam14UVlOR3BzR0t0TS1SUzl1Tm9PODhtenU3dEdwSlBhblc3b1hESTB5TkR5d3BKaWZXSGpac2NYLXVmNDlpUkFWbklsamt0ZmdCNHBXM1I?oc=5",
-    "source": "eWeek",
-    "published": "2026-02-23T21:08:04+00:00",
-    "snippet": "Sam Altman Calls AI Water Usage Claims \u2018Totally Insane\u2019\u00a0\u00a0eWeek",
-    "importance": "low",
-    "tags": []
   },
   {
     "title": "CoreWeave, Inc. (CRWV) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit",
@@ -2276,13 +2238,27 @@
     "tags": []
   },
   {
-    "title": "To Win in the Kingdom of AI, India Must Stop Celebrating Data Centres",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5xa1ZwQVhIVjNRYkxNaUFoVUF0WHByOEdxS2RFOEkxUnlfclpBTjVIZGlwY0xmZ3plbl9JSEI2MVFENFJscG9ZcUNCalFCM2psd2VSQTNuVzh4eTl5RW1BVTRMWlJHUm5NT1dvU1RTb0Y3Z2haOEpMZFJNel9uZ9IBiwFBVV95cUxQcU9WRGtSSmdkbkVyZmVBc0NSaTc2RUZWcnNpNy1mYklNR1hwdUVxT1Z1ZVRrQUJqSWV0ZHl3ajV2OEkwVHNIazdQa2ZsX3dzX1VsQ2c3YjRWdWhWY0FtbjRlcnFqOGFCelRMZGNNVzN6eElMQlBiVzBNT0VaeEhlTEhZdXNvekh0Wnk0?oc=5",
-    "source": "The Quint",
+    "title": "Amazon invests $12B in Louisiana AI data center in Caddo-Bossier",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcEhOaXFqc05RcjN1Uloydmg5WjZFQVZaRU9xZ2N4SFUyS3VZQ3QxaUU4ZWFxdUI3YlVUNEJ2LXBNUkliX0Z0clRrSmV2TlRGRXNWNzlDZ21Ld0haY2VsQnlqZEFCUGtscDdhLVZfa0tXVy1HVHpKR2IzVDBDaUJtTHZoamM3MjRkbE1qcGJLckZ0VmxTSGszV25hRG1PdnlUTXlNUTJOUmpzTWgxc1BKRFV1aWliMkN5ZHFXa2RsekN0bFJqZWFxclRURzloa2t4bmJCTE1CWUdXRGFWeXE4R1AxcTQ?oc=5",
+    "source": "Shreveport Times",
     "published": "2026-02-23T08:00:00+00:00",
-    "snippet": "To Win in the Kingdom of AI, India Must Stop Celebrating Data Centres\u00a0\u00a0The Quint",
+    "snippet": "Amazon invests $12B in Louisiana AI data center in Caddo-Bossier\u00a0\u00a0Shreveport Times",
     "importance": "low",
-    "tags": []
+    "tags": [
+      "investment"
+    ]
+  },
+  {
+    "title": "Louisiana governor to announce $12B Caddo-Bossier project today",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdV9BU1ZqZEJWMVA0czUwaTIxdklzTUV1ZG9pVjdNc0RrNmRVTnV3SDhTa3hWMU1rYUhYZUVJelpHLUtFVWxqenVCTUZwQUN5bl9KQkh0bUE2ZDVxcjhITFQ4aV9CSEZjUEVOZ3ppaFE4blRpSHBmczlDZXNKTzVxZzZKMWVxYUlacVVFUUpNdGx0Snl4anRrSlZhYkpZcm5OWF8wdndXWk1wNEUtZzdpVklsZ1dpOG1XQjQxSW9KTkdRTmRKTDM3YXc0X0Zsa25jYWRKNWcwZGRQZmxiRURBb3VpenNidm1lV2FScU5Cc0xWZw?oc=5",
+    "source": "Shreveport Times",
+    "published": "2026-02-23T08:00:00+00:00",
+    "snippet": "Louisiana governor to announce $12B Caddo-Bossier project today\u00a0\u00a0Shreveport Times",
+    "importance": "low",
+    "tags": [
+      "investment",
+      "policy"
+    ]
   },
   {
     "title": "Paperwork error delays Sunbury rezoning that could lead to data centers",
@@ -2294,11 +2270,11 @@
     "tags": []
   },
   {
-    "title": "Altman calls Musk's space data center plans 'ridiculous' for current AI computing needs",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSGtpdHRlbmE5M1NWVm1RdWc3LUxUY1NleVlQeEZqRDZzdHFzQmt3VVVaSTJsaTg0djV5c1NOdHJYQUNZQUJ5c1JKRkhQdjdqRzBxTXdXQzVkNEJKMUdBaUVXOWhORl9PcG9zb0szUFhIcHFlcWcyNWVVWkVCYXc1V3VnOEkxek9CazN6SE9lTW4wdFAxaGZTa2JyMm5jV1lucF9ZY1loWFlEN2dMM3Z4RFBNN2NIclIyUWw00gHAAUFVX3lxTE1aNWpPN3k1SFowOEJ1al80RUI0RDRjOEpLV1c3czZuektXWjZUeHQ2eGZVdVk4OVMweng3RVRPaXpZX2dENDFOeFpFMzZTdFNjTGlUTjYycmRPTV9jb1lvbW9fdVpwYXBnTzRsd3c4dFU3cU5BdlU0bG1nWTMzVTlGNWx4RWhuZGgyV0pLSzQ2dUZfYVV3OVJiSVM5VnQ4VFdtTGRWWEFFbXhKYTduRmotdVBldTU2QXQ4UWNxR2Fjcg?oc=5",
-    "source": "Fox Business",
+    "title": "Altman calls Musk\u2019s space data center plans \u2018ridiculous\u2019 for current AI computing needs",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdDZZbWlLNU1ZMW16aTJlSTd5ajlWcTVZanlBUGVUaXg1dm4ycFNNY291dzhhT2pvbkQxYzJsWEJBZEpncC1vbFRCcGN5d3h1a3BncWRfeVNGRFVOS3huNEc2dTdwcF9HY0pFUEFmTHBWOUVvMUEyVno3QVByN0NwYXFXT1JDbDBYbXNVSnAxblAzeWhnNWNoeExINV94SW1wWWhLUkFaYmJmdV9PV244T3l5bW8tX1YtbTg1Vl83MDBsZw?oc=5",
+    "source": "New York Post",
     "published": "2026-02-23T08:00:00+00:00",
-    "snippet": "Altman calls Musk's space data center plans 'ridiculous' for current AI computing needs\u00a0\u00a0Fox Business",
+    "snippet": "Altman calls Musk\u2019s space data center plans \u2018ridiculous\u2019 for current AI computing needs\u00a0\u00a0New York Post",
     "importance": "low",
     "tags": []
   },
@@ -2406,15 +2382,6 @@
     "tags": []
   },
   {
-    "title": "LaPorte County dispels data center rumors as Microsoft project advances",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZ0dzY3FtZkNJNXk3WFBCT3RHT2RPS1hDdXMxbjJvbUQ3REczQjZyaVdBeDU2M0ZpZGhUZjZpb01sOEFTYy1jNWV2X2NZU2I1a2YwWXNOdTFyUWFDVFFhdjk2dzdoQ19XUW9BM3BqSkNWdjJLOGJ1T0h0eDdBRnZfSFVvWGhCRGRVbGxqUTUyTWpEWFNTbWxlaG95R3N2REplSGJlempSa2xIdTE1dkM4ZVd6QXBEbWc0OFBKVFRZSEVGUkVxQTlFeHBmNHgtVkhyTngwYjZ5bGJoSGM?oc=5",
-    "source": "WSBT",
-    "published": "2026-02-21T08:00:00+00:00",
-    "snippet": "LaPorte County dispels data center rumors as Microsoft project advances\u00a0\u00a0WSBT",
-    "importance": "low",
-    "tags": []
-  },
-  {
     "title": "Sam Altman says Elon Musk's idea of putting data centers in space is 'ridiculous'",
     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObVdrcVdUZ25XVTVZTWZhM3ktT3ZYZXhkTndXa0pma3JzcTBrU1pZQzV0ZUlTMjdad0JTT2wtQkN1U2tPLUprS2pSeHJxSHQwd056ZmVxZUFLVGFmMFNIZlNRcldJakpHRjBwWkpGNFd0bjZ6T0xrR2QyZVA0Nm9QR0J0eldGc0tmTk9hb0J6QWY?oc=5",
     "source": "Business Insider",
@@ -2433,15 +2400,14 @@
     "tags": []
   },
   {
-    "title": "CoreWeave Stock Falls Amid Blue Owl Doubts, Data Center Debt Financing Report",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQTJvdTRNYkxGRUxuWkhYUUZ5Uk14Zmo4c0hHdENBSDFib0dEb0hmM1F5QmdZQXN0c2V5R3E3NmVvaUNsUUgyXzc5VGc2NjBjdGY1NFlfNkstd0JKYmlZN3JUVTA4V3JYVFg1VHFISlJVLUtSeEVhUTB6bmNrWDMwek1lbkY2aGhjOUFxMG9FU0JTak0?oc=5",
-    "source": "Investor's Business Daily",
+    "title": "Governor Jeff Landry to announce \u2018transformational\u2019 Caddo Parish data center",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMWJZR1lCZ3J3U0xtRFQ2cnVrd1FXRTUtSGtaLTFaRHBkSHRaN0hwU0tVbklWN05MeHRxTnZqc0NfeS0zT0ZnRWlCSVdKTWlrWlkxMU9QM0h2MTJ5cUhRTm9mVTNTQmNPRzFmVVl6NHc0OWpTR3FZT1g4U19RUEs0RzEtaVpSa19kTVNnN2hRb0lkNzMzOURFMS10TFpZdkctVl9mOVBjV2xHQUdvVURDQnR5QlMtY0pHdExUX0JaSnJ5ZE9sUkpoNldVbmlSWWxWVzZnTDdVbWc1RVdEN1lpZDA0elY2VDZtV3c?oc=5",
+    "source": "Shreveport Times",
     "published": "2026-02-20T08:00:00+00:00",
-    "snippet": "CoreWeave Stock Falls Amid Blue Owl Doubts, Data Center Debt Financing Report\u00a0\u00a0Investor's Business Daily",
+    "snippet": "Governor Jeff Landry to announce \u2018transformational\u2019 Caddo Parish data center\u00a0\u00a0Shreveport Times",
     "importance": "low",
     "tags": [
-      "investment",
-      "coreweave"
+      "policy"
     ]
   },
   {
@@ -2453,6 +2419,18 @@
     "importance": "low",
     "tags": [
       "policy"
+    ]
+  },
+  {
+    "title": "CoreWeave Stock Falls Amid Blue Owl Doubts, Data Center Debt Financing Report",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQTJvdTRNYkxGRUxuWkhYUUZ5Uk14Zmo4c0hHdENBSDFib0dEb0hmM1F5QmdZQXN0c2V5R3E3NmVvaUNsUUgyXzc5VGc2NjBjdGY1NFlfNkstd0JKYmlZN3JUVTA4V3JYVFg1VHFISlJVLUtSeEVhUTB6bmNrWDMwek1lbkY2aGhjOUFxMG9FU0JTak0?oc=5",
+    "source": "Investor's Business Daily",
+    "published": "2026-02-20T08:00:00+00:00",
+    "snippet": "CoreWeave Stock Falls Amid Blue Owl Doubts, Data Center Debt Financing Report\u00a0\u00a0Investor's Business Daily",
+    "importance": "low",
+    "tags": [
+      "investment",
+      "coreweave"
     ]
   },
   {
@@ -2508,6 +2486,18 @@
     "snippet": "\u2018Hold Your Horses,\u2019 Says Morgan Stanley as CoreWeave Stock (CRWV) Faces Downgrade\u00a0\u00a0TipRanks",
     "importance": "low",
     "tags": [
+      "coreweave"
+    ]
+  },
+  {
+    "title": "CoreWeave Stock Spooked by Report of Blue Owl Financing Fail",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeC1hTkpLbFk0cFdTVDdfblV2WVhvbFVZXzJKcFpiVmVOU1phVUNVRVRqS3lKZklfbDg4alJHM3JPai1QUVZrQ1R4cTFYNEsxRGpXQk83MG1raTdwMEJHYThKd1VFeDJRY0NoQVZRY19OR0piNlNMOUlpc3lIbVVZMWZvbllfc2ZyN0tEMHctSFprcW9va3Znb3lrWTRMR2JrTmFvTVlWOFJFUnZtVExtY3FkbU1BVXlpS2FxenpB?oc=5",
+    "source": "Benzinga",
+    "published": "2026-02-20T08:00:00+00:00",
+    "snippet": "CoreWeave Stock Spooked by Report of Blue Owl Financing Fail\u00a0\u00a0Benzinga",
+    "importance": "low",
+    "tags": [
+      "investment",
       "coreweave"
     ]
   },
@@ -2618,6 +2608,28 @@
     "importance": "low",
     "tags": [
       "construction"
+    ]
+  },
+  {
+    "title": "Pritzker's proposed budget includes tax on social media companies",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVG56MjVLcFlDTlFYNFdCUkNuNy1iV0FxbUtkTEhrYktjOXJrVTg0RkhtZmRFcm5sN1E2OE1LSTdRLVM1UDQ5WnZ5Zzh2RWlIUXVwRDhRbVNLZHZXQll3WEZNdDNqTGNjSlR2Y2dkRDdSZUxqNzZsV0d1cGRVd0F3YkpRVDU0V1o2aEp2dWlibi1yUzNoaG1EcE5vM2lEYm0yeHEtWTRPZHV1NTNMZnF3RTQ3ZFRuYVBqNUtPSWRRcnRTUC1x?oc=5",
+    "source": "The State Journal-Register",
+    "published": "2026-02-19T08:00:00+00:00",
+    "snippet": "Pritzker's proposed budget includes tax on social media companies\u00a0\u00a0The State Journal-Register",
+    "importance": "low",
+    "tags": [
+      "social"
+    ]
+  },
+  {
+    "title": "DREAM unveils Israel\u2019s first sovereign AI data center for government and critical infrastructure",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5U2xPczVrYXFIc1d6elNuY3VVRmd6bkZxVmMyaVFURVB2bndZZ2M2WVd4NFU3ZmR2WG1La2NhYnQ4UTJHTXZ0dWFSbmRiQ0E2QU0xTkJmdU5DUzYyWVlaSXVELXFVNW4wNXl2Rw?oc=5",
+    "source": "The Jerusalem Post",
+    "published": "2026-02-19T08:00:00+00:00",
+    "snippet": "DREAM unveils Israel\u2019s first sovereign AI data center for government and critical infrastructure\u00a0\u00a0The Jerusalem Post",
+    "importance": "low",
+    "tags": [
+      "policy"
     ]
   },
   {
