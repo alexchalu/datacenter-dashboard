@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-04T22:52:00+00:00",
+  "updated": "2026-03-05T02:35:47.062478+00:00",
   "datacenter": [
     {
       "title": "Microsoft Announces $10B Data Center Campus in Wisconsin",
@@ -8,7 +8,11 @@
       "source": "Reuters",
       "date": "2 hours ago",
       "importance": "critical",
-      "tags": ["AI/ML", "Hyperscale", "Power"]
+      "tags": [
+        "AI/ML",
+        "Hyperscale",
+        "Power"
+      ]
     },
     {
       "title": "Amazon Web Services Breaks Ground on 500MW Virginia Facility",
@@ -17,7 +21,11 @@
       "source": "DCD",
       "date": "5 hours ago",
       "importance": "critical",
-      "tags": ["Hyperscale", "Power", "Cloud"]
+      "tags": [
+        "Hyperscale",
+        "Power",
+        "Cloud"
+      ]
     },
     {
       "title": "Google Plans $3B Investment in Ohio Data Center Expansion",
@@ -26,7 +34,11 @@
       "source": "CNBC",
       "date": "1 day ago",
       "importance": "high",
-      "tags": ["Cloud", "Hyperscale", "Funding"]
+      "tags": [
+        "Cloud",
+        "Hyperscale",
+        "Funding"
+      ]
     },
     {
       "title": "Texas Grid Operator Raises Concerns Over Data Center Power Demand",
@@ -35,7 +47,10 @@
       "source": "Bloomberg",
       "date": "1 day ago",
       "importance": "high",
-      "tags": ["Power", "Policy"]
+      "tags": [
+        "Power",
+        "Policy"
+      ]
     },
     {
       "title": "Equinix Receives Approval for New Chicago Data Center",
@@ -44,7 +59,10 @@
       "source": "DCK",
       "date": "2 days ago",
       "importance": "medium",
-      "tags": ["Real Estate", "Power"]
+      "tags": [
+        "Real Estate",
+        "Power"
+      ]
     },
     {
       "title": "Nuclear Power Seen as Key to Sustaining Data Center Growth",
@@ -53,7 +71,10 @@
       "source": "Wired",
       "date": "3 days ago",
       "importance": "medium",
-      "tags": ["Power", "Policy"]
+      "tags": [
+        "Power",
+        "Policy"
+      ]
     }
   ],
   "coreweave": [
@@ -64,7 +85,11 @@
       "source": "TechCrunch",
       "date": "3 hours ago",
       "importance": "critical",
-      "tags": ["Funding", "AI/ML", "Cloud"]
+      "tags": [
+        "Funding",
+        "AI/ML",
+        "Cloud"
+      ]
     },
     {
       "title": "CoreWeave Opens New Data Center in New Jersey",
@@ -73,7 +98,10 @@
       "source": "SiliconANGLE",
       "date": "1 day ago",
       "importance": "high",
-      "tags": ["AI/ML", "Cloud"]
+      "tags": [
+        "AI/ML",
+        "Cloud"
+      ]
     },
     {
       "title": "CoreWeave Partners with NVIDIA on Next-Gen AI Infrastructure",
@@ -82,7 +110,10 @@
       "source": "VentureBeat",
       "date": "2 days ago",
       "importance": "high",
-      "tags": ["AI/ML", "Cloud"]
+      "tags": [
+        "AI/ML",
+        "Cloud"
+      ]
     },
     {
       "title": "CoreWeave IPO Timeline Reportedly Pushed to Late 2025",
@@ -91,7 +122,10 @@
       "source": "Bloomberg",
       "date": "4 days ago",
       "importance": "medium",
-      "tags": ["IPO", "Funding"]
+      "tags": [
+        "IPO",
+        "Funding"
+      ]
     }
   ]
 }
