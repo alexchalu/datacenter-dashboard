@@ -1,5 +1,16 @@
 [
   {
+    "title": "NY budget: Labor, lawmakers want $200M for thermal energy",
+    "link": "https://www.reddit.com/r/datacenter/comments/1rxdp7k/ny_budget_labor_lawmakers_want_200m_for_thermal/",
+    "source": "/u/news-10",
+    "published": "2026-03-18T19:30:42+00:00",
+    "snippet": "submitted by    /u/news-10   [link]   [comments]",
+    "importance": "critical",
+    "tags": [
+      "investment"
+    ]
+  },
+  {
     "title": "Google Ties Michigan Data Center to 20-Year Clean Power Deal Worth Billions",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMkJWeGJoaW9rOVhXWHFidWVLa1JaSE91WXF4ZnAzNm4zaldiUFh6bWdqeWZkWnVvbjMwRExHZlFDaUNTbmMzblN1aHE2WUN0LVZBX0x2X2VZMmloWUlVTjktT3hNa0dUSVIyRXNUeWw2WmtTTU5pMzhvOEFkMUZDMjhOUTBZTW94OVd5U0NtUTFOS2hnaUZsX25XREhqTUdhYUMwSFFjNA?oc=5",
     "source": "Gadget Review",
@@ -12,23 +23,47 @@
     ]
   },
   {
-    "title": "Asia\u2019s DayOne Data Centers said to near confidential filing for US IPO \u2014 Bloomberg",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRmZSaGF4OThFWDZQYzREVDFPd0tCZFA4YzRfNmV0UzkyOWpuWWRnS2hpakJ4SDZUSmtSN0VMYTVZaGxUdW9hQnE5d2hSVzdIdlB1ekVZTWpoSFlWUjJfaDR6SnFuQ2ZRNlhneGxqYUZOOWFRb3BjVEZJa0d4M2QydkRnOHNpaVlRZHNoMHNLVVVPTE8zcjNvbWZaSEYzcm5NZU93X2M3c0tjRDBoMFltOUxkN1ZjZTVWV0530gG7AUFVX3lxTE9GZlJoYXg5OEVYNlBjNERUMU93S0JkUDhjNF82ZXRTOTI5am5ZZGdLaGlqQnhINlRKa1I3RUxhNVlobFR1b2FCcTl3aFJXN0h2UHV6RVlNamhIWVZSMl9oNHpKcW5DZlE2WGd4bGphRk45YVFvcGNURklrR3gzZDJ2RGc4c2lpWVFkc2gwc0tVVU9MTzNyM29tZlpIRjNybk1lT3dfYzdzS2NEMGgwWW05TGQ3VmNlNVZXTnc?oc=5",
-    "source": "The Edge Singapore",
-    "published": "2026-03-16T11:42:00+00:00",
-    "snippet": "Asia\u2019s DayOne Data Centers said to near confidential filing for US IPO \u2014 Bloomberg\u00a0\u00a0The Edge Singapore",
+    "title": "Ohio citizens tell hyperscalers to take their supersized datacenters elsewhere",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QWS13NnVLQlkzSXV0c0J2UGlXcVRkNHlxdmNmMXpibjVwOVJ3ZnhhTC0yWllMemQyZnNlR0h3dmxpN3NtZi1LYkg4N2xsZHNKd0hBWUYwWlZ6TFdpZmJtZDhLY2NSczVUM2s2Q1g1OVpUUQ?oc=5",
+    "source": "theregister.com",
+    "published": "2026-03-18T17:08:00+00:00",
+    "snippet": "Ohio citizens tell hyperscalers to take their supersized datacenters elsewhere\u00a0\u00a0theregister.com",
+    "importance": "critical",
+    "tags": [
+      "expansion"
+    ]
+  },
+  {
+    "title": "Google pauses $20b Australian data centre investment",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZmFmbk5iODloeDY3UVdFWGh6a3VhellCQUV1SkhqbFZBb29GTVNEd0o1SjJiRllsY1h0RkRrQUxjckdEVVpyc2I3Tk0zOGpsMFR6eDRiLUhNaFd5LW1iTV95V0Z3eVFVOXpVeDRfTXloV1FXS0hkSTE3amVlOGN2eGYwYzNweElHcnRSbFZGc0RHb0Nlcy04?oc=5",
+    "source": "Information Age | ACS",
+    "published": "2026-03-18T11:43:24+00:00",
+    "snippet": "Google pauses $20b Australian data centre investment\u00a0\u00a0Information Age | ACS",
+    "importance": "critical",
+    "tags": [
+      "investment"
+    ]
+  },
+  {
+    "title": "AG James joins lawmakers behind the pushback on surveillance pricing",
+    "link": "https://www.reddit.com/r/datacenter/comments/1rwibyd/ag_james_joins_lawmakers_behind_the_pushback_on/",
+    "source": "/u/news-10",
+    "published": "2026-03-17T20:26:04+00:00",
+    "snippet": "submitted by    /u/news-10   [link]   [comments]",
     "importance": "critical",
     "tags": []
   },
   {
-    "title": "Meta breaks ground on its $10B data center in Indiana",
-    "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQZk1LY3VNNVNVVjRneUhtUE5XWUxscmFMUzFDdVZfU0RxeXVLM0luRzFDVFhxVkxoYUlidUNxLXdmS1ZxdGNZb2YwYWM2NDNNbVNxMU9tbF9pT0FKcXMtRlR0Mlp3dFBacnJfZ3B6bTdCR1F6c2hfTk5vN2s3ckZwSVJoTnBXQkMxQkNIbklzMF9yMEVHdEdjcW9vRlZkQ2ZyOFgzLUk3SEgzV1o5U2dZSG9PZ3FnNkVFdUlYZFJDQWFLbVBjcmI0bmtVTV9Nd3RuQ1RsUHkwdkR5YzRFMU9qWVZwbEJ3ZkMtZmxoNDUzZUJGUW1VU0pqbEZCanhFNmFkNXUzQWVqcG43bEJzTzVGSDd5V2wxcDV5dmpKTnU2VVVLdmVmM3dHcllqRW9lREtzbXV3S2Y2NTV6YzV6eEIzaDdhV3huakpT?oc=5",
-    "source": "MSN",
-    "published": "2026-03-13T11:32:48+00:00",
-    "snippet": "Meta breaks ground on its $10B data center in Indiana\u00a0\u00a0MSN",
+    "title": "CoreWeave's $30 Billion AI Data Centre Expansion: The GPU Cloud Provider Reshaping Infrastructure",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVkRZNGdrNVNzQXBPN25Jd1kyTGNlZm5nX3h3Rm1DTkloX19DaXFhZGYxSEM1THVUZjVDQktwdWoxZUVsYm5TdFhfNlZLQkZMYWJaTmhHZjJnb2UyVHMxVGZMc0tQMkdzNEJJMzgzcU11Vnc0aDhySEc0NVhrWWZ4emdaWVJfdjVtVmVtYTQ2cUJiSG4zQ0p0eWh6TllFemFtUENJX0dvWWgwRjJXTGZYMWVSb3dESF9VUDNj?oc=5",
+    "source": "TechBullion",
+    "published": "2026-03-17T09:24:20+00:00",
+    "snippet": "CoreWeave's $30 Billion AI Data Centre Expansion: The GPU Cloud Provider Reshaping Infrastructure\u00a0\u00a0TechBullion",
     "importance": "critical",
     "tags": [
-      "investment"
+      "investment",
+      "expansion",
+      "policy"
     ]
   },
   {
@@ -43,27 +78,26 @@
     ]
   },
   {
-    "title": "New $73 billion investment could revolutionize Pittsylvania Co., data center concerns remain",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOclU5RTY5b0hSME53dmtLVHdIVkRwV0tvWEhLQmRTREtrU01maHRJcHJEUmNHSkxKdWZYSkxqN0lDT0tnWGdjOVpueGhRaWRsVnpSWGs0Wm1SbVI3RzE5ZzVXZ1pMQndadTI4YmFxMGVTWFFNREhHMGo1dVFYcVFPVE1lQTR4LUNNTFBaUnFFTkJLZmx5NFV6VUc4TVhzS0xrLTFQRGNrTlI0VWdtbTZQWDNaZmdHSUh5WmdmMkliQ1A0RERnOWR2QzlULXZ5UQ?oc=5",
-    "source": "WSLS",
-    "published": "2026-03-12T02:20:33+00:00",
-    "snippet": "New $73 billion investment could revolutionize Pittsylvania Co., data center concerns remain\u00a0\u00a0WSLS",
+    "title": "levels at hyperscalers",
+    "link": "https://www.reddit.com/r/datacenter/comments/1rrkmt1/levels_at_hyperscalers/",
+    "source": "/u/Feeling_Platypus_429",
+    "published": "2026-03-12T07:56:33+00:00",
+    "snippet": "For Facilities/Critical enviromental role levels at a hyperscaler, are the following correct, generally speaking?  Google L1-L6/L7 Microsoft (?? LOL) Levels 59\u201362 (Entry to Mid-Level) Levels 63\u201364 (Senior Level) Levels 65\u201367 (Principal Level):  Levels 68+ (Partner/Director): Oracle IC2-5, M2-M4 Amazon L3-L6 Meta/FB IC3-IC6, M1-M2    submitted by    /u/Feeling_Platypus_429   [link]   [comments]",
     "importance": "critical",
     "tags": [
-      "investment",
-      "policy"
+      "expansion"
     ]
   },
   {
-    "title": "New $73 billion investment could revolutionize Pittsylvania County, data center concerns remain",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMWRHU1loT21mWWhMcE1CUU54T1ZrcXdDejVjQ2VqbjBkaTBVZ2RfdTA3Mkp6N2R5R2dPZ3ZCaWE1bjJtMVNaQ1lzWFI1QW5fY2tBdlJSczZSRDNJSFZQVF9VR3dPcXlxd1o2RHFnLUFVUXlHeXdXSksydzY2Wk82RWRaN2xxYUJ1Yll0emV2S010MktnSzl6SFJSTVhvZDc1RHFsWktNd21fNGFTLU1aT1VmaDk4SUl4b3dwZWQzZHdfOU5KcXl5Q1J2NTVnb2Z3SjRN?oc=5",
-    "source": "WSLS",
-    "published": "2026-03-11T22:14:11+00:00",
-    "snippet": "New $73 billion investment could revolutionize Pittsylvania County, data center concerns remain\u00a0\u00a0WSLS",
+    "title": "Nvidia keeps writing $2B checks across the AI ecosystem",
+    "link": "https://www.reddit.com/r/investing/comments/1rrk1ah/nvidia_keeps_writing_2b_checks_across_the_ai/",
+    "source": "/u/kabirsbhutani",
+    "published": "2026-03-12T07:17:38+00:00",
+    "snippet": "Saw this breakdown of Nvidia\u2019s latest $2B investment into Nebius, which sent the stock up about 16%. What stood out to me is that this isn\u2019t a one-off, Nvidia has been making multiple $2B investments recently (CoreWeave, Lumentum, Coherent, Synopsys, and now Nebius). From what I understand, these deals usually involve:  Early access to Nvidia\u2019s next-gen hardware Collaboration on AI infrastructure ",
     "importance": "critical",
     "tags": [
       "investment",
-      "policy"
+      "coreweave"
     ]
   },
   {
@@ -92,17 +126,6 @@
     ]
   },
   {
-    "title": "CoreWeave Stock Volatility Analysis Post-IPO",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdXlGWXhJWW9Fc0luZ1pmQ2ZmSFJja1lmRnoxYngteTM3dFR1WTFaSVFoVmlURWI3aVlIVm5FWWJ6WlJWaWFWb0VVejg3UHBGanNSUFExa0otSkdqTndVMFYxdUFLcW5INFlVWWJjU0NSc2taQ05NVTVSbU15NFhCeTJadw?oc=5",
-    "source": "Intellectia AI",
-    "published": "2026-03-09T07:00:00+00:00",
-    "snippet": "CoreWeave Stock Volatility Analysis Post-IPO\u00a0\u00a0Intellectia AI",
-    "importance": "critical",
-    "tags": [
-      "coreweave"
-    ]
-  },
-  {
     "title": "Utilities are spending billions on the data center boom. What are the risks?",
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPak52elBtanhGM0NZc3pvSE9DR3YwMzlJblg1c1NZZ1FHNDVRenkyVEVKVUFuZFk5bVlyT3JGTXptNHRONVRLQm8zZ3pYbHNaZS1xMmgxZnJ5Nmw1eHNnOHJubjJkMmRlQlVLQVJHYUE0enhFX3ZwRHJpTkxtQnhmbWQwVkh0dm1WTXlWRk11dUREaU5yMGZTbVFRUFZndTlXLUZOVGRZZktqdw?oc=5",
     "source": "Utility Dive",
@@ -127,24 +150,6 @@
     ]
   },
   {
-    "title": "DigitalOcean launches AI-first data center with NVIDIA Blackwell Ultra GPUs in Richmond",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPR2lvSFN2Q0ZObHk4eVJUOXNPYWd5TzlrbUNHMDRvcjhBZUo2RVBoZUZkcHBwWjNSWXVzYTNYd0o4QXZLV3B1Z0VnaDEzYTZDaWZFQi1yMllWbXhiTHNtUVVRQlRpUnkwVjNRU0JTWkNEOUd6d3FyUzMtVExxNTVDUXpaNHpYQ0w2WXlkUzBqMXk?oc=5",
-    "source": "Traders Union",
-    "published": "2026-03-19T00:15:08+00:00",
-    "snippet": "DigitalOcean launches AI-first data center with NVIDIA Blackwell Ultra GPUs in Richmond\u00a0\u00a0Traders Union",
-    "importance": "high",
-    "tags": []
-  },
-  {
-    "title": "Nvidia CEO Jensen Huang has a title for Elon Musk, calls him 'the ultimate \u2026\u2019",
-    "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPNWQ2a2s5V3V5T0JDRHJiTG9jb3RKNC03ODdzcC1qZF85eUZiVVJoSnBTQ0M1aDZ4QVhqWDE1TFdkOVNiYWZBWXJPUThYLWNrWVMxZWhIMy1jNHNWRDJ4bmpyMWJIRnpnSnJQVDhwdUIxQVE3VVk5RER6RlFNZnlaNk9FLTNmNHNrdm1KVzExTEo0d1ctcDVUS0xWQUdMbjJpQi1MQjlBSnBwVTgxTXN6WlZ4UFBNdG45U0lvUVBTWXhSMkxlNll1QTNUVnJVS0t6MHBNcDFaZzVtVTFpdzJaa0RKeFIxc1lPM1IzUWxTQkRBY0VCNThaVFp5OC1sMVUzcy05TUNGZDdVS3kyaHlYM05Ycld6YjNMNTVNdXVxZWNGWTF4MUFlWS1vdThIVGNFM3ZSQkNjc25SZkJFQ1dDVi1PbDUyWUJiT3RCeVJyUEJjVFFY?oc=5",
-    "source": "MSN",
-    "published": "2026-03-18T23:44:42+00:00",
-    "snippet": "Nvidia CEO Jensen Huang has a title for Elon Musk, calls him 'the ultimate \u2026\u2019\u00a0\u00a0MSN",
-    "importance": "high",
-    "tags": []
-  },
-  {
     "title": "Nvidia CEO Jensen Huang once again dismissed the artificial intelligence (AI) bubble theory, stressi..",
     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5ZFJOZlpXSjRxYlRncUppOHlTNGozVWdocFFPd3NhQjlvMnd5OEpza09mcjBqcDQtUzZBM0wtYmcxaDBXTVhZNFZnaw?oc=5",
     "source": "\ub9e4\uc77c\uacbd\uc81c",
@@ -163,22 +168,29 @@
     "tags": []
   },
   {
-    "title": "NVIDIA Stock Forecast as Jensen Huang Predicts $1T Revenue at GTC Conference",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN0tldDVWZV9sdUxPOG05R1Z6OFV4UzctcEF3V3RQc3BwNkRWdVJEZkdhcWtnYTVOR1p0UWx2OWdBQ0tCOGdweU9PWmJpOVFpdmxVMEFGOTdjV29vOXkxNUZES1V6dUpoWno5Y0hmUjJVQlBLUjJkVWY2NWR5LU1FeTRxbGZjREZPdXZ1WEZUUk5HV2UweFU5bno4Uk5MbFBia1VncFUyWFd3dG0ybXZPTnVUMnVoZXhiSXU4?oc=5",
-    "source": "The Market Periodical",
-    "published": "2026-03-18T14:38:00+00:00",
-    "snippet": "NVIDIA Stock Forecast as Jensen Huang Predicts $1T Revenue at GTC Conference\u00a0\u00a0The Market Periodical",
+    "title": "Everyone is focusing on Nvidia's chips, but Jensen Huang has already developed a \"second pillar\"",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OWmFIUnlHY2lyMFVBU2lKSV9KMmhNNHFtbDB2bW5QSzM1Tm9vOXljOVg1TXc0SnBaRWtNSHpLb0c4SDFUWnJ5YUc2ZUZ2T29ha25mTHRSb2hGNTZHYnfSAWNBVV95cUxPWlpPNG9vNk56aDJmajhFRk90d18yTzc4d09MVFJET1FSaHg1WkxaeTZGUFVxQmVZcHpMNVhmWEFyWmtoV1ZPend2SFliNEhMd0ZrSkU5YkVqQUd2eE1PY2h2bkU?oc=5",
+    "source": "Bitget",
+    "published": "2026-03-18T11:31:20+00:00",
+    "snippet": "Everyone is focusing on Nvidia's chips, but Jensen Huang has already developed a \"second pillar\"\u00a0\u00a0Bitget",
     "importance": "high",
-    "tags": [
-      "investment"
-    ]
+    "tags": []
   },
   {
-    "title": "Nvidia CEO Jensen Huang gives update on China after CFO Colette Kress said last month that 'we have yet t",
-    "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPU1NnZjl2d2xDQ25xdjBZVTIxN20wMF9tSk1ORUgxLXJsTEtZdi1KTVZaNFNjSzBnTG12cEFDQjJoYWplMndwcnIydmpneU5HN2s4TDVvZGVBb283UXZOTF9FWElwN18yMHdCNmxHV1NybTQtUEUxbE9FYXVyRFFOajNUVnhUNDM3OU0tTmdub1JqRE9SWURCcGlsRVQ3QWhOUnk3eFBGTWFmUlFNdjJVNGlzSW5WZXJaNGtSSnFxT196eUNpRTBJZW04X0NldnBSWW1XMGJjNjdJeGRCRFp3Z0lhWTN1NzIwMU1OdTVOcTlwVTVIWE82anIzbURTUC15ZTZRNGtudFJZSXRNcTJhV2F5ZzZ5dmltQUl5S0pRZkVWSEJsYjNnV1lTWHVVV2taMXdlZ3VZNFVBOS13WTRVQWlKcFFSZUJO0gHOAkFVX3lxTE12a0FqMGtEUlFjMFdGQXBkMENwekpMeXByclQxWE5IUlA4VWdvalAyMFV3cGJxd1l2Q0pucXFwMnQ4N0wxNFVNSWlyYVROajhKNjU5dFpWOV9aQUxfZlJST19MRlY3b0RlRVhPcWM0SGFucUxOejlsVEdxOU1TU0w3cWZwWGJpMWMtX3FJMUtReW5wQjRKbGVoOGRkODhGNjB3TXNieXZEM0xwUElxTnpncnNFb1lVeWUyQjJoYmFnQlgtbk02LWJhZmNpbnNCMVRkUlhSS2JTRks3Wl90M0dZTHpyMEhBYWhoLWctc25LR0lIYlNyMVV1dk9NYVZVejhxOEhpUVgwaEJQOXZSSDJITTd2WjM2aDBXemhpQTFqOEp1QjlfaTFrWWpSTWw5V0Q0RVJVUkV2N3dxSDZsRUlTdWVURHV3RzNTR21QMUE?oc=5",
-    "source": "The Times of India",
-    "published": "2026-03-18T09:03:00+00:00",
-    "snippet": "Nvidia CEO Jensen Huang gives update on China after CFO Colette Kress said last month that 'we have yet t\u00a0\u00a0The Times of India",
+    "title": "Everyone is focused on Nvidia\u2019s chips, but Jensen Huang has already developed a \u201csecond pillar\u201d",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kdnR1S05YRzlfcFJIcDRaOFcwN3pwN2l2dEstaVM1TGVIU0dsUXRCZFFKT3oxS0paMHhqQXhhVy02R2Z2TXBhUUNObkRrcjZ0czQzRzNDOEVDVEF0dWfSAWNBVV95cUxPUDdyZF9hOUE3dENQdVczUmNDZEUwWUttb1hHaDE0bEFadGxpalczMV9HVGx2VkFnX2pEVnBGX09QdHV0MzlrZkl0VFlWQ0NfTmJFUkZvcnBqS1N2c3d5OTVtYXM?oc=5",
+    "source": "Bitget",
+    "published": "2026-03-18T11:30:13+00:00",
+    "snippet": "Everyone is focused on Nvidia\u2019s chips, but Jensen Huang has already developed a \u201csecond pillar\u201d\u00a0\u00a0Bitget",
+    "importance": "high",
+    "tags": []
+  },
+  {
+    "title": "Nvidia CEO Jensen Huang gives update on China after CFO Colette Kress said last month that 'we have yet to generate any revenue' from H200 chips",
+    "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNbk5ILXFwd2NDRzh3U3pfSW1SNWY4OEZMTl9nZFpCUlVRaWt6cmQ5ZzdVWV9KVHJmYUhyS0I1ZGNQMlBZdTZFRlVpOUxaSkM3c2YzNmFBbFhIblBkTXBta2FyS2ZMYjk4VldFd1B6Y1ZobThlT3JLck5kUktFMk9GWjJUZEhzZk1ia25SV2hPd0I1aHRvZVpkVkZmV28za0xZNEVUaFlCTWdVTU5fS04tcXMzOG9jcXZ6X2k0ZXBtWmpfRUFMMFNCTWxzOEdOMmkxQUEtSXU0SDAxX24xekctdmtnd3ZpNlBaRThrZERHTVNHaC1YWGljcTZxbWtpZ2tDbUxiTHYyTlFZUjZnMzJ6MGtxUHc3Q0thWTNJ?oc=5",
+    "source": "MSN",
+    "published": "2026-03-18T09:33:43+00:00",
+    "snippet": "Nvidia CEO Jensen Huang gives update on China after CFO Colette Kress said last month that 'we have yet to generate any revenue' from H200 chips\u00a0\u00a0MSN",
     "importance": "high",
     "tags": []
   },
@@ -195,7 +207,7 @@
   },
   {
     "title": "Jensen Huang says Nvidia has received orders from China and is 'restarting our manufacturing'",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVjVfNGczdDFmSmFEWmtXU3V6OWJvYW1Vdll3bnp0aWNOY3ppMzV4ZjZYWjcwS3NYYVVUSUNpbDVQejdOejBUSXJRRGEzUy1nMXhKSXV3MDVhM3JBSGl3ZndNZXRwSTkxV3EzVDNnbS1YR0dOb29XWWFjejE4dmg2MzZ6bE1iOWRaVExmQUl2eFZwZDJjRGZEMUE4YlB1OERCME9Tam85QnVPQQ?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVjVfNGczdDFmSmFEWmtXU3V6OWJvYW1Vdll3bnp0aWNOY3ppMzV4ZjZYWjcwS3NYYVVUSUNpbDVQejdOejBUSXJRRGEzUy1nMXhKSXV3MDVhM3JBSGl3ZndNZXRwSTkxV3EzVDNnbS1YR0dOb29XWWFjejE4dmg2MzZ6bE1iOWRaVExmQUl2eFZwZDJjRGZEMUE4YlB1OERCME9Tam85QnVPQdIBrwFBVV95cUxOS242TndLUjY3N2RoSmtuamF3M0xGbTljS29jRkJRVG1xcHFrNHhyU3pwNDhSeVVyaU04N2ppNVIzb1RsRWVudkpDbTU2cTVQX28yMm9XQU9VOU4yZElrMG5uV0JXbU0wS0VBN1Jua24tM2o3R19SZW1iN3ZBSnhSMENYN0NDVWlzeE5NZDM3WEtDV2ZPTHRQUFlRYTFRVlJHWEl2OEowRzNUb1FGc0pF?oc=5",
     "source": "CNBC",
     "published": "2026-03-17T21:31:02+00:00",
     "snippet": "Jensen Huang says Nvidia has received orders from China and is 'restarting our manufacturing'\u00a0\u00a0CNBC",
@@ -277,6 +289,17 @@
     ]
   },
   {
+    "title": "STMicroelectronics expands 800 VDC AI datacenter power conversion portfolio with new 12V and 6V architectures in collaboration with NVIDIA",
+    "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPbXVDakJROGs3MVIyNE1HZVNRdFl4Q01weEplTkU0OUhWOVhSNFQyQjU5dHFXQ3ZyN0VDeVZURzJlRnNJM0RLazBrQzNKMFQ0M2dTRmcxdXczN1JJc204OV8yaW5nek5WNE1POTNqVnBpOHR5WElPQlJPdlVLLUdpUWY1M3U5RzhJVDlRR0kwTzMzWDhEUDM4R0dNVUltUFhaSmtWZlliOVJFZFQ3UzRSMkxlVkRVdWY3Nk5Bd1ZBVWZMMjltTnlOV2g0NDQ0bGd5OHVFQWlkNkNvZ0RVclU0N0FmWFRuWG9OYTAwUnV3RW8tcVNMT3ZoMzE1VHRQb3V4YkZvenpobWU0WVNVclAzcnJNYmE1aXRLTVkxQ1V6TlVkaExBR1htRDBXZ29WZjJMSzFNVXptc9IBvAJBVV95cUxQajlMSnR4MUJkS0FrNXV0SG9tTnU4anZ6VF9qNXFobnlIYlRoQ2hweGJhZ2RfUkU5MHVlR01DczIyVE0wa0pqc3NzNzZDQTZXbWZMb1dUZDJvS1kzMnM5RkpQQzVxaVBWaFpwNnl4M195U0tQbnZvWUpTblhTczNkNXg4T2RXbXFjMUIxNGMxMVMwTXpNSjBIeGVkWTJBZzZKSVJqSmpidVlMeDQ3U3pyalZaNUxOLWhPVWxHWkZibmV2OXVUSWdUV1drWHY1bUwwWDJ5QnkyNmYtU3dYbGJ5V2VCRnMxclM3QWdOa0Y5WmlUN3V4TUlTMnkzOGphQkR5Y2txa1NDRi1lUlA0TUdIbWxCNlZvYXJsUGVTRjVMNjdySHlvbDRXQUJCQVhBTno4SjlzTS1mbkJSNjEz?oc=5",
+    "source": "The Manila Times",
+    "published": "2026-03-17T07:11:56+00:00",
+    "snippet": "STMicroelectronics expands 800 VDC AI datacenter power conversion portfolio with new 12V and 6V architectures in collaboration with NVIDIA\u00a0\u00a0The Manila Times",
+    "importance": "high",
+    "tags": [
+      "expansion"
+    ]
+  },
+  {
     "title": "Nvidia Launches Space-Grade AI Chips as Orbital Data Centers Race Heats Up",
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVWFqLUppN2lyMHFEVHBiZ2pmT2dHZVFNNFhKdy1MUkJxdWRtYVZLYmp6UUY1QlRTMy12c1pPNEVfRmcxdEgwalF5TDBZOVc5N195QmlyVHRwU3Nud2ZXSklNcThiRDJqc3hrLWxvZFlWMjM2cjNQN3pCR2VzbzZ2OGNFRDFBYkNUYkJQVVZYNy1hTWQ2Q3l2ZkhmcWFiVFotQXhHM1RWUWE?oc=5",
     "source": "trendingtopics.eu",
@@ -286,15 +309,6 @@
     "tags": [
       "social"
     ]
-  },
-  {
-    "title": "NVIDIA Enhances AI Inference Efficiency with Samsung-Manufactured LPU",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLTlBYW9xaHpna2VMYWNSLXhfamNYTnlSVDRURzR3amRSZ2J1QzdWYmNIeHVfYzE3RzZlb2FXQkxYSTd2bjJ5UlVndjl1UlI1R0EtMHpITUpRX3dlTHZBdFNKSjJ2VF9pTVJwSGM5NUpNSGNSc05VSWk3RG1rdDlJbktZQjNqQmlX?oc=5",
-    "source": "\uc870\uc120\uc77c\ubcf4",
-    "published": "2026-03-17T05:58:41+00:00",
-    "snippet": "NVIDIA Enhances AI Inference Efficiency with Samsung-Manufactured LPU\u00a0\u00a0\uc870\uc120\uc77c\ubcf4",
-    "importance": "high",
-    "tags": []
   },
   {
     "title": "As Nvidia launches Vera Rubin chip for Space, problems remain same as on Earth; but CEO Jensen Huang says",
@@ -450,6 +464,15 @@
     ]
   },
   {
+    "title": "I spent 8+ hours benchmarking every MoE backend for Qwen3.5-397B NVFP4 on 4x RTX PRO 6000 (SM120). Here's what I found.",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1rrfqlu/i_spent_8_hours_benchmarking_every_moe_backend/",
+    "source": "/u/lawdawgattorney",
+    "published": "2026-03-12T03:22:19+00:00",
+    "snippet": "The short version: 50.5 tok/s sustained decode is the best I can get, and I'm pretty sure it's the best anyone has actually gotten on SM120 hardware -- despite claims of 130+ tok/s floating around. The reason? NVIDIA's own CUTLASS kernels are broken on their own workstation GPU.  The Setup  4x RTX PRO 6000 Blackwell Workstation Edition (96GB GDDR7 each, 384GB total) SM 12.0 -- this is the desktop/",
+    "importance": "high",
+    "tags": []
+  },
+  {
     "title": "CoreWeave\u2019s Ambitious Expansion with AI Opportunity Tied to Meta and OpenAI",
     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Eb29MOGROTHJYR1JpWnEwRmdKaUtselgzX2R6a1J1SU5odDBLRjh0MmR5TGV6YkNPWTAzMUxLQ1lFaVMwR213Ylk1TFcyX2RjUG8ybEw3SmRoX05nMlBUcVVDZUExdUdXd2tsck5GNEdsTXBqQTlKUXJZSQ?oc=5",
     "source": "timothysykes.com",
@@ -496,9 +519,9 @@
   {
     "title": "Elon Musk's xAI Wins Permit For A Dedicated Power Plant For Data Center - Are Gigafactories Next?",
     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE55RHYxNGpRSzNvSkJVYkI4WXFIRDhqcTNUYXFDd2pLamJHZFFEYlpLVmx0VkRaZk84OUgybzhmUlpkVllvYmZNaWZTMHlzYmdKTG1NSk5YZ2gyTEVOMmlWTm9XWVUyMHNC?oc=5",
-    "source": "Auto Spies",
+    "source": "autospies.com",
     "published": "2026-03-11T12:40:23+00:00",
-    "snippet": "Elon Musk's xAI Wins Permit For A Dedicated Power Plant For Data Center - Are Gigafactories Next?\u00a0\u00a0Auto Spies",
+    "snippet": "Elon Musk's xAI Wins Permit For A Dedicated Power Plant For Data Center - Are Gigafactories Next?\u00a0\u00a0autospies.com",
     "importance": "high",
     "tags": [
       "policy"
@@ -603,17 +626,6 @@
     "tags": []
   },
   {
-    "title": "Oracle and OpenAI Scrap AI Data Center Expansion Plan, Shares Slide",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMEQ5aGtTZG9BZFBnOGNJOXRMUDNhTl95Sy12VUotVXFiWFVuaXJWdHhfTDFzZjJZYWVDbnNkaDl4NjdfelVsejktcDlyV2dlY09yWnpFZFFpbWtiUmVaVWhad3pycG5fdEZvb1JoNEZsaUt3SEJiVzdNenFySW16UUhiRDlXRHJoNGFoSV9qdzdVMmVsMTh5ZkJoajJYVEF0ZHNYaHNXeFJ4eXMzTVVJdmR3?oc=5",
-    "source": "TMGM",
-    "published": "2026-03-09T07:00:00+00:00",
-    "snippet": "Oracle and OpenAI Scrap AI Data Center Expansion Plan, Shares Slide\u00a0\u00a0TMGM",
-    "importance": "high",
-    "tags": [
-      "expansion"
-    ]
-  },
-  {
     "title": "Nvidia In Space? Company Is Hiring Orbital Datacenter System Architect With Six-Figure Salary",
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSXQxXzZBTzhPY3FUaGlTR1NkQm5IOVVSbFI4dDBEMmlkRVZpbnBnSFlwVVpFLWdPUXh2UjBxYXFRcC1xQ2JmT0pjamVKd1BoTGVPbkQ3TXJLZ3RjMlBxVnhEU3pNVklTRVdROHpjWl8tYVNvcVZsVjhkeHg3RGpfdGlSY2s5MkRw?oc=5",
     "source": "Yahoo Finance",
@@ -645,47 +657,14 @@
     ]
   },
   {
-    "title": "AWS supports proposed $750 million Clinton, MS, AI data center project",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdGx6RVlpak5UR3dYNnpWb3BOeUpJNTVXeTFGNnoxM2NKd0xzUnZGblVZU2RzTkZCZ0Nuekp1WTZBWHM1d2JVTi1yUUFRMGptUTNCc2cybjNTT2FFUkRsUXV1RzVMdmZYdldFS3dKSlQyNzhrSWFZbkcySFRwZDJQbmxjNmdlYmt5YmlKWjczRzBKM1hFdmFGMWRJSDUyYmZyRDM4S21rekthMks1OEotbERsb1BlVFpxSkdhdmhUU0ZQVmRSTEcyV1MwSUNhbE5vRUlRMXRtT3dobVk?oc=5",
-    "source": "The Clarion-Ledger",
-    "published": "2026-03-05T08:00:00+00:00",
-    "snippet": "AWS supports proposed $750 million Clinton, MS, AI data center project\u00a0\u00a0The Clarion-Ledger",
+    "title": "CoreWeave (CRWV) Stock Drops as Bernstein Issues Bearish Call and Cramer Backs NVIDIA Instead",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPd0VkZ1E1NDdRYVhsT0NtU055ekxtNkRtN3RWbFl3YWhIQlF0MVo3UjFwWjAzV3ZIT01vMUc0VTJNQkQ0cnlWbk1iVkxTT0FFTkowSi1yMUJIb1BLTzJXMHEyZDdNRVJOS2lTLXMtV0d5R05HaEF1WjFDdU8zcU1VeUVJTlBHUGlpUWRMUjl6Z1FMV0RZY1puek5VaDlzUktJTDNTWkt5YnViT05CVUVqclFXM0tXUQ?oc=5",
+    "source": "MoneyCheck",
+    "published": "2026-03-05T14:34:15+00:00",
+    "snippet": "CoreWeave (CRWV) Stock Drops as Bernstein Issues Bearish Call and Cramer Backs NVIDIA Instead\u00a0\u00a0MoneyCheck",
     "importance": "high",
     "tags": [
-      "investment"
-    ]
-  },
-  {
-    "title": "How Much Data Center Revenue Do AI Companies Bring In?",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkcjRsWW5MN2IxTTFGbmhTZTZ4ekpHTlNaeFBHZkNrTlRkZ29Xek8xY1FwckEzNTZ5MXFWUy0yZHVvNTdPQWM3U3FlemtxU3pMZ2htbTdSSFAzWkxCYkVNUml2bEt4RTB3TDRPSE80QnA?oc=5",
-    "source": "The Motley Fool",
-    "published": "2026-03-05T08:00:00+00:00",
-    "snippet": "How Much Data Center Revenue Do AI Companies Bring In?\u00a0\u00a0The Motley Fool",
-    "importance": "high",
-    "tags": []
-  },
-  {
-    "title": "Talos Eurisko Asset Management LP Makes New $17.54 Million Investment in CoreWeave Inc. $CRWV",
-    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaDJzXzhGbzhyb09XNXBvOHloVUxuMEhMaWJEekdKYmw5b09RZVA0UjZndGxzWkFVMXpqelVGT0o5SGdQOC12U2VsWmZ6d0c5MVk2UmpkUlBsc2Y2bWxudFBnTnd4dUtPRWFKdmIycXNyNl81SVdVUmFKZWNqaWJ3ZlMzUktlSE5qaDlxUWdLVHBpam9zSHNVUHJTbU9SZVE2c2tjMGZ4SHlHTzIwS1lyNmh0dzVwY18yZ1VjaDNQaHNGSGpCUzE3MVZhUGNWOUxaUERfWkpjYS05eFozeFlsZWdzamM?oc=5",
-    "source": "MarketBeat",
-    "published": "2026-03-05T08:00:00+00:00",
-    "snippet": "Talos Eurisko Asset Management LP Makes New $17.54 Million Investment in CoreWeave Inc. $CRWV\u00a0\u00a0MarketBeat",
-    "importance": "high",
-    "tags": [
-      "investment",
       "coreweave"
-    ]
-  },
-  {
-    "title": "Elon Musk\u2019s xAI plans $659M expansion at Memphis supercomputer site",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNzFhVGFidS1oVGJvaFBtVS1TUFNUSFdxajRpWFJsQ29JVnRGN0d4N1dYSTJhWERSRE5nU1kwVlFyM0NtdDgwaFZjelQ1bzA1VFJnRmFJUWU5dmQ4akVYYUVvQWhHb3dJUFJtVHh3UVlRN2dzQU5XbUxxMW5uSmhDR2ZIU2tTck9nOEJ0S3JMQTM5WUdZd0E?oc=5",
-    "source": "Teslarati",
-    "published": "2026-03-05T08:00:00+00:00",
-    "snippet": "Elon Musk\u2019s xAI plans $659M expansion at Memphis supercomputer site\u00a0\u00a0Teslarati",
-    "importance": "high",
-    "tags": [
-      "investment",
-      "expansion"
     ]
   },
   {
@@ -728,10 +707,10 @@
   },
   {
     "title": "T1 Energy Secures 50MW Grid Allocation for Nordic Data Center Asset",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPekYxcG1GNkFUOV9xbFpvZFExVXdCNnBwMEhBYTJjTlh0cG1XNGw1cHdNZUFkS3Qwc1ZUaS1Gcm5iSFZjUG9vZVdKcVNQc0ZVaGlMLUJmX3JVb20yX0hMdDA1ajdXYkE3UkQyREkxVXBuWnVZODRoVkJ0SHRxaVdJV1VXbklDR3J2Tnp1U3JSSWdOZ1FUM1drNGpwS0lTb2hBMklnYWRRYTJ0aVNud3FNSlk4YVFwMERJbmtqNjRYbHJGVjYyTFNpMlY2NEl2THFJdDNqcXJKSHfSAd4BQVVfeXFMTXBYYXFjMldCU2VONkE5TElEbmF0ZF9wbmJFNHFuRkpjdFNaQTlRLXNJNWtETWtiME9uQV9hSlFueU8xSlNib3NYNVFXZ09IaVYtZ0pLOTRHeWFJMDJLRjl1VGplQnBHb0xsOXE2bzdZZ3UxX252aVB4Y2lqOXUtREIzNVBjeGRsVUppSTlIekI5a2tiX3J6TklYV3F3VklPX0p2cHBNQXAwZFJucWIzWHltWXZHdDlMNHA0VXRVT3NCdE5LU3k3VXlONDBYM25ZdXlXbm1rS2Q0Tm5SYmJ3?oc=5",
-    "source": "The Manila Times",
-    "published": "2026-03-18T10:19:50+00:00",
-    "snippet": "T1 Energy Secures 50MW Grid Allocation for Nordic Data Center Asset\u00a0\u00a0The Manila Times",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPYlpqZzVBVXpXbEdEV2FKRmxoM3g4YklmUE0wVEM4NGNPbVhPS1EwektyU2Naa1FaaVdtX1Zrd3g2UzFtUU0xYmdXOWN3RGp6Y1dpTlQ5bEhsZEp1VE1UTDNPQk91YmVCa1FpbE9xNnNfWTEzVEJYVGFzQ2VIZThqNzdEUHVxQ2JhVE11MjRET2JvY3BXWjYzck9yRGVoOGdXUFltS1I3NUw0YU44MVdKekt3LXQ1UDhyZ1ZhdXBiQmZJT09hcHYyODNvYmZOMFRNRVgydThyRUVNZGhIUE1vYTQxYnNUemc?oc=5",
+    "source": "The Globe and Mail",
+    "published": "2026-03-18T10:21:10+00:00",
+    "snippet": "T1 Energy Secures 50MW Grid Allocation for Nordic Data Center Asset\u00a0\u00a0The Globe and Mail",
     "importance": "medium",
     "tags": []
   },
@@ -745,6 +724,15 @@
     "tags": []
   },
   {
+    "title": "Vertiv\u2019s Peter Panfil on AI data centres, power constraints & the GPU era",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdW1IdWktcmdxdjhGWERVQ1BtZ3Zjb2lCb0Vqc0c2QjczYUVma3cwZlNWc1RjTDJOdVFDcnJOWlhNczRmaVRVVy16a1R6bWRMT1NYYnY1Wk5iUW9lNENFcGtEd2Q2R0hZZ1JQQi1VaEtPUm93Z25jUW03cW1JRkdjQkppRzZEZ0NXZWZxVDRNVkl3bkxvMXVxOHkwSkduT0NuQjNNRTRYZEgwTmQyTlIxZExscnExRkdPekE3REJxVzdWbHZ5Uzh4c1ZnNVY2OHEtV3dYZmV2eWM5WkU?oc=5",
+    "source": "Business Standard",
+    "published": "2026-03-18T09:54:44+00:00",
+    "snippet": "Vertiv\u2019s Peter Panfil on AI data centres, power constraints & the GPU era\u00a0\u00a0Business Standard",
+    "importance": "medium",
+    "tags": []
+  },
+  {
     "title": "Cooling & power infrastructure: How Vertiv powers AI data centres",
     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZ2pRZkNWdGlfRU45VEMtUmlwLUNLUkRGb3BYWk9UMDhjSXA1aC0tWGNsMXJSV2dOT3JJQWI4bFRVWVRFcDEyS05kSWoxeHV4bFhSXzRaY1lRekRvcXdzV1k5X24tZ3Q5S1JvbFhqanEwN0Z6WHlZdElwMEV6bHVaVTBSZDNWbjVZdUY3blZ0UmNaTzlHakJJbk56alNEUXlTMjBuZTBWcGlGb25JaFZ6djVheW5pMVN3ZHVleTlZdXdmbGlpT3loeXJmaVlsN1Nm?oc=5",
     "source": "Business Standard",
@@ -752,6 +740,26 @@
     "snippet": "Cooling & power infrastructure: How Vertiv powers AI data centres\u00a0\u00a0Business Standard",
     "importance": "medium",
     "tags": []
+  },
+  {
+    "title": "Tier X Launches EdgePod X1, an AI-Powered Edge Data Center platform",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWlV3cDNCSkxlYXRuQlJpX1VSU0RVQ1VSWk5uOVo4bUlMdWhhODN0a3JTZWllaFB3LW4tcHVKeVZ6QVlWd2ZmY1VILXhBWlNMNm9UdmpzelM3cVZXaW5CWDRrX3BRekROSE1oMnRVX1cwdG1OLVkwV3NiQ1l6aGFQaXJucUF2dnU4dDlHeDBzRzF3YXFtZkRvZmJRdllVbEszT3hkZkZYN1ZLMF9Uak1WSVBkONIBswFBVV95cUxPWlV3cDNCSkxlYXRuQlJpX1VSU0RVQ1VSWk5uOVo4bUlMdWhhODN0a3JTZWllaFB3LW4tcHVKeVZ6QVlWd2ZmY1VILXhBWlNMNm9UdmpzelM3cVZXaW5CWDRrX3BRekROSE1oMnRVX1cwdG1OLVkwV3NiQ1l6aGFQaXJucUF2dnU4dDlHeDBzRzF3YXFtZkRvZmJRdllVbEszT3hkZkZYN1ZLMF9Uak1WSVBkOA?oc=5",
+    "source": "Tribune India",
+    "published": "2026-03-18T07:10:25+00:00",
+    "snippet": "Tier X Launches EdgePod X1, an AI-Powered Edge Data Center platform\u00a0\u00a0Tribune India",
+    "importance": "medium",
+    "tags": []
+  },
+  {
+    "title": "Wesco data center technician",
+    "link": "https://www.reddit.com/r/datacenter/comments/1rwle88/wesco_data_center_technician/",
+    "source": "/u/Fearless-Leg-1041",
+    "published": "2026-03-17T22:18:24+00:00",
+    "snippet": "Has anyone here worked as a data center technician for Wesco or know anything about the role? I\u2019ve seen a job posting that\u2019s been up for about 2 months with no updates, which seems a bit unusual.  Just wondering if anyone has insight into: \u2022 Whether they\u2019re actively hiring \u2022 What the job is like (day-to-day work, environment, etc.) \u2022 Pay/benefits or growth opportunities \u2022 If there\u2019s a reason the p",
+    "importance": "medium",
+    "tags": [
+      "expansion"
+    ]
   },
   {
     "title": "CoreWeave Just Landed a Deal With Perplexity. Why This Neocloud Stock Could Be the Comeback Play of 2026.",
@@ -765,6 +773,15 @@
     ]
   },
   {
+    "title": "Google in Talks with Envicool, Others for Data Centre Cooling Systems Deal",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR1J3b2Y5eWRrdUVJbWRDMnZjeVpsNFE1QzQ1UkMtNXFBVXo5VGR6Ymk5ZjVpS1A3S1N2blkyYnNxOXU2RWp5WnhuWHFiOWwyUHpRZW9QUDduMDNJSUpCS0tGQUhUNVRuMTFrRmF6SDN1M1BmM3BrWFJybnZnU0lRcXYtaC1XNnhrNk9jbVlzaTFLNFo2TGwzaEd6eTBZNTJkVE1VQQ?oc=5",
+    "source": "Meyka",
+    "published": "2026-03-17T14:51:13+00:00",
+    "snippet": "Google in Talks with Envicool, Others for Data Centre Cooling Systems Deal\u00a0\u00a0Meyka",
+    "importance": "medium",
+    "tags": []
+  },
+  {
     "title": "This Startup's 88,000 Satellite Network Will Create the Largest Space-Based Data Center Ever",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SaF9vOC1UNF9sN1NNMEx0NXhVeFhQb2h0b3BDbFZaZEFNZFQ3SXVyMk1xZ1dWQl9sd2NWc2RaTDFZWGNuUl9KQXJnX01jRFlDZ0hUd1RUTkU4cmRlUmlBTnh1cmpvYzVJcmswLTRyN2J4cGI2WEpDRkUySl9QdWs?oc=5",
     "source": "The Daily Galaxy",
@@ -774,11 +791,47 @@
     "tags": []
   },
   {
+    "title": "Google reportedly in discussions with China's Envicool and others for data centre cooling systems",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRjBwN3J5RDlSOUIyWTFyM05BYXR0cTZ4OHFNMHVfLTV5WEhqbzVWdENLbEttOHhYSHItLUllZkNWZDlyWlBQLWlVQk14aE1pRTJLbDN4bWc1MDBya3l4U3pOUjViRnFkU1ZDZlg1TmZ5bnBtZXlVajBZQWlhRFVXR3ZhaEZiQ3ljSlRMaV9Ka3lSM1dnQ2JLcXk1d3ZxN2t2bTFscUtZd09LMkIweDJxS093U1QzT3ZZbHJET1RQTFBpNUpjXzdfeE1SS1F1cGxXbENRSzB5VQ?oc=5",
+    "source": "Pakistan Today",
+    "published": "2026-03-17T08:23:57+00:00",
+    "snippet": "Google reportedly in discussions with China's Envicool and others for data centre cooling systems\u00a0\u00a0Pakistan Today",
+    "importance": "medium",
+    "tags": []
+  },
+  {
+    "title": "My \"datacenter\" with 2 Proxmox nodes + PBS, living in a wooden entertainment center, running a 24/7 radio station, IRC server and public services for strangers on the internet",
+    "link": "https://www.reddit.com/r/Proxmox/comments/1rvvc0w/my_datacenter_with_2_proxmox_nodes_pbs_living_in/",
+    "source": "/u/avatar_one",
+    "published": "2026-03-17T03:15:46+00:00",
+    "snippet": "Wanted to showcase my two Proxmox VE nodes and a Proxmox Backup Server stuffed into furniture from the early '80s. The managed switch on top ties it all together with VLAN segmentation via OPNsense because I like to pretend I'm running a proper datacenter. What it actually runs:  24/7 internet radio station (AzuraCast) broadcasting from a 60,000 track library IRC network (yes, in 2026, and serving",
+    "importance": "medium",
+    "tags": []
+  },
+  {
     "title": "Jensen Huang says the next AI boom belongs to inference",
     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtc0VDOEE2THNHYWNPM1prb0JRdUxweTNrci1pWkpLYVJkR25MMkthZlhUMk5sbk5FeU9BLTlpMllGMkJVRW5BaHNNWG5TVC1jQXBqb2pHZnc1WkdaV0NGdVBaamxOQzVqUnJueEN3?oc=5",
     "source": "qz.com",
     "published": "2026-03-16T22:50:34+00:00",
     "snippet": "Jensen Huang says the next AI boom belongs to inference\u00a0\u00a0qz.com",
+    "importance": "medium",
+    "tags": []
+  },
+  {
+    "title": "I finished my handspun wedding shawl with plenty of time to spare",
+    "link": "https://www.reddit.com/r/AdvancedKnitting/comments/1rvctcv/i_finished_my_handspun_wedding_shawl_with_plenty/",
+    "source": "/u/fishandflowers",
+    "published": "2026-03-16T15:36:12+00:00",
+    "snippet": "**Trust me, I am painfully aware of every mistake. I've made my peace. A year into dating my partner I attended a local fiber festival with a friend where I found a booth selling German angora. I asked my friend, who'd been teaching me how to spin and weave, if she thought I'd be able to spin it finely enough to use in something for a wedding, and she said she could teach me. She asked if I was ge",
+    "importance": "medium",
+    "tags": []
+  },
+  {
+    "title": "Over a year and a half since I started processing the fiber, I have finally finished my handspun wedding shawl",
+    "link": "https://www.reddit.com/r/knitting/comments/1rvbzs4/over_a_year_and_a_half_since_i_started_processing/",
+    "source": "/u/fishandflowers",
+    "published": "2026-03-16T15:06:00+00:00",
+    "snippet": "A year into dating my partner I attended a local fiber festival with a friend where I found a booth selling German angora. I asked my friend, who'd been teaching me how to spin and weave, if she thought I'd be able to spin it finely enough to use in something for a wedding, and she said she could teach me. She asked if I was getting married and I said not yet, but I knew this was my person. I boug",
     "importance": "medium",
     "tags": []
   },
@@ -796,6 +849,17 @@
     ]
   },
   {
+    "title": "HIVE's BUZZ HPC Expands Data Center Footprint into British Columbia with 4 Times Growth in Liquid-Cooled AI Data Center Capacity",
+    "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPLXNjWVlmT2ROVkJXX1RkU0JXQzBxaW5jVlB1WXNlcUJFZEdOcndRS3FPS282YU5CdENIWGZ2QWVMMHk0YjktMDZ2MjV1eUNoNFZOOXNkalFFNHFaYnBQakNZbWJuQWsyNlM3dks5QzdXOXR1OWdWNzJBUFhfakNwZmRhbnVBT0w0QWI3b0dMaGlBeGwwaG5oTDlqTHJrVExVR1dpVmFFQ0w5VExVeWlVMHhoRHNvRFFiTXhCMWI3NXZyNmpRRjlmTTV5MG8wTUdmNE40cUNhUGJ6aFhSLUthNHBZN21oN0ZjbGZBT2x1ek56VHRqU2Q1QTNpeVBvQjJJTk1pRG5DRjBuZGJPcEJWWFE4NEVlcEoyeEF3?oc=5",
+    "source": "TradingView",
+    "published": "2026-03-16T06:20:00+00:00",
+    "snippet": "HIVE's BUZZ HPC Expands Data Center Footprint into British Columbia with 4 Times Growth in Liquid-Cooled AI Data Center Capacity\u00a0\u00a0TradingView",
+    "importance": "medium",
+    "tags": [
+      "expansion"
+    ]
+  },
+  {
     "title": "Mad scientists to power AI data centers with living brain neuron-powered microchip",
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUklrY0EzM3VYRmxUUDhmVk5fdFFiS1lDcWhPemJQNXQwZUZZWnZoMGMxUnBORGVwbjJrLUZkY095VFZJVm5udlg1TEZtWExEOXE5a09KdGFUV3dQcFVPOUJ5RjJ0YWhLcWtvWjJSTk42cDBFeGZLUDlObElYNGx5bXBqcTI2dmJnYllKT3BHU0ZzbjNqWEZiMFdYaG0td0p3Tlh3M0kxQ2Y0WGRBYVdEcDdnNXNrT2lGVkE?oc=5",
     "source": "New York Post",
@@ -805,13 +869,35 @@
     "tags": []
   },
   {
-    "title": "Wichitans voice opposition to data centers",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcnljT3lJbkVmaXNRMVVUZVplTmFkaGJDMS0xTzYzRUd3VlVwbXpyZEpVcU8tXzNkZ0FiSFFMX0JmZVNGaHNYT0poVDlsbTRobnQwVXJGODc1UU1hYXNZTFRmWmloN09yVVk0OS1ZdVJNTUdrYUc3TE42YUR5UXgyeUhBSTdhaFl1?oc=5",
-    "source": "Oklahoma Energy Today",
-    "published": "2026-03-13T22:25:09+00:00",
-    "snippet": "Wichitans voice opposition to data centers\u00a0\u00a0Oklahoma Energy Today",
+    "title": "A New Era of Data Center Development Is Like a Second Industrial Revolution",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNemg3RVlaQUQ5RjBTa0NmeWFET1FOV2drT1V3OWR3QVNIUm9KMXVJcTVUR29LcHBxWjZpMjBKaDBTUmJpTmhCV1g2d0x2aUVVclc5a0Y3SS1SSEt6UWJkWnNJSU1kUVoyeUVHOG90cEVDaTNNdmhIcVZNMzNOcURnVQ?oc=5",
+    "source": "Inside Climate News",
+    "published": "2026-03-14T08:50:00+00:00",
+    "snippet": "A New Era of Data Center Development Is Like a Second Industrial Revolution\u00a0\u00a0Inside Climate News",
     "importance": "medium",
     "tags": []
+  },
+  {
+    "title": "Any data info of work balance as a Project engineer at AWS Construction site?",
+    "link": "https://www.reddit.com/r/datacenter/comments/1rt2vos/any_data_info_of_work_balance_as_a_project/",
+    "source": "/u/NewbieStrength",
+    "published": "2026-03-13T23:08:43+00:00",
+    "snippet": "Got invited to do loop interview and do not see much feedback here on project engineering roles. would be insightful to hear more! AWS specifically     submitted by    /u/NewbieStrength   [link]   [comments]",
+    "importance": "medium",
+    "tags": [
+      "construction"
+    ]
+  },
+  {
+    "title": "Nebius is running the exact Yandex playbook again. Physical AI is where it lands.",
+    "link": "https://www.reddit.com/r/stocks/comments/1rt1mz3/nebius_is_running_the_exact_yandex_playbook_again/",
+    "source": "/u/PositionJournal",
+    "published": "2026-03-13T22:19:05+00:00",
+    "snippet": "As a product manager, I challenged myself on NBIS, who are the customers today, tomorrow, and what's the endgame? Surely it can't be just cloud compute. Nebius is following a proven, sequenced go-to-market strategy that mirrors what they already executed at Yandex. The current AI cloud business is stage one which funnily enough \"Yandex Cloud\" was the last segment at Yandex before the spinoff with ",
+    "importance": "medium",
+    "tags": [
+      "policy"
+    ]
   },
   {
     "title": "SpaceX Plans Massive Orbit Network of AI Data Centers, Elon Musk Says",
@@ -823,6 +909,26 @@
     "tags": []
   },
   {
+    "title": "Amazon as a stepping stone?",
+    "link": "https://www.reddit.com/r/datacenter/comments/1rspfmp/amazon_as_a_stepping_stone/",
+    "source": "/u/Day-dreaming-lifttek",
+    "published": "2026-03-13T14:51:22+00:00",
+    "snippet": "I\u2019ve gone through the interview process at Google and am still waiting to hear back from the hiring committee from my very recent interviews. The position should open in the next month or so but I\u2019m not certain I\u2019ll land a position of course. I have an offer at Amazon now in there wblp program that I\u2019m debating on incase Google doesn\u2019t work out. I\u2019d get a pay cut from 34 an hour +6k bonus annually",
+    "importance": "medium",
+    "tags": []
+  },
+  {
+    "title": "Mechanical & Electrical Engineers in Data Centers \u2014 curious about your experience",
+    "link": "https://www.reddit.com/r/datacenter/comments/1rsocib/mechanical_electrical_engineers_in_data_centers/",
+    "source": "/u/Sad-Restaurant-1913",
+    "published": "2026-03-13T14:09:39+00:00",
+    "snippet": "I\u2019ve been learning more about the data center infrastructure space lately and I\u2019m curious to hear from engineers who work on the power and cooling side of large-scale facilities. For those working in data centers or other mission-critical environments: \u2022 What kind of electrical or mechanical systems do you work with most often? \u2022 UPS / generators / switchgear? \u2022 Chillers, CRAC units, or other cool",
+    "importance": "medium",
+    "tags": [
+      "expansion"
+    ]
+  },
+  {
     "title": "Global cloud and data center spending 2025",
     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVG9wWGVvb0xvNFo0RElIUW1SZTJnZFJUNDdDTmJ3d2xJT3ZxR0VHblMzbXVDZWVpblZnYTFOZzJsa0Y1eF8zeG9hU1ZNS0hFU0FoSkIxRDFxSy1EOWhyU3plekwtMWNpeGxyRUNFWDdZZlI3X09VeHYtbllNcF9MUmZTVG5qRHlfSmlBVnd2ZVQ?oc=5",
     "source": "Statista",
@@ -830,6 +936,17 @@
     "snippet": "Global cloud and data center spending 2025\u00a0\u00a0Statista",
     "importance": "medium",
     "tags": []
+  },
+  {
+    "title": "According to sources, data center developer Nscale is in advanced talks to acquire American Intelligence & Power.",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0di1QU01aV3NHdlNzWTZSdXgzMTBTSzZQMHhVc3B1VVNFZWpwTWhlZC1idWdsVzF3eDgwd1QzWmwxaEZYZmpiWHRwb1FLQW0tT1ZybGJpYnctRUl0NGJxVGhDemPSAWpBVV95cUxOSVZ2T1UwM0lIZGduSnY5cmlhNjJEMG5mREJsSzNvWmgtYmcydF94WkZWWjBGaG5zOWtNRmZKZ2dibjloY0F0SlBGS1pheDhHUTdmRnJwTDlRcldkNmpkNTJuSG5VbHRHLWp3?oc=5",
+    "source": "Bitget",
+    "published": "2026-03-12T12:35:00+00:00",
+    "snippet": "According to sources, data center developer Nscale is in advanced talks to acquire American Intelligence & Power.\u00a0\u00a0Bitget",
+    "importance": "medium",
+    "tags": [
+      "expansion"
+    ]
   },
   {
     "title": "NIMBY data center critics are chasing progress away from KY | Opinion",
@@ -910,21 +1027,59 @@
     ]
   },
   {
-    "title": "Lowell neighbors speak with Microsoft, Consumers Energy about proposed data center",
-    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUVVzZjRzOUp2b3RvRl9pd1ZUMWsxbFBsZjdMN05wR0l4a3lPcDM4Q2hGQkNsa0dZY09GS3FQN0padFBzcGtwX09aem10SDViZ0dGa1ZhNTNFR3lIbTdtWG1QVm4zcjluMU9aaktBaXVYSklDa3JwTExTY29qV0tSaXFHQV9BMGtZb0ZSVTZ5MnNaX1llWE5XZHBKc3BmYVE4UDROVjdDM3RiT3dCY0hjRkp3cTQ0OWllUUxjTzNiU3BFN0RsTTg1Y0ktMjExWVdRWmpkZG1zSGhUajRjdk90YklGaVZ3YnctRG9iVmNB?oc=5",
-    "source": "FOX 17 West Michigan News",
-    "published": "2026-03-05T08:00:00+00:00",
-    "snippet": "Lowell neighbors speak with Microsoft, Consumers Energy about proposed data center\u00a0\u00a0FOX 17 West Michigan News",
+    "title": "Bloom Energy, CoreWeave lower after report on Oracle-OpenAI data center",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRU12S2t3QlprTTNET3dZb21xN0tZVU5lQXpNWmRPSE5MSDBKUHplRlBXV1NDZnRESXNjSHRNdEhOZDBZY0ZBWC1CQjFURUJJbndrN3BSdDZtaGlNQjBZQkJGbGZIVEc4di1YTi1Xc1E0V012YklCemhSYUhWVXY1eHV3YlVGNFNJUkxwNUJJN0pxeG5fSUtaUGZrWUNHZGFaS2ZEVE03VGNWT2tNUWNmZ204eThhTFdiYjRyXw?oc=5",
+    "source": "TipRanks",
+    "published": "2026-03-06T08:00:00+00:00",
+    "snippet": "Bloom Energy, CoreWeave lower after report on Oracle-OpenAI data center\u00a0\u00a0TipRanks",
     "importance": "medium",
+    "tags": [
+      "coreweave"
+    ]
+  },
+  {
+    "title": "Elon Musk Says Tesla's AI5 Self-Driving Chip Will 'Punch Above Its Weight,' Sees Data Center Use",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONzdEZm5YVEZ5OGxUVWhLVVdSbUNVQVk4ZTdRQkRxVkt3bHVSLTc4V2hLSWg4ZHR5STFBd0FrYy1jdVhjb3A0TmItbEhDZHhwUHJmXzRtOWNoN0o3elFaR2xCcDByYmZhdzZHWUNKTjRoWGo1QXJvWnBRenNaT295aV9mX3pzVFJPZE1Wdnd4YmN6NXgxMjBQRWtoZC1EMWRUaEJiSU90c2J6QjhSU1hNU1NWYXZkRS1kaWc4Q1FnWmJWM05BdGRqUnNPdUJGS2RfMTR2V2FFTjU2QW9ReHc?oc=5",
+    "source": "Benzinga",
+    "published": "2026-03-19T05:13:00+00:00",
+    "snippet": "Elon Musk Says Tesla's AI5 Self-Driving Chip Will 'Punch Above Its Weight,' Sees Data Center Use\u00a0\u00a0Benzinga",
+    "importance": "low",
     "tags": []
   },
   {
-    "title": "Town of Beloit has pre-development agreement with company looking to develop data center",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeWJwdWIwbHpjenBfV0pWOTdJT1dCUFBNXzByckZyQUd2ekZocFZmX1l1Tk94UExGNUxTbTlWc0ZFWGpnNURCeHg2TlAzOFJpMVJ2ZEUwTVlmOUlaQWRDREtXM0poWVhjQmRqejEtZXBrX3NnbkhONXM0TkEyUC1vN2VfQlc5c05ITlhXdEZ3?oc=5",
-    "source": "WPR",
-    "published": "2026-03-05T08:00:00+00:00",
-    "snippet": "Town of Beloit has pre-development agreement with company looking to develop data center\u00a0\u00a0WPR",
-    "importance": "medium",
+    "title": "Grimes County residents push back on potential data center plans",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZXYtcWxab3pWaTZiRk9abWxYNXJzelZTWHhFU0t0MlJzUVBhanAxT3p6U1ZGZUZpR3RBWFkzOVBYam5JV2VWV1pkUFNialQ5a2ZIUG4xaDhXbGs2Qm1NNktINWNtQmQ0YzVfRXI4Q19zcVlvbFNoYkhfWDl1ZnpndFpZbUZvckRzS3VSYXpGVXB4RFJ5dHhJcVZB0gGuAUFVX3lxTE1URDlKbXJkdkxjSVBGZ3BZSGxZSFk4dm1kRWlUcnlldzFEVnhCUXhzNl81V3lRWWR1OUNLV3NMbTlNWU1XZHFuYUY2eWpTUDRGLS03MERwWUNqQ25UclZRSUI3ZjVYWVNZbE1HcGJERXYxbTJTb0tDWXg1anlHbEoxM3prcWN6bDR5bjJDeXdwX2ZibjliRkpTLV8tRlUxOC1sSHlNWUFZZ1JSQzVOZw?oc=5",
+    "source": "KBTX News 3",
+    "published": "2026-03-19T03:35:00+00:00",
+    "snippet": "Grimes County residents push back on potential data center plans\u00a0\u00a0KBTX News 3",
+    "importance": "low",
+    "tags": []
+  },
+  {
+    "title": "Closer to start my first experience as DCO L3",
+    "link": "https://www.reddit.com/r/datacenter/comments/1rxlz37/closer_to_start_my_first_experience_as_dco_l3/",
+    "source": "/u/elpapo999",
+    "published": "2026-03-19T00:48:04+00:00",
+    "snippet": "As i said back, I've receive my ascend offer then I feel very motivated to learn new things and ways to do things... what do you guys think that is the saint grial of this position?     submitted by    /u/elpapo999   [link]   [comments]",
+    "importance": "low",
+    "tags": []
+  },
+  {
+    "title": "Rate my idf closet",
+    "link": "https://www.reddit.com/r/datacenter/comments/1rxjrjq/rate_my_idf_closet/",
+    "source": "/u/anonsoon",
+    "published": "2026-03-18T23:17:50+00:00",
+    "snippet": "submitted by    /u/anonsoon   [link]   [comments]",
+    "importance": "low",
+    "tags": []
+  },
+  {
+    "title": "\u201cNo data center, no Costco, no Texas Roadhouse,\u201d city officials say at \u201cState of the Cities\u201d summit",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbDNPUGE1T0lZTHV1b2pSUGFmX1o0OTlJd3RBMEhHRVk0SG9DenJpS1E1U1BDRkJZSHdpc3hOTEhtV2hKOUxtQ2FMUTBuSGg4al9pSVh0SFZUSWVzRzk5M3dGUkpBS2tqQXFRYmZVbUIxYTE5aWpwU24xbDFTMEtlSnJSYVpWZGVrVHp1V1lxSl9VakpBYUtBaXJuWVBpYlJfNTRaQnpHcXhxZkw5M2xna3ZjaFVGQdIBygFBVV95cUxQOWdhX0RNeHkteTdsUFBYMXo3Tmd5WWQ5dk5YSVRUTl9YTVFRb0RZUGJkY0NMUENacVM4VnFBdUI3dlhzcUQtUDZsMl9YVFNuQXZTOFJFQVVLYXk5YmdrNTJlSE9aWFpMN21hOHZqeUNjNDhSMXlQTTNrUzNKbF9YcmlfUFFwOGpWbUZfWnVrWDNYLXpFSzFTT1BRTGpfVEREYV92ZVkxN1g3S29SMjh1WmxPX3VMd2FrUWt5NWJjS0I5X2YxZ2d0Rm1n?oc=5",
+    "source": "KEYC News Now",
+    "published": "2026-03-18T22:45:00+00:00",
+    "snippet": "\u201cNo data center, no Costco, no Texas Roadhouse,\u201d city officials say at \u201cState of the Cities\u201d summit\u00a0\u00a0KEYC News Now",
+    "importance": "low",
     "tags": []
   },
   {
@@ -948,6 +1103,15 @@
     "tags": []
   },
   {
+    "title": "How to get work experience",
+    "link": "https://www.reddit.com/r/datacenter/comments/1rxhwpn/how_to_get_work_experience/",
+    "source": "/u/Cold-Dig7700",
+    "published": "2026-03-18T22:06:03+00:00",
+    "snippet": "I graduate in may with an associate degree as a data center technician. I started applying for jobs earlier this year in January and have gotten a few call back but nothings panned out. Every \u201centry level\u201d position asks for 1-2 years of experience. How should I go about that since all the experience I have is restaurant related? Is there any way to get my foot in the door other than making it into",
+    "importance": "low",
+    "tags": []
+  },
+  {
     "title": "'Hardware is hard': Elon Musk takes swipe at Sam Altman again as OpenAI's $500B Stargate project reportedly hits turbulence",
     "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRk9YNGI4NXl6cWZFVVlUTWZBb1h1eFI3RjJjTW9BMDFPSXBDTUMwUUk2UXRxU1hrc1N6RlRPY04xNnNIVndqcEVrUW9ReFNRWWpLZHpPVl9GUUhoVktjT1c4ZllnYno4NjVWSDdNdHR2VjUxVEVLSm5GZXdGQkkxRzc0d2ktZzVEYmp2QnBBdmxrV1dBWjU5SlFpVEdJT3NFTE5xbVFIZkxQSXp6Mnl0ZjU1UmJqRUM0YnB6OVBMYUswbElGYjcyRkF3OWhmOF96dHREN1F0XzdFOGdMX2VqWFNleUhXX2NNUEw0UlJuZTFiTkl6eU1BSlVGbGo?oc=5",
     "source": "MSN",
@@ -964,6 +1128,24 @@
     "source": "WSLS",
     "published": "2026-03-18T21:49:01+00:00",
     "snippet": "Budget Stalemate: Data Center Tax Breaks Stall Virginia Spending Plan\u00a0\u00a0WSLS",
+    "importance": "low",
+    "tags": []
+  },
+  {
+    "title": "Uh What? Well we\u2019re done.",
+    "link": "https://www.reddit.com/r/AstonMartinFormula1/comments/1rxfeku/uh_what_well_were_done/",
+    "source": "/u/Ok-Hunt3422",
+    "published": "2026-03-18T20:31:51+00:00",
+    "snippet": "submitted by    /u/Ok-Hunt3422    to    r/AstonMartinFormula1   [link]   [comments]",
+    "importance": "low",
+    "tags": []
+  },
+  {
+    "title": "Google DC Fit Call",
+    "link": "https://www.reddit.com/r/datacenter/comments/1rxdhut/google_dc_fit_call/",
+    "source": "/u/Sairlarsy",
+    "published": "2026-03-18T19:23:23+00:00",
+    "snippet": "Hello everyone, So I've gone through all 3 rounds of the interview and just got contacted for a fit call. For all those who have gone through this process, what should I expect? And what are the chances of getting hired after this? I'm more concerned about the expectations and how I should go about things. Your contributions will be much appreciated. Thank you in advance     submitted by    /u/Sai",
     "importance": "low",
     "tags": []
   },
@@ -998,6 +1180,15 @@
     ]
   },
   {
+    "title": "DCO TECH role at aws: Loop Interview",
+    "link": "https://www.reddit.com/r/datacenter/comments/1rx6ypl/dco_tech_role_at_aws_loop_interview/",
+    "source": "/u/Necessary-Peanut8278",
+    "published": "2026-03-18T15:27:32+00:00",
+    "snippet": "So I have a loop interview for aws for the dco tech role at aws. They say it\u2019s gonna be different people for 45 minutes each and is virtual. Anyone done this interview before and if so, do you remember what questions they asked. What should I review before it? How did you interview go?    submitted by    /u/Necessary-Peanut8278   [link]   [comments]",
+    "importance": "low",
+    "tags": []
+  },
+  {
     "title": "'Hardware is hard,' Elon Musk says as OpenAI's $500B Stargate data center project stalls",
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbWZzVlBsdFBPRDR1Q1htR3VKRVFMZTNqUlQyQmE3emJMb3gzWVR2ZFNTdXpJY3ZhejBQWEg2ZHFBV3FXbEtaZDFKTjlNUV9IOGROVVVORGQ5ODVmUTAtb2JPWFRfcXZYX0tKUl80VHFRWUhmdi1vVC1HTGJETzVZbVE0TVVxWS1GZWlWS0dNaExjX1R6Qzh2SFpDd09rOG55cnlmcllub2RrS2tFWGVKdzJ6RDBKZlN1MWdTOXg3Ynl5cDgwZVBzcVFLRDhPZE0?oc=5",
     "source": "MSN",
@@ -1029,13 +1220,26 @@
     "tags": []
   },
   {
-    "title": "A battle over data centers heats up along the Mississippi-Tennessee state line",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWlZFa0VORkhWNTFUUzNLT3hiNFFTZDJwRzFiUHk3S2xtdmRRMGNhMGRtbWkwSml5Y0p3dm9OMkJtM2tJUDc0WHRpakF3ZnNkaVZydVMxWU1zWXNpdXdvOXdEcGQ2Rnp3c1NLeGlueDlLQjEwZkVRdXIwMHZURWxtc3VIZE1EMUdnaFpaRGJFU2ZsX3dRTllBdEs4NlhFVTJKVm9ic0ktVWVacmFTZGpBTFFLRy04R05yZVNz?oc=5",
-    "source": "Tennessee Lookout",
-    "published": "2026-03-18T10:05:25+00:00",
-    "snippet": "A battle over data centers heats up along the Mississippi-Tennessee state line\u00a0\u00a0Tennessee Lookout",
+    "title": "A small-scale data center could be coming to Pawhuska",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcnViT1hsNGtESlVSa2lSbm5feU5hRG9iQlRJYWZ3TmoyNDE5dkFMbkNRZ1ZOV2RaRmJvSExOM0dEN0FkcU54UlVXODNrSzllQWFJbVIzWFJ2d2h3VWRTd1AwWVJDWnM4T0V4TTRHb2sxb2M3dUxOa2hGd3hUZl9tYnVuemhwbVNYR3c?oc=5",
+    "source": "102.3 KRMG",
+    "published": "2026-03-18T12:19:47+00:00",
+    "snippet": "A small-scale data center could be coming to Pawhuska\u00a0\u00a0102.3 KRMG",
     "importance": "low",
-    "tags": []
+    "tags": [
+      "expansion"
+    ]
+  },
+  {
+    "title": "N.J. town sued for plan that could build huge data center instead of affordable housing",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcDcxSVdMaGp2bjU4QXMxemFmTUZzZTctNEpMa205Y0psNmNXRFdraEZRYUJwR21MOFhwZWlTZ3JHbENrV2Z5aTFwZUh1LU1YTmJPVHhNZzQxMXRvazdWdkt4eVM3Y0ZhZ0szRlliNUtBTVpySko5WUE4cS16YTdGN0NRWXUySk5KV3g3ZlRpQnoyMUlJMjhYb2tBQ1ZsaHJQRXpEb0l5LTI3ZDJ5LUZYS3U1dWpVSEh1bEZvcWRmOElEd9IB1gFBVV95cUxOYmJnVTFSaDZfV3doNnIwNjhEZGRrMHNHV1A4blAwVXBHWDM4RHlkR1hyWEtUTFdWak8wQkFXOUZJdVVIUVVvclFjMUYwYkNGQ0FULWNOalpPMkR6Q3RrOU92bkVFNl9VNE9aNXVNU2ppM3ZVZWp4V1NhR21XRkY3dEd2TUs2OERaVWZzREw2NE5sYlpaamd6TllCZU5kYlhhN2lTdjFXMHFwLUNZQUp3c21CRnlBcmcwNTdXSWZfM0NNaDRuOVlrdDZ6cnp3bXl0Yjk4SHVR?oc=5",
+    "source": "NJ.com",
+    "published": "2026-03-18T12:01:00+00:00",
+    "snippet": "N.J. town sued for plan that could build huge data center instead of affordable housing\u00a0\u00a0NJ.com",
+    "importance": "low",
+    "tags": [
+      "construction"
+    ]
   },
   {
     "title": "How to find the most up-to-date news on Indy area data centers",
@@ -1043,6 +1247,15 @@
     "source": "Poynter",
     "published": "2026-03-18T09:01:25+00:00",
     "snippet": "How to find the most up-to-date news on Indy area data centers\u00a0\u00a0Poynter",
+    "importance": "low",
+    "tags": []
+  },
+  {
+    "title": "Crash Cart Alternatives",
+    "link": "https://www.reddit.com/r/datacenter/comments/1rwy071/crash_cart_alternatives/",
+    "source": "/u/CrazyClownaus",
+    "published": "2026-03-18T08:18:10+00:00",
+    "snippet": "Hi All, Any of you guys using mini KVM's instead of crash carts? I've seen a few of these IP KVM's but unfortunately many of them have only HDMI input and the VGA adapters don't work and as we know many server have only a VGA output    submitted by    /u/CrazyClownaus   [link]   [comments]",
     "importance": "low",
     "tags": []
   },
@@ -1058,6 +1271,15 @@
     ]
   },
   {
+    "title": "40544",
+    "link": "https://www.reddit.com/r/countwithchickenlady/comments/1rwu5er/40544/",
+    "source": "/u/HiroProtagonest",
+    "published": "2026-03-18T04:32:24+00:00",
+    "snippet": "submitted by    /u/HiroProtagonest    to    r/countwithchickenlady   [link]   [comments]",
+    "importance": "low",
+    "tags": []
+  },
+  {
     "title": "A proposed data center could be coming to Forsyth County: Here's what we know",
     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRDhlbjVNS01MQ18xZWVHOF9SYklfS2Q0NE5QeDBkbkZxTXFRT1d3WXpEUHlpMWk3SmZfeEIzOVJTNEl5aklfVElJVVB1ZEYzaFZoWDRJQmo0aHpfV1V1LThEcVpaa3MxanFybGxMblBKUTRHbkJsMWJWYzNQdjgtVTBCeU5VeTlmOVYyMg?oc=5",
     "source": "WXII",
@@ -1065,18 +1287,6 @@
     "snippet": "A proposed data center could be coming to Forsyth County: Here's what we know\u00a0\u00a0WXII",
     "importance": "low",
     "tags": []
-  },
-  {
-    "title": "CoreWeave stock is up 105% in a year. Can it soar to $180?",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWlVpOEM3TFU5UDFxRlN5WHdKMmFEakwwbUtMWnZ1YnJaOVNUemRuWUdZTTE1alVEMFZ3ekZkUDY1YjNsN1Y3MVAtME5Bai1fRi0tUE5NMUxpWEJnNGVINVNycFJNMURsLUZJTzg3aWxxbThCU2g0SWV3M0F1Zk1hdjhwVF9WMS1aVzY2R01NZC1DWHdnakw2UXJROVFNT2E5aWc1WHVFeEJJUQ?oc=5",
-    "source": "MSN",
-    "published": "2026-03-17T23:48:01+00:00",
-    "snippet": "CoreWeave stock is up 105% in a year. Can it soar to $180?\u00a0\u00a0MSN",
-    "importance": "low",
-    "tags": [
-      "investment",
-      "coreweave"
-    ]
   },
   {
     "title": "Ellendale mayor speaks on impact of data center",
@@ -1088,6 +1298,26 @@
     "tags": [
       "policy"
     ]
+  },
+  {
+    "title": "Help prevent a new Data Center from being constructed in Forsyth County/Rural Hall by showing up to the Planning Board meeting on 4/9 at 4:30 PM.",
+    "link": "https://www.reddit.com/r/winstonsalem/comments/1rwl717/help_prevent_a_new_data_center_from_being/",
+    "source": "/u/Sahil_ws",
+    "published": "2026-03-17T22:11:07+00:00",
+    "snippet": "4/9 at 4:30 on the 5th floor of 101 N Main St Proposal for large data center in Forsyth County headed to planning board There's an application for a data center going to the planning board for a data center in Rural Hall. The planning board is a public meeting so pack the room/building to let them know what a horrible decision this is. There's literally no benefit to AI or data centers in general.",
+    "importance": "low",
+    "tags": [
+      "construction"
+    ]
+  },
+  {
+    "title": "Normally I\u2019d be a little annoyed if a teammate just quit after a flawless mission, but Honestly My man deserves his resignation. Thomas has been here since we started, saved my life multiple times, enjoy retirement bro. Get out of this city",
+    "link": "https://www.reddit.com/r/ReadyOrNotGame/comments/1rwk59p/normally_id_be_a_little_annoyed_if_a_teammate/",
+    "source": "/u/Weary-Barracuda-1228",
+    "published": "2026-03-17T21:32:23+00:00",
+    "snippet": "\u201cHow was Valley Flawless if you got a C?\u201d  I shot Voll.     submitted by    /u/Weary-Barracuda-1228    to    r/ReadyOrNotGame   [link]   [comments]",
+    "importance": "low",
+    "tags": []
   },
   {
     "title": "Siemens expands manufacturing footprint in the Carolinas to support data center growth",
@@ -1110,6 +1340,17 @@
     "tags": []
   },
   {
+    "title": "What's Happening With CoreWeave Shares On Tuesday?",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQlhtMmlPcHRMd0RwOTZvVXZ1SDMxWUluOVdmRTQ4ZnhYNFVTQU1Mdm5ERmNpblYtdzk3dERKbEl6R1dyOGI5Rjg5X2RYM0FIWEtLTlpNX1hseGxQTVZmSmM0THI4QzBKSG15aE5CV3RyN0RfeXlBeF9mREJIbmNNbTVfbDhNaGlsTE5XTjJ1MnVxdThhWVpncTlEeUEzLTBPbHcxNHRReXZHUQ?oc=5",
+    "source": "Benzinga",
+    "published": "2026-03-17T16:13:00+00:00",
+    "snippet": "What's Happening With CoreWeave Shares On Tuesday?\u00a0\u00a0Benzinga",
+    "importance": "low",
+    "tags": [
+      "coreweave"
+    ]
+  },
+  {
     "title": "Data center deep-dive: Sorting fact from fiction",
     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaU9Eb0R6SHF0blZzaExWeHhab01QaG9NWkVjaFNHVlB0cHVwdVNGdGRGei1ISGMzT1RrTWFlX1J0ZTE3OEFJd3VCYkJlSDFYTHY5UGNhWWlrRHdvMTltYlRrYXpieGxBNjdBQzhSQmJySURUMF9ad3FXZVBfRDJ3Vm9WNmbSAYQBQVVfeXFMTWlPRG9EekhxdG5Wc2hMVnh4Wm9NUGhvTVpFY2hTR1ZQdHB1cHVTRnRkRnotSEhjM09Ua01hZV9SdGUxNzhBSXd1QmJCZUgxWEx2OVBjYVlpa0R3bzE5bWJUa2F6YnhsQTY3QUM4UkJicklEVDBfWndxV2VQX0Qyd1ZvVjZm?oc=5",
     "source": "wspa.com",
@@ -1121,6 +1362,15 @@
     ]
   },
   {
+    "title": "Semtech Beats Q4 Expectations, Analyst Says AI Data Center Demand Outpaces Legacy Business Model",
+    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPM1hSeGhHNHlfZWE4dkNZMTVXTm81dENsR24zM0J0RlFSRjlXVkZjMHpURHRBcUpDQTlEZF9fdVlOZm9IclB6UUxjSTRlalVhRHZvLTlFdzRVa1BaRjhsc0lIMnlSWDVGc1FkZUpxbUdXaElMWVdRcndfRDR2YlBtVzVyQ2FpTWNBQ2NnMDZrT2hpMWVtQlB6Zi1ZdTJSSW9qZDgtZXpCQ2FjT2JMek8tbTlTSnZNM09pU1RZT2EwcWRoWnZRV1lUWUg2R21xMzBILXpxUFNHUXpxUGNCcmRxNmhUSzJUcC1aOWFEc29IVmhpR0JvUEJZWVBLZ3FzUHc?oc=5",
+    "source": "Benzinga",
+    "published": "2026-03-17T15:35:00+00:00",
+    "snippet": "Semtech Beats Q4 Expectations, Analyst Says AI Data Center Demand Outpaces Legacy Business Model\u00a0\u00a0Benzinga",
+    "importance": "low",
+    "tags": []
+  },
+  {
     "title": "Should You Forget CoreWeave and Buy 3 Artificial Intelligence (AI) Stocks Right Now?",
     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcC1LQWxRVkxuTTZSRGhZSldhUHphOU1CNVdNYUdJc3FkQTI4NGlpME5wMXdpZFNDcEg2WXRUeUhBelFDbzJyS19NVWVZQlJpdl9HekVBZU8yNzhHM2JWbmVpaFF4THlRQjdxMExqeXFZdm5SU3N0WXRVVUo4eVpHdDhscVE1dTNzNEVaa2dmVnE5dVRNdHlEWA?oc=5",
     "source": "The Motley Fool",
@@ -1130,6 +1380,33 @@
     "tags": [
       "coreweave"
     ]
+  },
+  {
+    "title": "'Beyond the Hive' free update, out now! Patch 1.11.0 & Expeditions!",
+    "link": "https://www.reddit.com/r/DarkTide/comments/1rw4pty/beyond_the_hive_free_update_out_now_patch_1110/",
+    "source": "/u/FatsharkQuickpaw",
+    "published": "2026-03-17T12:09:07+00:00",
+    "snippet": "https://preview.redd.it/me2ny3uajlpg1.png?width=800&format=png&auto=webp&s=1690bd2642df499c4b3fae793961ce28bf133605 Warband! Today\u2019s update is quite big. We are introducing Expeditions, our new game mode, to Darktide. You will be able to venture on missions outside of Hive Tertium, and fight your way through more open landscapes than we usually have inside of the Hive. With Expeditions we are also",
+    "importance": "low",
+    "tags": []
+  },
+  {
+    "title": "Beyond the Hive patch notes",
+    "link": "https://www.reddit.com/r/DarkTide/comments/1rw3dzh/beyond_the_hive_patch_notes/",
+    "source": "/u/Boner_Elemental",
+    "published": "2026-03-17T11:02:22+00:00",
+    "snippet": "https://forums.fatsharkgames.com/t/beyond-the-hive-free-update-out-now-patch-1-11-0-expeditions/119479 Warband! Today\u2019s update is quite big. We are introducing Expeditions, our new game mode, to Darktide. You will be able to venture on missions outside of Hive Tertium, and fight your way through more open landscapes than we usually have inside of the Hive. With Expeditions we are also introducing ",
+    "importance": "low",
+    "tags": []
+  },
+  {
+    "title": "L2 WBLP DCO or lateral transfer as L3 DCO at end of year?",
+    "link": "https://www.reddit.com/r/datacenter/comments/1rvywvr/l2_wblp_dco_or_lateral_transfer_as_l3_dco_at_end/",
+    "source": "/u/_Tips_Hat_",
+    "published": "2026-03-17T06:27:14+00:00",
+    "snippet": "Hello all, currently a T1 at an Amazon FC as an IT Equipment Coordinator, thinking about jumping ship to a Data Center role this year. I have been inclined for an L3 IT Support Associate, but my site does not have any openings in the immediate future. There is a possibility of one opening up at a nearby site, which I am confident I have a high chance of landing, but the pay bump is not worth the c",
+    "importance": "low",
+    "tags": []
   },
   {
     "title": "Shinsegae, U.S. Build Largest Korean Data Center",
@@ -1174,6 +1451,24 @@
     ]
   },
   {
+    "title": "Career Advice and Direction",
+    "link": "https://www.reddit.com/r/datacenter/comments/1rvo1fv/career_advice_and_direction/",
+    "source": "/u/InstructionOk145",
+    "published": "2026-03-16T22:10:45+00:00",
+    "snippet": "Hi all. Located in southeast Michigan. I currently work a part time job in IT support. I graduated with my CS degree last year and I have a CCNA. Desperately looking for a full-time job lol.  Data centers have recently interested me since the work is hands-on and active (which i like). I stumbled upon a local apprenticeship in Sound, Communication, and Data Management that really caught my interes",
+    "importance": "low",
+    "tags": []
+  },
+  {
+    "title": "Demonic tool from a demonic company",
+    "link": "https://www.reddit.com/r/whennews/comments/1rvmsrb/demonic_tool_from_a_demonic_company/",
+    "source": "/u/KyoN_tHe_DeStRoYeR",
+    "published": "2026-03-16T21:26:04+00:00",
+    "snippet": "I heard datacenters burn beautifully at night \u2728    submitted by    /u/KyoN_tHe_DeStRoYeR    to    r/whennews   [link]   [comments]",
+    "importance": "low",
+    "tags": []
+  },
+  {
     "title": "Fluor Signs Limited Notice to Proceed with TeraWulf for Large-Scale Data Center Project in Kentucky",
     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdy1IekxFZkpXSVNJa2d2QTRRek1nMWcxZDY4QkdYZy00MXo3REFZVjBNRVgxLWgwVV96Q2ZVY0RtaEo2cDAwYlBDNWZrTkk1ZXp4S0FEdGFRbnBNMGh3bUxtNVlDcHptZi03RE44WmlCQTREUWwzamxpaTl0clNjSXcwODhxTGRwQkJ5YVZxai1LYzdSVGg1bXZ5SkJQeDRCN3RGcEg4WnlJZ0hDU0VRMHNwV3NUN25BcXVtYktjQWRNY2xjLXRhNHoyMG5VblJRQXFRTXFFZERtWjFKNVJ2Z1h2ZzNZWUxiTkF1Rg?oc=5",
     "source": "Business Wire",
@@ -1182,6 +1477,26 @@
     "importance": "low",
     "tags": [
       "expansion"
+    ]
+  },
+  {
+    "title": "Robot dogs train for a new role \u2014 guarding data centers",
+    "link": "https://www.reddit.com/r/datacenter/comments/1rvk4zx/robot_dogs_train_for_a_new_role_guarding_data/",
+    "source": "/u/LinkedInNews",
+    "published": "2026-03-16T19:50:43+00:00",
+    "snippet": "submitted by    /u/LinkedInNews   [link]   [comments]",
+    "importance": "low",
+    "tags": []
+  },
+  {
+    "title": "Seeking Advice: Nervous About AWS Data Center Technician Interview",
+    "link": "https://www.reddit.com/r/datacenter/comments/1rvi4mg/seeking_advice_nervous_about_aws_data_center/",
+    "source": "/u/Impressive_Meat6375",
+    "published": "2026-03-16T18:41:23+00:00",
+    "snippet": "Hi everyone! I have an interview coming up for a Data Center Technician role at AWS, and I\u2019d really appreciate any advice on how to prepare. My background: I'm currently a Computer Information Systems major w/ Data Science and Business Administration minors. I have experience with building PCs and Linux, I also am gaining my certifications for the AWS CCP, CompTIA Security+, and the Tableau Deskto",
+    "importance": "low",
+    "tags": [
+      "construction"
     ]
   },
   {
@@ -1225,6 +1540,15 @@
     ]
   },
   {
+    "title": "Segro signs pre-lease to develop 50MW data center in Slough, UK",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPajFtakRSaVcwbUhzbU1idEFPM1EtY1VUZXJYTVZJQTUtS2hDcnBoMDR5TzZPM0hOcFl2b21nVlhYcDhJZmlsM0FWb2RhQ1U3M216OHUxRS1UblVxTTlnRzZGajViOUU2YkpVblo1OUM2UXppdm1jaTBHQ1daMnNfRmh6aVVkdlpoaTduVG1CTFJFRW0xd0VjVm1mUHBtUWhMeUwxd2tB?oc=5",
+    "source": "Data Center Dynamics",
+    "published": "2026-03-16T12:35:08+00:00",
+    "snippet": "Segro signs pre-lease to develop 50MW data center in Slough, UK\u00a0\u00a0Data Center Dynamics",
+    "importance": "low",
+    "tags": []
+  },
+  {
     "title": "Investing in Italy: Infranity Backs Retelit Datacenter",
     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWm1WVXpfWnBrbzE5MkNWUzdmLUltdGRyR2FwWjZuYkYxWGl3WTlsYU1CREVUc0lyRnl2VFI1QUhUV3JIay1KdmI2Yl9Yd2RVZGc0SW5EdVVqT0RZTWF2U3NLYW1FQWd1c2ExT29vYXIwNFNqNFY4UFp0SWZadEZQU2FRRjBVQWhwbzdKYjdCTTVobEk?oc=5",
     "source": "Data Centre Magazine",
@@ -1236,20 +1560,29 @@
     ]
   },
   {
+    "title": "City Council of Provo, Utah, votes against data center rezoning proposal",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcjVwR0syaEg4b2Y1Qk1UUmt0NDJsaXNpTnppb3dTRzVpZFRrOXdBeTRDbm1RaFVuTlRwbVY2N0g2eld2LTVjUHpzZkR2ZHN2azNCbloxVVU2TjFlSmVtU1NoOWVTNDVrWlZCUXVhQUVSbGJZWFRkdFE3dWsxaWd5MzlUeUdISjY0eFIxRDcxU3NOcFdYdWFhaC0xM2ZpYS1MX2k4My1BS3AxdG9ZSVdxbnEwbEU?oc=5",
+    "source": "Data Center Dynamics",
+    "published": "2026-03-16T11:30:00+00:00",
+    "snippet": "City Council of Provo, Utah, votes against data center rezoning proposal\u00a0\u00a0Data Center Dynamics",
+    "importance": "low",
+    "tags": []
+  },
+  {
+    "title": "AWS Dceo L3 pay for Northern California",
+    "link": "https://www.reddit.com/r/datacenter/comments/1rv1d4k/aws_dceo_l3_pay_for_northern_california/",
+    "source": "/u/RmeGoHeadGimmeHead",
+    "published": "2026-03-16T05:55:42+00:00",
+    "snippet": "Does anyone know what internal transfers would start at for an L3 engineering operations technician for Amazon? Around the San Jose area thank you     submitted by    /u/RmeGoHeadGimmeHead   [link]   [comments]",
+    "importance": "low",
+    "tags": []
+  },
+  {
     "title": "The Dark Side of AI: Greedy Data Centres and Destroyed Productivity",
     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWlU2VkxxVVpQZFpjdXVtNE5YTlR2ODNpTnNBaVBqMGNwNVVFTENwYXFPTThRaFQzQzlKbk9kbUNadGs0MHFJT0Z6Z010WllNNXdVQ3B1SVR2MHBqQlRMMGhGcDZwWTZnVUd5Qm9wV0ZHalNvUGJrcVBaMUt2Mnprd1lKX04zQUNRSVZ6eXdFZV8wQy1meVh3Y0FnbTJzZVk?oc=5",
     "source": "The Teen Magazine",
     "published": "2026-03-15T18:09:49+00:00",
     "snippet": "The Dark Side of AI: Greedy Data Centres and Destroyed Productivity\u00a0\u00a0The Teen Magazine",
-    "importance": "low",
-    "tags": []
-  },
-  {
-    "title": "Developer pulls data center proposal from project in Oakley",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTnhkcE54ekhVYzZ2YUZaX3VwV1lSZm5xam1WblJuVHlaRTRhd2tKZEgyUzJvMW1uRlpQLUJ0YzVEdHUzaXE2SEY0bWpta2liZy1fMFRlT0JxZ2tKcVg0TFlSaDBreWp4T3U1bTI1SkE1MktFdDZGUW11eWNFNGVVaDJSeFY4dWpoNzdZSTR6WEplRmcwdUxaREcxci1kVkYt0gGmAUFVX3lxTE44RlJLNUF4c2RKNjE1dXJqaXhPZDMtZEtyWU9lLTlueHJhanUzN1hfNmlkaWtVSVNfZnNvWXdsa0RENnZTdTIzWXpKRGZtR2pFajY4ME55Z1dqT253ejBQQTRsYjgzbUJZSHN0ZmRYaEVNMnA0ZU9FR1BLSlYxZWpINWNQMmtiMlZGQ0g3bHBXV2x3dnFwaE9Vc2JkR3ZWTGJFLTdiU0E?oc=5",
-    "source": "The Mercury News",
-    "published": "2026-03-15T12:30:06+00:00",
-    "snippet": "Developer pulls data center proposal from project in Oakley\u00a0\u00a0The Mercury News",
     "importance": "low",
     "tags": []
   },
@@ -1275,6 +1608,24 @@
     "tags": [
       "social"
     ]
+  },
+  {
+    "title": "When can you start overtime in the AWS WBLP program?",
+    "link": "https://www.reddit.com/r/datacenter/comments/1rtsfx0/when_can_you_start_overtime_in_the_aws_wblp/",
+    "source": "/u/TheTerenity",
+    "published": "2026-03-14T19:28:07+00:00",
+    "snippet": "I may be relocating for a Work-Based Learning Program (WBLP) position with AWS and trying to plan my budget for the first few months. I\u2019ve heard from a few people that overtime is available once you\u2019re settled into the role, but I haven\u2019t been able to find clear information on how long it typically takes before WBLP participants can start picking up OT. For anyone who has gone through the program ",
+    "importance": "low",
+    "tags": []
+  },
+  {
+    "title": "55 \u2192 282 tok/s: How I got Qwen3.5-397B running at speed on 4x RTX PRO 6000 Blackwell",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1rtrdsv/55_282_toks_how_i_got_qwen35397b_running_at_speed/",
+    "source": "/u/lawdawgattorney",
+    "published": "2026-03-14T18:46:41+00:00",
+    "snippet": "EDIT: Important*** updated my github repository, using the link to benchmarks scripts Festr showed me (VOIPMonitor) . MTP=3 ((1user, 8 user) MTP=0 (1 User, 8 user) K=64 171 / 648 76 / 373 (1 user v 8 conccurrent) Stock 161 / 652 74 / 376. (1 user v 8 concurrent) Six percent MIGHT be something, but that's also within noise and MOE, so i don't think it really shows anything other than clearing out s",
+    "importance": "low",
+    "tags": []
   },
   {
     "title": "Americans\u2019 Anger Against AI Data Centers Is Boiling Over",
@@ -1319,6 +1670,15 @@
     ]
   },
   {
+    "title": "My neighbor offered me this as a thank-you because I supported him a lot while he was struggling with depression. What can I do with it? It's an M720Q.",
+    "link": "https://www.reddit.com/r/selfhosted/comments/1rtie16/my_neighbor_offered_me_this_as_a_thankyou_because/",
+    "source": "/u/pacmanpill",
+    "published": "2026-03-14T12:39:27+00:00",
+    "snippet": "submitted by    /u/pacmanpill    to    r/selfhosted   [link]   [comments]",
+    "importance": "low",
+    "tags": []
+  },
+  {
     "title": "Oliver County data center debate continues",
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMTRPNFJSQzhuUUdEcE1BOHNLQWRPeGpnbkd6R1hpd1BkOVk2akN0emU5blhxczRVb3puVmZkeldHUHBqM21iaU5HOURLc3RJcUZweXdzcHBVQ2tSMzI4UU9EMHh6akk2ZFJ2aUY5WjRSRDgxQW03Ql9NUTM3aUxZSlJ5U3hJdk0?oc=5",
     "source": "KX News",
@@ -1339,6 +1699,17 @@
     ]
   },
   {
+    "title": "\"Each frontier AI model seems to use a little under a year's worth of a square mile of farmland's water to train. I think about this as the country having 4 square miles of farmland sectioned off to grow some of the most popular consumer products in history.",
+    "link": "https://www.reddit.com/r/accelerate/comments/1rszqm4/each_frontier_ai_model_seems_to_use_a_little/",
+    "source": "/u/stealthispost",
+    "published": "2026-03-13T21:05:20+00:00",
+    "snippet": "Just a handy pair of images to show AI critics.     submitted by    /u/stealthispost    to    r/accelerate   [link]   [comments]",
+    "importance": "low",
+    "tags": [
+      "expansion"
+    ]
+  },
+  {
     "title": "Should You Buy the Dip on CoreWeave's Stock?",
     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeDNLaUc3TlhIWXBwc19wd3dxUzFmTTlVclJ3QzZoLWpzcU1ocE5CWlpZQ0FURmlQOU01dlA1ZlZIaHp2QTVNR2o0RC1XRVd5TFlQNmJFU2wtQUE1MVFKbWlILW5uZk5pN20tdTVkMWoxSGh0N2xubUFTQno0MzJ4TkcwRlRlcDNqRUhfUnZn?oc=5",
     "source": "The Motley Fool",
@@ -1348,6 +1719,33 @@
     "tags": [
       "coreweave"
     ]
+  },
+  {
+    "title": "Recruiter for a DCT position at QTS reached out. Does anyone know how the work environment is at QTS? I was at AWS before, as long as it\u2019s better than them that\u2019s all I need to know",
+    "link": "https://www.reddit.com/r/datacenter/comments/1rswr9v/recruiter_for_a_dct_position_at_qts_reached_out/",
+    "source": "/u/tnw6901",
+    "published": "2026-03-13T19:15:04+00:00",
+    "snippet": "My goal is to get into microsoft or Google since their pay is essentially higher for entry level but I also don\u2019t want to pass up a good opportunity elsewhere if they\u2019re worth it     submitted by    /u/tnw6901   [link]   [comments]",
+    "importance": "low",
+    "tags": []
+  },
+  {
+    "title": "Florida: The Next AI Data Center Frontier? Opportunities & Challenges Ahead",
+    "link": "https://www.reddit.com/r/datacenter/comments/1rsuuwr/florida_the_next_ai_data_center_frontier/",
+    "source": "/u/WTFPilot",
+    "published": "2026-03-13T18:06:48+00:00",
+    "snippet": "submitted by    /u/WTFPilot   [link]   [comments]",
+    "importance": "low",
+    "tags": []
+  },
+  {
+    "title": "Pneumatic HVAC panel turning into shelving.",
+    "link": "https://www.reddit.com/r/garageporn/comments/1rsu7wp/pneumatic_hvac_panel_turning_into_shelving/",
+    "source": "/u/GirthBr00k",
+    "published": "2026-03-13T17:44:32+00:00",
+    "snippet": "submitted by    /u/GirthBr00k    to    r/garageporn   [link]   [comments]",
+    "importance": "low",
+    "tags": []
   },
   {
     "title": "CRWV Deadline Today: CRWV Investors with Losses in Excess of $100K Have Opportunity to Lead CoreWeave, Inc. Securities Fraud Lawsuit",
@@ -1362,6 +1760,15 @@
     ]
   },
   {
+    "title": "Good thing we don\u2019t live in Data Center Alley",
+    "link": "https://www.reddit.com/r/nova/comments/1rsspp8/good_thing_we_dont_live_in_data_center_alley/",
+    "source": "/u/AtticusStacker",
+    "published": "2026-03-13T16:51:49+00:00",
+    "snippet": "submitted by    /u/AtticusStacker    to    r/nova   [link]   [comments]",
+    "importance": "low",
+    "tags": []
+  },
+  {
     "title": "Sam Altman says AI will eventually be sold like electricity and water \u2014 by companies like OpenAI",
     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd2p5ODNGNmNfLXpPejU3UlF5ajd2WVZFejRpTDdsSTRUNjFTWV9qSGNrQ29BaHAxeExVQmdNemk3Tlk3ejRHM1VIekRJWnF4Z3pSQlVTMXdXZGdaZmVQVklMVW4xSTN6UU5GOFpVMEE2dUw3eVh0eE0zYXc5elVueFVzWTBLNUlhcmF4cVh3?oc=5",
     "source": "Business Insider",
@@ -1369,6 +1776,29 @@
     "snippet": "Sam Altman says AI will eventually be sold like electricity and water \u2014 by companies like OpenAI\u00a0\u00a0Business Insider",
     "importance": "low",
     "tags": []
+  },
+  {
+    "title": "DC Facilities culture",
+    "link": "https://www.reddit.com/r/datacenter/comments/1rsqqoz/dc_facilities_culture/",
+    "source": "/u/Lightbulb_Up_My_Butt",
+    "published": "2026-03-13T15:40:10+00:00",
+    "snippet": "I recently had a contract end with AWS and rather enjoyed my experience there despite reading about the horror stories.  I\u2019m curious. What have your experiences at data centers been like? If you comment, be sure to state whether it was a hypserscaler, colo, etc.! Thanks for your time    submitted by    /u/Lightbulb_Up_My_Butt   [link]   [comments]",
+    "importance": "low",
+    "tags": [
+      "expansion",
+      "policy"
+    ]
+  },
+  {
+    "title": "Employee of the Month",
+    "link": "https://www.reddit.com/r/spiders/comments/1rsos70/employee_of_the_month/",
+    "source": "/u/NotMyDayMan",
+    "published": "2026-03-13T14:26:33+00:00",
+    "snippet": "Got a couple pictures of the best employee in my building. I work in a datacenter and this little one was bopping around the hallways, patrolling for any buggos it couple ambush. Easily the hardest working individual in the building.    submitted by    /u/NotMyDayMan    to    r/spiders   [link]   [comments]",
+    "importance": "low",
+    "tags": [
+      "construction"
+    ]
   },
   {
     "title": "People Hate Datacenters, Survey Finds",
@@ -1380,20 +1810,11 @@
     "tags": []
   },
   {
-    "title": "Signing Day Sports (SGN) \u2014 One Blockchain signs LOI for data center lease",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUF9VTzJmb19oeENaWjJLRldmOVRJUHByWlRfNVRqTFVLeWxBLW9zYWN2dWVfOVRCbXQyak8wLUEtUlNyLTB2SklvengwSFNjWllaSlNpU1JMUElNaUZfeVlidGpFYmNDdk05azktWldDQ0xDNG8xTnc5czlPa3hnTmhvUFE1eDNXSER1RnIxNlBiWGs2UE1hS1lfZjNpX0k3MlZPY3E2T1NsNjdtZXBFS1RDeFhDbC1ialZ1TlFMSQ?oc=5",
-    "source": "Stock Titan",
-    "published": "2026-03-13T12:12:41+00:00",
-    "snippet": "Signing Day Sports (SGN) \u2014 One Blockchain signs LOI for data center lease\u00a0\u00a0Stock Titan",
-    "importance": "low",
-    "tags": []
-  },
-  {
-    "title": "AI data center JV targets R1 universities for Core AI (Nasdaq: CHAI)",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYVdxa055UkRnektrYTd3WFFaMkNjUkJEbF91TGVVdGM4UG04MVRqUkZHXzREY1VMYksxNi1UdFpaNlVhcFI0OTUwaHpCeVRIY2QySVVONWk0YV9KbV9CbTgtTU1SVW9vZFoxVFdTbjlQRy1JTnVaQVBVdVZoN29IRmEtTWJqODZNVmVRQ2Nwb2htSkdLcEF6a04yOXNlNTVFWm83M2diT0hzelN3Si1PNTVvd29sa1k?oc=5",
-    "source": "Stock Titan",
-    "published": "2026-03-13T10:53:10+00:00",
-    "snippet": "AI data center JV targets R1 universities for Core AI (Nasdaq: CHAI)\u00a0\u00a0Stock Titan",
+    "title": "Montgomery County data center summit postponed, DiBello says",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZkZkbWRhZFBoX1VHbVJSUHlVVGFWZ2YyLUNuc2JXa0JIMjZ3b1kxbGtiUE5qWERabzl2VDRCNTNnbmg5WEtZNlpONXY2eXhTZG5BZC1YVXNfOFR2LTJ3emJKd0w1SGtudW14TlZMODlERDNRX19YOGdkNHYwRlBHRm4xZ1dSMUN1cHEzS1ZpT2p0VXF5NzdmVjRaSHhNZw?oc=5",
+    "source": "Wiss Now",
+    "published": "2026-03-13T09:11:56+00:00",
+    "snippet": "Montgomery County data center summit postponed, DiBello says\u00a0\u00a0Wiss Now",
     "importance": "low",
     "tags": []
   },
@@ -1407,6 +1828,15 @@
     "tags": []
   },
   {
+    "title": "\u200eThere is a common misconception I would like to address regarding this bum \u200e \u200e \u200e",
+    "link": "https://www.reddit.com/r/ShadowSlave/comments/1rsfqle/there_is_a_common_misconception_i_would_like_to/",
+    "source": "/u/KOBRA_X_KING",
+    "published": "2026-03-13T06:25:06+00:00",
+    "snippet": "\u200eI am amongst the troops that slander sunny for the fun of it, but sometimes some slanders go way off target you got to raise the flag. \u200e \u200eWhat I would like to address is Sunny's Will. \u200eIt looks like people have come to an agreement that Sunny's Will ain't that great when compared to the likes of Anvil, Nephis and some other sovereigns. \u200e \u200eSeems like some people believe that Sunny has the worst Wi",
+    "importance": "low",
+    "tags": []
+  },
+  {
     "title": "Kochville Township tackles social media data center claims",
     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaGk4dC11Y0NiTmRyRTN5cmh0VTRmR1gtYmhVZGdUREVpeWFpdXlxdEoxcFRUZjNyNjRUT3BCdjYxVzFMZnZORmxJdGdhYVNUa1ZJYzI4NXd4emZubUl2ZVJHYXBKQWJ4TC1RSFVrVzB6Z0Z4REJqT3BpS2VvTkMwU2hFU2RQdzY0OUxCazFtVU5HUTFvakJFRWRWb01BRVl1dXU5blhOelV6V2VRWG0tNGU1bmtheEJqNUxCOGQzQ045aVkySnczUmNYRzhtbENKdVZDdTFzaE0?oc=5",
     "source": "WJRT ABC12",
@@ -1416,6 +1846,15 @@
     "tags": [
       "social"
     ]
+  },
+  {
+    "title": "Google Team Fit Call",
+    "link": "https://www.reddit.com/r/datacenter/comments/1rs916z/google_team_fit_call/",
+    "source": "/u/Natee1738",
+    "published": "2026-03-13T00:53:48+00:00",
+    "snippet": "(This is for a DCT-1 role for Google) My recruiter called me today to tell me I passed all 3 rounds and that I will be moving onto the \"team fit\" call and he will get back to me early next week with an update of when that call is. What to expect now?    submitted by    /u/Natee1738   [link]   [comments]",
+    "importance": "low",
+    "tags": []
   },
   {
     "title": "Data Center",
@@ -1436,6 +1875,15 @@
     "tags": [
       "policy"
     ]
+  },
+  {
+    "title": "Officials still revising proposed data center zoning ordinance covering 19 Luzerne County municipalities",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTk5vZUliZDZ4ZzR3SDR6WkpVcDVGdEdjOHkyNkZzQ1JnclUxR3lIWm9NSm9OdV96LWtuT19femZEWThaV1g0MmVvSXFVa3lVU21yRUlrSEZNT0QyenR5WUNmY2FvUkYzWEI1dkdiUEpTd3NTTWtoRHpFc2liRGRJM1JGUzRENzE4SWIyRkZQeWdkVDY3TmFvWWE0V1dqdlRIbkZQQUZ0T19hMEFJaUVGZm1tZzIzMGg2cFprZjcydUozaXhCSE9hODRoQlVURm5CSkNFZVl4d2xSTm1ic0E?oc=5",
+    "source": "Times Leader",
+    "published": "2026-03-12T23:00:00+00:00",
+    "snippet": "Officials still revising proposed data center zoning ordinance covering 19 Luzerne County municipalities\u00a0\u00a0Times Leader",
+    "importance": "low",
+    "tags": []
   },
   {
     "title": "Vineland, NJ residents raise concerns about humming noise near data center on South Lincoln Avenue",
@@ -1467,11 +1915,11 @@
     "tags": []
   },
   {
-    "title": "Commissioners to hear from opponents of data center plan",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORVJDSU01WXhHMnh2Nm56cmF4ejMxZW5wRmxTal9SQzRoOTdXMVRlQ0ZjZzl1dkxHdEQ4RGd1Uk1hOWhKT3prV016MFpqWlRGaFZsTFZ2RURWU190SDhCOXkxaEFwZUdoS2R3aXktOUdEZU01SWJRSFVVNTFTZUJfcjZCNFlRTUlockw4VnBPN3M?oc=5",
-    "source": "The Rant | Sanford, N.C.",
-    "published": "2026-03-12T19:45:22+00:00",
-    "snippet": "Commissioners to hear from opponents of data center plan\u00a0\u00a0The Rant | Sanford, N.C.",
+    "title": "Tips/Advice for L4 DCEOT at AWS? (Just got the offer)",
+    "link": "https://www.reddit.com/r/datacenter/comments/1rs1i0i/tipsadvice_for_l4_dceot_at_aws_just_got_the_offer/",
+    "source": "/u/Alternative_Monk_815",
+    "published": "2026-03-12T20:03:41+00:00",
+    "snippet": "*Arizona, United States* Hey everyone, I just got the offer to start as an L4 Data Center Engineering Operations Technician for AWS. I have no prior Data Center experience. My background is 4 years commercial HVAC/R service and installation (I\u2019m EPA universally certified). I understand this will be a somewhat big change, what can I expect transitioning into this career path? How can I excel? If yo",
     "importance": "low",
     "tags": []
   },
@@ -1517,6 +1965,15 @@
     "tags": []
   },
   {
+    "title": "Residents unite to oppose possible AI data center",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTDByOVFBbDN1QUhYQXpGS0Q5SzFPa1ZFVE4wVjduREJOck9OT2Ywb0Q4LS1YY2JwZVZaelZXMjBaVEl2YjN2NXdhMjQzdng4WndNQVNsNVFySWNBbF9TWmdYcUY1Tk8wNTkwazduakdfbnJJWG93ZXA4NFBMQ0licWRyaGVVbExNR2ZkU3J6RWgwdnI1LVN6Nw?oc=5",
+    "source": "South Jersey Media",
+    "published": "2026-03-12T14:50:20+00:00",
+    "snippet": "Residents unite to oppose possible AI data center\u00a0\u00a0South Jersey Media",
+    "importance": "low",
+    "tags": []
+  },
+  {
     "title": "CoreWeave stock price forms dreadful patterns as key risks persist",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWG5aOHlVTUc1Y0lPUW9SdTUyNWliUEI4VWhiNjVyVThwSFNzZFY5QVVXZVZjMnNPRWE0OXFmWE85WjhBM0I5RWVUWjhXM09wUEJwWjVSMmJWM1dQYTZzdnp6a2FmeF9ualdUa2ZzVTF5YkpUdk9IdlozXy0tTWJYZFZObnhsd1QyRk01QlVEYmFTQXJBRVd4a0RCQmdiN052U1RGc3NJdw?oc=5",
     "source": "CryptoRank",
@@ -1526,6 +1983,15 @@
     "tags": [
       "coreweave"
     ]
+  },
+  {
+    "title": "Love and Deepspace's art director explained at GDC exactly how they design characters we fall in love with.",
+    "link": "https://www.reddit.com/r/LoveAndDeepspace/comments/1rrp1pn/love_and_deepspaces_art_director_explained_at_gdc/",
+    "source": "/u/ihearamurmur",
+    "published": "2026-03-12T12:10:58+00:00",
+    "snippet": "https://preview.redd.it/n3rwf8uqqlog1.png?width=774&format=png&auto=webp&s=63d2ee38d4aae3ba906189d1ae263cd0ea8ef2c3 So Love and Deepspace's art director Xianzi Feng did a talk at GDC this week called \"Designing Crush-Worthy Characters\" and our team was in the room. I need to share this because the level of intentionality behind everything in this game is even more intense than I thought. She laid ",
+    "importance": "low",
+    "tags": []
   },
   {
     "title": "How much water do Calgary\u2019s AI data centres consume? Not as much as you might think",
@@ -1546,6 +2012,17 @@
     "tags": []
   },
   {
+    "title": "AI-fatigue, I'm genuinely exhausted",
+    "link": "https://www.reddit.com/r/solarpunk/comments/1rrci4i/aifatigue_im_genuinely_exhausted/",
+    "source": "/u/The_Quiet_PartYT",
+    "published": "2026-03-12T00:59:07+00:00",
+    "snippet": "I don't know if it's just me but I am so tired of the 2020s. EVERYTHING has \"AI\" shoehorned into it, and it's never some algorithm that spots cancer growths with really high accuracy, it's chatbots, and \"assistants\" that drain freshwater lakes and destroy local ecosystems as their stupid datacenters run literal giant gas turbines just to help somebody answer the most hilariously simple question.  ",
+    "importance": "low",
+    "tags": [
+      "expansion"
+    ]
+  },
+  {
     "title": "Are AI data centres hurting Calgary\u2019s water supply?",
     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzWDEwZklPX0tabjVvR3poQk85RmNMeF9yZlc4aGRNNzhCd3pzOWtKZnduZmxLQ21XS0FndUx2NlZObzcyVWIzenVsamhvdnVncWJIQWw0b2xSZw?oc=5",
     "source": "CBC",
@@ -1564,15 +2041,6 @@
     "tags": [
       "coreweave"
     ]
-  },
-  {
-    "title": "Environmental groups take case over CRU data centres decision",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9saEp1UGVaRVd6R3lmUTROeEpjdFRSX0lBWkZXaWp4eEdhazkyY0VKTFlWWFdQMEpuZXdCNy1kN3k5b1RBLUlaTHpfbWpncFAxc0ROR3BvWUVvdmFzdXcwc0FySXhGS2gwZUJPTURUdlVNYTF2cXc?oc=5",
-    "source": "Irish Examiner",
-    "published": "2026-03-11T20:54:00+00:00",
-    "snippet": "Environmental groups take case over CRU data centres decision\u00a0\u00a0Irish Examiner",
-    "importance": "low",
-    "tags": []
   },
   {
     "title": "Is CoreWeave (CRWV) a Good Stock to Buy Now?",
@@ -1633,6 +2101,17 @@
     "tags": []
   },
   {
+    "title": "CoreWeave (NASDAQ:CRWV) Shares Gap Up - What's Next?",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLXA2V1ZRRXhJN2ZlZ1lscXRaNzRqUGJuaVE4QkNfODBxUEVqNW5xbUlfbldMV0E5R245VWVDYkVXNVhycmdMLWxvczVHY2xsVDlnRnBDVC01MVBsaUNRU1dqdHk0Zm5GMXBnRnFBUlV5YTdJX3F4S1ZJYnNKVkNnWE5KNEZ5all5VEJTOXdpdEdCaVdtREt5MzlRbDZEcFhM?oc=5",
+    "source": "MarketBeat",
+    "published": "2026-03-11T15:23:23+00:00",
+    "snippet": "CoreWeave (NASDAQ:CRWV) Shares Gap Up - What's Next?\u00a0\u00a0MarketBeat",
+    "importance": "low",
+    "tags": [
+      "coreweave"
+    ]
+  },
+  {
     "title": "3i Infrastructure acquires majority stake in Norway\u2019s Lefdal Mine Datacenter",
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRTg2dHgtdkotTTF1QXJ2elhPalI4VEZ6ck41ZDh2OHdQbGlVbDZNUVNQdURSNTc4UjI1a3JpM3MwMlF5dEZ4ZXBuTVYyczN1b1Bmd19IM3BPRVhCWV9hT245VlF6YXZLbjRnUGQzbmJDbWhjV1lMX0hqa0JYSXd5VHI0U2RlblZvN3VsdUxWWFhFOFEycG9VVFpaUEltTUVEVkQ3VjdjR2NLN2ZaWG5xRk9CNkYwS0Y3d1VB?oc=5",
     "source": "Data Center Dynamics",
@@ -1651,15 +2130,6 @@
     "tags": [
       "coreweave"
     ]
-  },
-  {
-    "title": "Virginia has a data center boon. Officials debate whether it's time to scrap its tax breaks",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbklmdXlMTm5xeTIwMnFESWJpVWpMeWozRV9LWWxTZ2pKbW1rZHk1REYxa2RpRWFWcm1ONW1WWFFzeHFnaEMtVzQ1MFZRX1lwZHZSSEFEVXk5alItRS1Ta2IxQ2VDcW5LN1hrZTFIU3h5TFB2eWF3WWlxZjBDcmFGcVdzaEZhTXY0QlR0cEdPc1ZxVUEtRmVkNjRfRkh0ano2enBfVHY5WVl4dk5YS0NxRFVXbGkyZ0tBWl9MdkdWbVpyUDliTHdqMENwQQ?oc=5",
-    "source": "KSAT",
-    "published": "2026-03-11T12:12:10+00:00",
-    "snippet": "Virginia has a data center boon. Officials debate whether it's time to scrap its tax breaks\u00a0\u00a0KSAT",
-    "importance": "low",
-    "tags": []
   },
   {
     "title": "Why does CoreWeave like Lancaster city? Co-founder shares at EDC meeting",
@@ -1711,22 +2181,26 @@
     "tags": []
   },
   {
-    "title": "Lucas calls out Spanberger and House on data center tax breaks",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRWdXSUoxbnB3Wjh2M2dKQkZiOVlPZmpUV1g1YVR4RkJ0MHlpRHMyb05vUXdaWkdUQk1EbmFvVVItOTUwVFVyMzV5eHNtTkhXMXRhNk1Xb3c2bGZJb28wb3pSZWg0cWNNT1VMZDZOTWx5OUlzQmlONFB4bG14djM5WDNIWEV0VjlvcEU2c1F2Wm0ydUdHempSZw?oc=5",
-    "source": "Virginia Scope",
+    "title": "\u2018Fundamental misunderstanding\u2019: Oracle refutes recent media reports about Abilene data center",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR2hLdEpucUNicmFfX3FfTlk3VkpmZ1drXzF1TnJER3hRNTVndHlNQ2pVX2J3YmdwanNsLS1KSEdtenk0R1pKdWhEa2o3N0h1dHk4NEppak02dklLLVZUaFgxMTFacHY4R0JqTnVXdEhvQThkYlFXVUYxRnpnZnpnUWtBaF9BeHgwTDFWTk9CQ1hkT1JzVlRVYlRERDU?oc=5",
+    "source": "Yahoo Finance",
     "published": "2026-03-10T07:00:00+00:00",
-    "snippet": "Lucas calls out Spanberger and House on data center tax breaks\u00a0\u00a0Virginia Scope",
+    "snippet": "\u2018Fundamental misunderstanding\u2019: Oracle refutes recent media reports about Abilene data center\u00a0\u00a0Yahoo Finance",
     "importance": "low",
-    "tags": []
+    "tags": [
+      "investment"
+    ]
   },
   {
-    "title": "Data centers play role in Virginia budget talks as session nears end",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaXFWdkNqVGpLUFZBMFdKemxKZmZVWmI2SjIzczQxdlFPTzFjek5GUTdGdEtSSTI0Qmd5WXNhR1JJX2xMN3RoQTQ5Z0JYLVJra0ZZWTMweE95ZDU1UnkyRVNEUGNfUlMxZnJEWWxjS0NEVEtSekREQUkxTWItcmVpeXFBNk9PRlhlbTlfdC1B?oc=5",
-    "source": "WTVR.com",
-    "published": "2026-03-10T07:00:00+00:00",
-    "snippet": "Data centers play role in Virginia budget talks as session nears end\u00a0\u00a0WTVR.com",
+    "title": "Frontier Group: Georgia town confronts data center impact on local environment",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNel9WbGs2RTB4UkV5dmVRVkpOY2tuM3hXeHh1WHJLRkNpMjlPZF9KekdhNzBpUXBVcVk5a2FfQlYwR0xXcTFkRHhjcmFwLXQ1Zk5PeUF1dnBIZ3IwcmdDeEpiOVpzMmI0SDFUZzVYdWV3OUJxZHY2am9ZRW9zd1VRc3A0T20?oc=5",
+    "source": "Traders Union",
+    "published": "2026-03-09T17:45:15+00:00",
+    "snippet": "Frontier Group: Georgia town confronts data center impact on local environment\u00a0\u00a0Traders Union",
     "importance": "low",
-    "tags": []
+    "tags": [
+      "policy"
+    ]
   },
   {
     "title": "CoreWeave, Inc. (CRWV) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit",
@@ -1738,6 +2212,24 @@
     "tags": [
       "coreweave"
     ]
+  },
+  {
+    "title": "Optical technologies redefine data center interconnection driven by AI surge, Viavi Solutions argues",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRmNoZGFTOWZybGh1Nko0MDRBaEk1NWZjeXFVcmcxU1pBUWYwUGdfbllPanRtWWpJbnM2bjBzZFZrbVRueXlKX21iTTVSUkVqcmhWenZaUEZvd192ekN2alo5amtUUFlVT2llWGtzNDFPR1c5RGtIWEdob0N3V1hScnVRRQ?oc=5",
+    "source": "Traders Union",
+    "published": "2026-03-09T14:45:22+00:00",
+    "snippet": "Optical technologies redefine data center interconnection driven by AI surge, Viavi Solutions argues\u00a0\u00a0Traders Union",
+    "importance": "low",
+    "tags": []
+  },
+  {
+    "title": "PA lawmakers must do more to protect residents from data centers",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQXZTRHBwNG9kaUdPR29weDNrekZGM1gzWmpoVWtxVlBuZUxtdXBkMlhSdkt5RXVRNmQ5bVIzVlduZnh1UHkzSjJ5RHBUbFJlZVFXQjlxMENKWGNPTWR4TVlwZzFoMkhNM3ZVcmcyRjUxTjB3SXZUWkdkTHcxNE5yU1pJVnh2Z0dlNjZjV2tRNVhOM3V0OU5jZ0w0QmxiMGIyZFdIV29qaFVYTWVIeUxGWWNsdHJvOHFUMmRza1VDbm9ZQ2E2TnJNNUZiRUdGVTZN?oc=5",
+    "source": "City & State Pennsylvania",
+    "published": "2026-03-09T13:00:00+00:00",
+    "snippet": "PA lawmakers must do more to protect residents from data centers\u00a0\u00a0City & State Pennsylvania",
+    "importance": "low",
+    "tags": []
   },
   {
     "title": "The data center boom is a diesel generator boom",
@@ -1778,6 +2270,15 @@
     "tags": [
       "investment"
     ]
+  },
+  {
+    "title": "Beijing warns of more chip supply worries after Nexperia China claims it was cut off from SAP",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44enJFdFNMTmtKdTNFMDJDX2FFRi1weUV2bkxCc0h5NlVhQldfNExvUXRENzVIazJ4OHF5UEVDc2xxdzYyZEx5VHIwaXJTaGRCWEhzLVAxYTlMNkd1S2ltZkpjWnQ1ZGxGM2liVnY3bw?oc=5",
+    "source": "theregister.com",
+    "published": "2026-03-09T07:00:00+00:00",
+    "snippet": "Beijing warns of more chip supply worries after Nexperia China claims it was cut off from SAP\u00a0\u00a0theregister.com",
+    "importance": "low",
+    "tags": []
   },
   {
     "title": "Oracle and OpenAI drop plans for mega Stargate AI US data center",
@@ -1842,27 +2343,6 @@
     ]
   },
   {
-    "title": "First Trust Advisors LP Acquires 1,820,101 Shares of CoreWeave Inc. $CRWV",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUHlxaHBkZVUtbENsNTRfVnJuQmhpdDdHV0g1MHJkTVRpS1oyZjJyR0FreFlTUXJPcEVJVlNDMkpaeEVvNk1CaWlTRlF0MUNWdUFLazFpVUhzTWtqbTZXakpMT2FnSEllbHBnbkc1ZXhmR3dyOHczRjRIcTZ3bGNKQ1dFWFVHSUd3OTVTRkttUUVqRXQwSW9aTVc2aWNQR1NkUlVHOUk1T3ZQTVlvT0JBcnVoamNpaGxGMEp3NUZKQnhSSkdkVXhDMklB?oc=5",
-    "source": "MarketBeat",
-    "published": "2026-03-08T08:00:00+00:00",
-    "snippet": "First Trust Advisors LP Acquires 1,820,101 Shares of CoreWeave Inc. $CRWV\u00a0\u00a0MarketBeat",
-    "importance": "low",
-    "tags": [
-      "investment",
-      "coreweave"
-    ]
-  },
-  {
-    "title": "Oracle Stock (ORCL) Opinions on Job Cuts and AI Data Center Pressures",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPd3JxNkE1WWcwQU1EdGdGVTM0X01zSXVMYnZQX0tYcEYzNDZOQ3BTNXNfVTkxOVN0X1NIVEJXdXl2RFRqOFIxMTRqT3pIdFFHRFJJbHJyV25XZ3NVaFhkWXZibEFFaEpVdWxCeEhEVmozM2I2UkplSHE5NTRmcHVXX0kybHE1MWFiMURLaXJLTW50LWNNa0NDTHBoYkVaQ1Rrd1QtNUZKWXlmZw?oc=5",
-    "source": "Quiver Quantitative",
-    "published": "2026-03-08T08:00:00+00:00",
-    "snippet": "Oracle Stock (ORCL) Opinions on Job Cuts and AI Data Center Pressures\u00a0\u00a0Quiver Quantitative",
-    "importance": "low",
-    "tags": []
-  },
-  {
     "title": "OpenAI vs Anthropic : ChatGPT vs Claude : Dario Amodei vs Sam Altman",
     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50YldqUFBnNGRxOW9IbFZaNTl3VkVuVzMxQlM5TUdsbjJaWk9hQlpDNm0wOVhyY0xPeWJHUlpuYS1HbWI4c18xM2lwVUZ5SGtXalYycVBpRGZUdzN1NWxz?oc=5",
     "source": "Geeky Gadgets",
@@ -1890,6 +2370,17 @@
     "tags": [
       "construction",
       "investment"
+    ]
+  },
+  {
+    "title": "San Antonio City Council looks to zoning to manage data center growth",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMFlWS19EQjExcWN6XzJfMGxEN2hJdXlsd1ZoeC1IWlo5QzNNQU9Ba1BBN0ZGckJLOTA2QjFRWnJ4bF91d1E0WVR0RFB3LW1GYUFrd1NGZDRvSTc4d1dlcm5HdjlyUWFIckpxazJPWkNWVXdBTEJ5aExxaUo5bm1yZFk4NnM2SmlUc1ZwaDVnWjdNNE5wTC00eUhKclQ3eXFYcmVPbGdCb3I0YlVoRUpSWWFBSQ?oc=5",
+    "source": "KSAT",
+    "published": "2026-03-07T08:00:00+00:00",
+    "snippet": "San Antonio City Council looks to zoning to manage data center growth\u00a0\u00a0KSAT",
+    "importance": "low",
+    "tags": [
+      "expansion"
     ]
   },
   {
@@ -1922,6 +2413,17 @@
     "tags": []
   },
   {
+    "title": "CoreWeave (CRWV) Stock: Oppenheimer Sees 92% Upside Despite Recent Challenges",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdHFZN0ZUMHZNUVhDZEswX2xvaW55WjBJeFVLTGpQYzNSZG9xMHZaa1ZxRzFTbjFkSExkcnRVM1pRUG5vM3BRdkNsNUFfS2doUGFqMmFpTEdkeFJaeUxRVldlMlpzTlBBM2xmdi1aT0F0WVhueGttRHR2WDFlRl9KTEZNdW1RWXdFZldhdjZDSFFqbi1VSWRncm12eEpsQQ?oc=5",
+    "source": "MoneyCheck",
+    "published": "2026-03-06T15:32:46+00:00",
+    "snippet": "CoreWeave (CRWV) Stock: Oppenheimer Sees 92% Upside Despite Recent Challenges\u00a0\u00a0MoneyCheck",
+    "importance": "low",
+    "tags": [
+      "coreweave"
+    ]
+  },
+  {
     "title": "MARA\u2019s Strategic Pivot to AI Data Centers: Ushering in a New Era for Bitcoin Mining",
     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMHhWV3NGcUNOcklkRm00WUN2U3ZCWFRjU0x1ek9QS1ZWUFM5WE54blpIV1NlNXgzbGtxUDFXcktYdjRGVWdLb3hnN2g4N3JYbS1YTC1fOXdnMVlLZ0VoUmF6ZEpDaU1IaUhFWVdFdTU4VFRpclJfdTVQZktBdEdBNFp5eEd6SWVfWlFYZU92blRxTWxzanViNF84OG55bURGQmRCU0VNLW9tSG9OYzNlN3BuUl9TaTZvM1dZeHA3TTBOLXJPbnc?oc=5",
     "source": "Disruption Banking",
@@ -1940,6 +2442,15 @@
     "tags": [
       "coreweave"
     ]
+  },
+  {
+    "title": "Douglas Dreher: From Military to Data Centre Security",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUUdsSjVBSWNVRXlmR25ISEFGMl80YVBzYUZfS1hJLU5Nc01kekZaOHVNS2pRSEVldURaVmpZVGI4OFlVS2ZQSnBMUDB0d3BEMlFlZFRSdHpiYzZYSFdNQngyM1d4aTNxazd4dFktcHhMY0VBcS1neXZvTFZrUkVfWVgtWWtaWGN4NmZjTlpkQzBiN1JHWGk1c1Rn?oc=5",
+    "source": "Data Centre Magazine",
+    "published": "2026-03-06T09:57:58+00:00",
+    "snippet": "Douglas Dreher: From Military to Data Centre Security\u00a0\u00a0Data Centre Magazine",
+    "importance": "low",
+    "tags": []
   },
   {
     "title": "Georgia bill to repeal new data center tax breaks advances out of Senate",
@@ -2020,6 +2531,15 @@
     ]
   },
   {
+    "title": "Oracle layoffs: Software company plans thousands of job cuts as data center costs rise",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSzhxeUVkcUQ2QWxBanB0UHJsd2p3YWlRWFRSLWZzMnlqei03M3FneDZOU1VleVpCUVA0eFNuTXl2VjJaWXZvYmtPS01nOXktOGM1ekw5SGZ3bDhmQ2huTEx5R3FnWmprTDQwbVRKYVdYUkR2WU01aFpjOTdtWlFXd0hRMXRsY2xRNHdlYlZGd0JnNHRTdmNTdm0zTERydG5PYm9kWXdISFZWcDkxUzBjT2g0Sm5ZbG05QVhBZlRn0gHDAUFVX3lxTE8zZ0ZZTS1IRHZzcm1taW9JTV9Senp3NjM1X1hWQWlaMVpwVkJfa1gwdG9QMHNzQXF4cmwtbGphLTJFcmJ3TU1RMVVxTTItNF9xYkpSZzE0Y2I1LWt6eGpVNGM1X2I2ME9UaF9EVlcxOEp3MFp5X0tTbHFhNFROcXY2R0ZNbVBzRjRncHB1TjRrczIwSWFla0hGSlIteHdGMkhacF8tTUlZbjh4RmNuV3BpcmFIQkQyZ2NHRlNUUWQ5UzJadw?oc=5",
+    "source": "Firstpost",
+    "published": "2026-03-06T08:00:00+00:00",
+    "snippet": "Oracle layoffs: Software company plans thousands of job cuts as data center costs rise\u00a0\u00a0Firstpost",
+    "importance": "low",
+    "tags": []
+  },
+  {
     "title": "Elon Musk Has One Word As Saudi Arabia Eyes Turning $500B Sci-Fi City Into AI Hub",
     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9RYzZhWXp2RktMUzVsUEZ6N0syZUpEQTg2QWktcDMxVWIzanhSQmZ6Ui1ZU0RiQ2tWNjJSVzdJZ2huRXdnZlFYSG13cHNkNW4xR21fS2QwYVUtRGtPRFHSAWNBVV95cUxNYWtPakJqdUo4RlQ1S3BiWEZ6cnA2X3lTQzV4WjFGWk9JWUR1eTBNNEtuRVZqUlpZRHlCQ1VyLWo1MHpIQThTLWtLX0N5VVd4cWxXVnR5MVFCWF9NMEg4emg2Vm8?oc=5",
     "source": "Bitget",
@@ -2036,122 +2556,6 @@
     "source": "SuperTalk Mississippi Media",
     "published": "2026-03-05T17:46:43+00:00",
     "snippet": "Clinton mayor looks to squash concerns over Amazon data center project\u00a0\u00a0SuperTalk Mississippi Media",
-    "importance": "low",
-    "tags": []
-  },
-  {
-    "title": "Ohio GOP leaders plan override of DeWine's veto restoring data center tax break",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYnQtSnUyN3E5Z3V2UW44NnBlUDczZ290aUNHWkJJY295eWh2VDVnc3ctNmN0TG56emc4ODBNNDRYYmVLcWIxTE9RTjNyNm5JOWd0bHc2ZDJHUEZkcjZNZERHQkxxUlY2TlhZTUZaUk9BM19UNTR1VURPVW5McHZ5bWppZlpnUlUxVW5ZU2htYVpZZWNjeUxMOVktMjBLakR2em10RjYxMWlYaGtjUm9CcDBtV2ozLXl2eHVoVGkxQ0xhR3pIUDVjb1I2VnM4dFpv?oc=5",
-    "source": "The Statehouse News Bureau",
-    "published": "2026-03-05T08:00:00+00:00",
-    "snippet": "Ohio GOP leaders plan override of DeWine's veto restoring data center tax break\u00a0\u00a0The Statehouse News Bureau",
-    "importance": "low",
-    "tags": []
-  },
-  {
-    "title": "Zeeland Township approves data center moratorium as solar farm debate continues",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYkF0OHBvMFZ0U3d1emZjOHJzUWtQdkx2a2RRd2NTZ29kVzBITF9VOFdHT2ZwLWtsa2Q3OEV6OEc3YVlTWEtFNk9VdXhPQjZkS3VOVzNVWnZOdFpDbFBJRXIzMFFlWU53dTZkOE5FQktaMWFnYUg5dy0xRmV6WVVzNFRDOVRLVkZ3ZS1lRVV1UlJ4WHdDMWw5Zjg2S3NURHd6dXZ3Y3JRenZDTHg3WW5KS0tkc0x5Zk55RzRuMFpFZUUzeU50Zll0c3RrVW1BcjE1OHo3bXNR?oc=5",
-    "source": "FOX 17 West Michigan News",
-    "published": "2026-03-05T08:00:00+00:00",
-    "snippet": "Zeeland Township approves data center moratorium as solar farm debate continues\u00a0\u00a0FOX 17 West Michigan News",
-    "importance": "low",
-    "tags": []
-  },
-  {
-    "title": "Luzerne County updates residents on proposed data center zoning amendment",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVWZhYlhzbzVjT3VoN0JfcnhiTS1ZbTJ1TlJqOS1nTTgzazFJYVhnYXQ5S1ZSSlpmUkhCWXlIODlScENmLUZlQlNrWkMwRndHdWdPZHdaSy1ZV3dwZVc0SWozUTJrbnRaMUw0czFyTGNzbDdpN012b2tpX0UwZndwQlU5MTkwVkhPRXBLbmxJVzYtVl9UblFoVDMwQzJXRTl4YUt4ZGFhNUNPTUR0SkVDd25ES1g?oc=5",
-    "source": "Times Leader",
-    "published": "2026-03-05T08:00:00+00:00",
-    "snippet": "Luzerne County updates residents on proposed data center zoning amendment\u00a0\u00a0Times Leader",
-    "importance": "low",
-    "tags": []
-  },
-  {
-    "title": "CoreWeave's CapEx Shock Spooks The Market (NASDAQ:CRWV)",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZjhLR0pmaGF2VTdMY1pZekEtNFZtVXFScF9lM3FkZVpoTm5jWVVadmRZMG42N19SMFRxeFRMUXhFbVc5LVdMUjRLMnFMYS02R3pDX1p4bDl2Rl8zUE9tX3VlSTZSaTR3ZVdBUkZTVm5fMzFqd3pnLUh5YWFWQjFmLXhWczBXRG8?oc=5",
-    "source": "Seeking Alpha",
-    "published": "2026-03-05T08:00:00+00:00",
-    "snippet": "CoreWeave's CapEx Shock Spooks The Market (NASDAQ:CRWV)\u00a0\u00a0Seeking Alpha",
-    "importance": "low",
-    "tags": [
-      "coreweave"
-    ]
-  },
-  {
-    "title": "CoreWeave Stock (CRWV) Plunges as Bernstein Assigns Sell Rating, Says It Is \u2018Meaningfully Overvalued\u2019",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLW5selVCdUlMVTZzc2RfV3E0cEluY0tfbl9PUHpzdzFwVUlfYkFOX2NONTJvWEE2UlJ3dW1LM0JfZ05wbUQwNFczMlZuVUcwU2NiRmstaGhLZWZxbUFZMTNyUk85OWIxNTFyZ0V1NmZYZmhHY1l3MGs5WFdOMEZjNUNOdkJ0ZHJLM3cteTBTOVRybFJ6S3NITmk2YWtwcmJ3QkNEZVVVaXllRURIV1oxMEs0NjZYd0dKLTdYTTk1S3U5alQt?oc=5",
-    "source": "TipRanks",
-    "published": "2026-03-05T08:00:00+00:00",
-    "snippet": "CoreWeave Stock (CRWV) Plunges as Bernstein Assigns Sell Rating, Says It Is \u2018Meaningfully Overvalued\u2019\u00a0\u00a0TipRanks",
-    "importance": "low",
-    "tags": [
-      "coreweave"
-    ]
-  },
-  {
-    "title": "Meta says its AI-optimized data centers support the US economy",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONEc2UHNITkhTS0toQ2pkeG91Sm43YWU1SWxFNFowNU9KUzFtSU1sR0c3RkJ2NE5RRGJUS0FiTkdfeE04Q3ZoYlRqU29rSUhNMXZpRHZUVUtOLXh3ODRnWE9xNVZSdFluTUtXVnFHRVU1YXZnUUxnWkR1NkdfTnpEeDNUS09GMTV0bERwSHk5TFpIM1Rxa25xYVBWWXRLaDIzdjAwVE5oYndac1Rf?oc=5",
-    "source": "Social Media Today",
-    "published": "2026-03-05T08:00:00+00:00",
-    "snippet": "Meta says its AI-optimized data centers support the US economy\u00a0\u00a0Social Media Today",
-    "importance": "low",
-    "tags": [
-      "social"
-    ]
-  },
-  {
-    "title": "Data center regulation bill passes South Dakota House",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdnh6UHpwblFYM0xMME94U3JxdDFDUFFPUWNEY0xiR2FjaUNINkNNb192ZUczZWdTYWtQRlNDZmw4UHBPZy1ZMlFjZTk5YWc2NDhkR001dW51SXU3MTFtdDJ5WUd1N0cyWVUwc19EOTRkd2hYMXk3NUJoOGVHQ0p6SE9xa196WEluZEIydmRqc3NOYnBkVkl2Ukx4ZXlFTlNoMGc?oc=5",
-    "source": "South Dakota Searchlight",
-    "published": "2026-03-05T08:00:00+00:00",
-    "snippet": "Data center regulation bill passes South Dakota House\u00a0\u00a0South Dakota Searchlight",
-    "importance": "low",
-    "tags": [
-      "policy"
-    ]
-  },
-  {
-    "title": "Delaware's largest data center proposal charges forward despite hurdles",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQzcweFdrY3U5YTZGUzdDZGZjVXlEOWFuNXgwdkVGdmFsek5wekU2dnpJeXItalhLQkhvWWNzeGVnV3ZoUzc5d29yZGgweGVQeUlDdWc1cHJXS0pzMzI3b25GaUJ2VWlIX3daZlJPNFZRU09oMVVBaUhLaTRuRTEtVmdSQWNlcVJWS3dUdmdNUXl3Rk96c0ZNODdSTUhydUEyZlE3aHJURTB6dVRYZTlGYWJqbWZDWHF2VDczN1NqN0pieDg2OFhRbXRjSXdiUGNURWJyeThaVQ?oc=5",
-    "source": "The News Journal",
-    "published": "2026-03-05T08:00:00+00:00",
-    "snippet": "Delaware's largest data center proposal charges forward despite hurdles\u00a0\u00a0The News Journal",
-    "importance": "low",
-    "tags": []
-  },
-  {
-    "title": "Monterey Park moves to ban data centers as it braces for possible lawsuit",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LZzFjaDF4YXZNNzV5UEdla0F4TWRnZklGc3ZvVGlxd3dRbjZieHU1XzUtY1VFVlFVem1IVFFNdVU5c3JrR3VVUTA1UF8zOFpwQjZrOUlVTmJVcDctcWt1MXk5MFp1WFZPeW5OakFIakdHdw?oc=5",
-    "source": "LAist",
-    "published": "2026-03-05T08:00:00+00:00",
-    "snippet": "Monterey Park moves to ban data centers as it braces for possible lawsuit\u00a0\u00a0LAist",
-    "importance": "low",
-    "tags": []
-  },
-  {
-    "title": "\u2018Americans are still concerned...\u2019 says Trump, deal on data centers will lower electricity prices",
-    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQU3FiZXZaZFh5RjQ5MVZUVXN2ODRBWHVfZFlCMUFUYVdlc0g2UDVqaWc3V2RBOGd2YjhmcG1fSGY4TDlLMl8yVkVBd25lRTE5QzlnNkRlU05kMkdaQzBaSnNCamdESnVaTzZIdXNlSnN5eDdvT1Z6NG55ZFdOd3lIaWJFMlNpRWV2dmxISFNaa01fUGFBYlJDUmNxZ0NHTDZOeDZVQUNiNGtPdXNmUFJkSDBVWk5qaVMzUlEta3FNTUhpOTkwWlBWYWctMnlZX2t1YVVkOVZscGtTMEJTMjMyeUVzU29vaUdneHE0NW55T2ZtUVFSdWxCbllrNUxtdjZEaGJn0gGIAkFVX3lxTE0xRmwtZnN6OV9iLTM1TW9QLXZYOVlkdzYzX1B4R0RCYVRfMnpKSWFfeXh4dklnSU5Fck94akdncjlwdk1kellseklaZGc2RzBkZnpZeW1oVTA3WlA5ZjNKV0NOTkNzLTB3Tm9zcWdhM3prVnNmeGtZaXB3dVZSNkVrN1hSR01KQW55MDVUTWNxR25ZQ1pCeFptNl9SSWM1YlJyeEhubERPSlhRVU9tSjBFY0x4b3FVekEwYVVPSlZwcDg5ZXpaUjh1bGpranRJeWg4alhPcy01THFKSGFucTRUOS1FM2JKdklHdEJ3V3BSRVpmb0llcWg5LWJtWk5CRHpkQkVLYms4cA?oc=5",
-    "source": "The Economic Times",
-    "published": "2026-03-05T08:00:00+00:00",
-    "snippet": "\u2018Americans are still concerned...\u2019 says Trump, deal on data centers will lower electricity prices\u00a0\u00a0The Economic Times",
-    "importance": "low",
-    "tags": []
-  },
-  {
-    "title": "Vnet is said to secure data centre deal with TikTok owner ByteDance",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY21LV3JQSWtiR1EtU0tlX0JfSHVXc09CV2NxYTEwSjV5RDl2VXF0dDhBOGhiNDdZSFNfeGFLVkRWVHNTNDBkd0tHcjNpY1RvNndxTXN6bzF1SG9XTTh6ZkRaRkFpRk1EXzNISnZYUmF6aVpUd0tza1RJb1dWbVp6c204bnNsaDZFVEFQQ3JrejczWHpfcFM0cGNyUDlUOHI0aWdfN1ZXRmdnbC0wdUExOUNhQlI0OGRmUlBYdg?oc=5",
-    "source": "The Star",
-    "published": "2026-03-05T08:00:00+00:00",
-    "snippet": "Vnet is said to secure data centre deal with TikTok owner ByteDance\u00a0\u00a0The Star",
-    "importance": "low",
-    "tags": []
-  },
-  {
-    "title": "3 Stocks Outside of Tesla Elon Musk Would Buy Today \u2014 Should You?",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdXk3alVrSmlLWUU0bG1lRU1LZ1Y0ZXNqalM0RWRSMk5Ybi1fUVJhQkxkeEtoTWtYVUFXZnFQYi1ZMl84TzlVUG5IZkp0UnNVVnhCaXpSZ1VJTUlzV2Y1RW9BN1F3SkFmVHpwVmtJYkQyNXI4amZhdUNDZS1xUjFyTmhVRUJpeTNXX2hqcXc5dTl3N1R2SEF6bXVyUENhQ3RmNjNJ?oc=5",
-    "source": "24/7 Wall St.",
-    "published": "2026-03-05T08:00:00+00:00",
-    "snippet": "3 Stocks Outside of Tesla Elon Musk Would Buy Today \u2014 Should You?\u00a0\u00a024/7 Wall St.",
     "importance": "low",
     "tags": []
   }
